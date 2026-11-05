@@ -276,7 +276,7 @@ _ENUM_WORDS: dict[str, list[tuple[str, str]]] = {
     "remote": [
         # Order matters: a post offering remote *or* onsite is remote, but
         # "no remote" must be read before "remote".
-        (r"\bhybrid\b|\bdays? (?:a|per) week in\b|\bin[- ]office \d", "hybrid"),
+        (r"\bhybrid\b|\bdays? ?(?:a |per |/ ?)week\b|\bin[- ]office \d", "hybrid"),
         (r"\bno remote\b|\bnot remote\b|\bremote (?:is )?not\b|\bon[- ]?site only\b|\bin[- ]office only\b", "no"),
         (r"\bremote\b|\bwfh\b|\bfully distributed\b", "yes"),
         (r"\bon[- ]?site\b|\bin[- ]office\b|\bin[- ]person\b", "no"),

@@ -114,6 +114,7 @@ def test_canonical_tech():
     [
         ("remote", "REMOTE (US only)", "yes"),
         ("remote", "Hybrid, 2 days a week in SF", "hybrid"),
+        ("remote", "ONSITE (3 days/week in office)", "hybrid"),
         ("remote", "ONSITE", "no"),
         ("remote", "No remote", "no"),
         ("remote", "Onsite or Remote", "yes"),
