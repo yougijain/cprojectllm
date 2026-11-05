@@ -1,0 +1,11878 @@
+{
+ "seed": 20261106,
+ "excluded_gold_candidates": 390,
+ "excluded_near_duplicates": {
+  "42017651": {
+   "company": "tandem health"
+  },
+  "42017721": {
+   "company": "norm",
+   "near": 42921376,
+   "jaccard": 0.539
+  },
+  "42017744": {
+   "company": "plantingspace"
+  },
+  "42017787": {
+   "company": "credcore"
+  },
+  "42017857": {
+   "company": "rinse",
+   "near": 44164296,
+   "jaccard": 0.351
+  },
+  "42017971": {
+   "company": "layer health"
+  },
+  "42017973": {
+   "company": "costa security",
+   "near": 43584429,
+   "jaccard": 0.594
+  },
+  "42018134": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 1.0
+  },
+  "42018139": {
+   "company": "tracebit",
+   "near": 42297690,
+   "jaccard": 1.0
+  },
+  "42018270": {
+   "company": "mattermost"
+  },
+  "42018288": {
+   "company": "happy scribe",
+   "near": 42297599,
+   "jaccard": 0.825
+  },
+  "42018352": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.85
+  },
+  "42018648": {
+   "company": "tryhackme"
+  },
+  "42018650": {
+   "company": "fullstory"
+  },
+  "42018700": {
+   "company": "scotch",
+   "near": 42301614,
+   "jaccard": 1.0
+  },
+  "42018751": {
+   "company": "medusa",
+   "near": 42627975,
+   "jaccard": 0.612
+  },
+  "42019076": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.372
+  },
+  "42019142": {
+   "near": 45807771,
+   "jaccard": 0.642
+  },
+  "42019149": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.498
+  },
+  "42019163": {
+   "company": "cleric"
+  },
+  "42019199": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.654
+  },
+  "42019313": {
+   "company": "vivint",
+   "near": 42299045,
+   "jaccard": 1.0
+  },
+  "42019469": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.747
+  },
+  "42019721": {
+   "company": "foxglove",
+   "near": 42300068,
+   "jaccard": 0.431
+  },
+  "42019750": {
+   "company": "comulate"
+  },
+  "42019783": {
+   "company": "smarkets"
+  },
+  "42019869": {
+   "company": "beautiful"
+  },
+  "42020089": {
+   "company": "promptfoo"
+  },
+  "42020530": {
+   "company": "stanford research computing",
+   "near": 42577935,
+   "jaccard": 0.39
+  },
+  "42020664": {
+   "company": "ae studio",
+   "near": 42577853,
+   "jaccard": 1.0
+  },
+  "42020844": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.473
+  },
+  "42020982": {
+   "company": "aurora energy research"
+  },
+  "42021356": {
+   "company": "graphite",
+   "near": 42925100,
+   "jaccard": 0.883
+  },
+  "42021504": {
+   "company": "godel terminal",
+   "near": 42298925,
+   "jaccard": 1.0
+  },
+  "42021815": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.594
+  },
+  "42022657": {
+   "company": "rabbet",
+   "near": 48819370,
+   "jaccard": 0.464
+  },
+  "42022663": {
+   "company": "sourcegraph"
+  },
+  "42023097": {
+   "company": "repspark"
+  },
+  "42023509": {
+   "company": "freed"
+  },
+  "42023635": {
+   "company": "puraido",
+   "near": 42929511,
+   "jaccard": 0.882
+  },
+  "42025914": {
+   "company": "cogram"
+  },
+  "42026426": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.676
+  },
+  "42027428": {
+   "company": "hadrius"
+  },
+  "42027465": {
+   "company": "fusionauth"
+  },
+  "42028122": {
+   "company": "lovable"
+  },
+  "42028339": {
+   "company": "interactive brokers"
+  },
+  "42029294": {
+   "company": "queueco",
+   "near": 45513953,
+   "jaccard": 0.401
+  },
+  "42029528": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "42032918": {
+   "company": "senior software engineer"
+  },
+  "42035224": {
+   "company": "plotly",
+   "near": 42612539,
+   "jaccard": 0.504
+  },
+  "42040275": {
+   "company": "lightdash",
+   "near": 44441675,
+   "jaccard": 0.455
+  },
+  "42040869": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.626
+  },
+  "42042428": {
+   "company": "topaz labs",
+   "near": 42922756,
+   "jaccard": 0.459
+  },
+  "42047719": {
+   "company": "alembic"
+  },
+  "42056867": {
+   "company": "chartmogul",
+   "near": 44176786,
+   "jaccard": 0.459
+  },
+  "42067492": {
+   "company": "estuary"
+  },
+  "42087458": {
+   "company": "mintlify"
+  },
+  "42102968": {
+   "company": "office hours"
+  },
+  "42105733": {
+   "company": "absinthe labs"
+  },
+  "42297514": {
+   "company": "temporal technologies",
+   "near": 43243116,
+   "jaccard": 0.866
+  },
+  "42297580": {
+   "company": "plotly",
+   "near": 42612539,
+   "jaccard": 0.476
+  },
+  "42297661": {
+   "company": "plantingspace"
+  },
+  "42297761": {
+   "company": "beautiful"
+  },
+  "42297856": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.85
+  },
+  "42297907": {
+   "company": "topaz labs",
+   "near": 42922756,
+   "jaccard": 0.449
+  },
+  "42298212": {
+   "company": "archie",
+   "near": 43245345,
+   "jaccard": 0.945
+  },
+  "42298224": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.676
+  },
+  "42298242": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.432
+  },
+  "42298304": {
+   "company": "hudson river trading"
+  },
+  "42298378": {
+   "company": "coroot",
+   "near": 42929513,
+   "jaccard": 0.363
+  },
+  "42298745": {
+   "near": 45807771,
+   "jaccard": 0.668
+  },
+  "42299499": {
+   "company": "ae studio",
+   "near": 42577853,
+   "jaccard": 1.0
+  },
+  "42299753": {
+   "company": "costa security",
+   "near": 43584429,
+   "jaccard": 0.594
+  },
+  "42299961": {
+   "company": "monumental",
+   "near": 42019047,
+   "jaccard": 0.541
+  },
+  "42299967": {
+   "company": "norm",
+   "near": 42921376,
+   "jaccard": 0.622
+  },
+  "42299969": {
+   "company": "freed"
+  },
+  "42299993": {
+   "company": "sensei ag",
+   "near": 42022212,
+   "jaccard": 0.814
+  },
+  "42300060": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.631
+  },
+  "42300133": {
+   "company": "aurora energy research"
+  },
+  "42300165": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.462
+  },
+  "42300180": {
+   "company": "sourcegraph",
+   "near": 43246208,
+   "jaccard": 0.796
+  },
+  "42300424": {
+   "company": "klaro"
+  },
+  "42300427": {
+   "company": "harvard library innovation lab",
+   "near": 42586087,
+   "jaccard": 1.0
+  },
+  "42300565": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.545
+  },
+  "42300639": {
+   "company": "doshare"
+  },
+  "42300772": {
+   "company": "duckduckgo"
+  },
+  "42300861": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.762
+  },
+  "42300954": {
+   "company": "sevendays",
+   "near": 42924147,
+   "jaccard": 1.0
+  },
+  "42300975": {
+   "company": "fathom ai notetaker",
+   "near": 42131838,
+   "jaccard": 0.481
+  },
+  "42301000": {
+   "company": "source"
+  },
+  "42301103": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.654
+  },
+  "42301438": {
+   "company": "stanford research computing",
+   "near": 42577935,
+   "jaccard": 0.564
+  },
+  "42301811": {
+   "company": "drone startup"
+  },
+  "42302321": {
+   "company": "rinse"
+  },
+  "42302410": {
+   "company": "fullstory"
+  },
+  "42302814": {
+   "company": "onton"
+  },
+  "42302840": {
+   "company": "credcore"
+  },
+  "42303321": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.815
+  },
+  "42303379": {
+   "company": "cleric"
+  },
+  "42304199": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.301
+  },
+  "42304246": {
+   "company": "return"
+  },
+  "42307208": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.717
+  },
+  "42307312": {
+   "near": 42051836,
+   "jaccard": 0.889
+  },
+  "42308230": {
+   "company": "flexhire",
+   "near": 42631917,
+   "jaccard": 0.821
+  },
+  "42310066": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.654
+  },
+  "42310851": {
+   "company": "interactive brokers"
+  },
+  "42311687": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.403
+  },
+  "42315367": {
+   "company": "chartmogul",
+   "near": 44176786,
+   "jaccard": 0.451
+  },
+  "42315828": {
+   "company": "medusa",
+   "near": 42627975,
+   "jaccard": 0.924
+  },
+  "42316173": {
+   "company": "lightdash",
+   "near": 44441675,
+   "jaccard": 0.448
+  },
+  "42317406": {
+   "company": "elicit"
+  },
+  "42317528": {
+   "company": "layer health"
+  },
+  "42319180": {
+   "company": "stream"
+  },
+  "42319430": {
+   "company": "fusionauth"
+  },
+  "42319939": {
+   "company": "absinthe labs"
+  },
+  "42320284": {
+   "company": "estuary"
+  },
+  "42321864": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.469
+  },
+  "42337489": {
+   "company": "office hours",
+   "near": 42957528,
+   "jaccard": 0.354
+  },
+  "42362509": {
+   "company": "appfolio"
+  },
+  "42412772": {
+   "company": "threeflow",
+   "near": 42662071,
+   "jaccard": 0.805
+  },
+  "42413541": {
+   "company": "alembic"
+  },
+  "42426376": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "42575620": {
+   "company": "tracebit",
+   "near": 42297690,
+   "jaccard": 1.0
+  },
+  "42576015": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.634
+  },
+  "42576133": {
+   "company": "elicit",
+   "near": 43245713,
+   "jaccard": 0.93
+  },
+  "42576170": {
+   "company": "accretional"
+  },
+  "42576179": {
+   "company": "hudson river trading",
+   "near": 42919897,
+   "jaccard": 0.374
+  },
+  "42576676": {
+   "company": "credcore",
+   "near": 42945575,
+   "jaccard": 1.0
+  },
+  "42576683": {
+   "company": "graphite",
+   "near": 42925100,
+   "jaccard": 0.92
+  },
+  "42576690": {
+   "company": "scotch",
+   "near": 42301614,
+   "jaccard": 0.886
+  },
+  "42576746": {
+   "company": "norm",
+   "near": 42921376,
+   "jaccard": 0.674
+  },
+  "42576769": {
+   "company": "centry capital"
+  },
+  "42576784": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.3
+  },
+  "42577000": {
+   "company": "return"
+  },
+  "42577040": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.631
+  },
+  "42577421": {
+   "company": "monumental",
+   "near": 42019047,
+   "jaccard": 0.539
+  },
+  "42577848": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.464
+  },
+  "42577943": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.509
+  },
+  "42577961": {
+   "company": "archie",
+   "near": 43245345,
+   "jaccard": 0.945
+  },
+  "42578075": {
+   "company": "beautiful"
+  },
+  "42578178": {
+   "company": "fullstory"
+  },
+  "42578290": {
+   "company": "foxglove",
+   "near": 42300068,
+   "jaccard": 0.73
+  },
+  "42578330": {
+   "company": "sourcegraph",
+   "near": 43246208,
+   "jaccard": 0.897
+  },
+  "42578466": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.672
+  },
+  "42578533": {
+   "company": "layer health"
+  },
+  "42579381": {
+   "company": "combinaut",
+   "near": 43565297,
+   "jaccard": 0.965
+  },
+  "42579558": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 1.0
+  },
+  "42579560": {
+   "company": "branch"
+  },
+  "42579732": {
+   "company": "plantingspace"
+  },
+  "42579821": {
+   "company": "rinse"
+  },
+  "42579896": {
+   "company": "krea"
+  },
+  "42584031": {
+   "company": "materialize",
+   "near": 42300610,
+   "jaccard": 1.0
+  },
+  "42585874": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.462
+  },
+  "42586710": {
+   "company": "stream",
+   "near": 42018318,
+   "jaccard": 0.735
+  },
+  "42587050": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.654
+  },
+  "42587141": {
+   "company": "allspice"
+  },
+  "42588096": {
+   "company": "estuary"
+  },
+  "42588130": {
+   "company": "drone startup",
+   "near": 43246752,
+   "jaccard": 0.483
+  },
+  "42588195": {
+   "company": "ivo",
+   "near": 43243189,
+   "jaccard": 0.867
+  },
+  "42588272": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "42590163": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.523
+  },
+  "42593990": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.762
+  },
+  "42595426": {
+   "company": "volcore",
+   "near": 44179142,
+   "jaccard": 0.747
+  },
+  "42596501": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.927
+  },
+  "42608646": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.469
+  },
+  "42611127": {
+   "company": "duckduckgo"
+  },
+  "42613021": {
+   "company": "audiencekey reflexive media",
+   "near": 43860766,
+   "jaccard": 1.0
+  },
+  "42614244": {
+   "company": "workhelix",
+   "near": 42019620,
+   "jaccard": 0.659
+  },
+  "42616574": {
+   "company": "mapistry"
+  },
+  "42624904": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.66
+  },
+  "42632472": {
+   "company": "lightdash",
+   "near": 44441675,
+   "jaccard": 0.49
+  },
+  "42635966": {
+   "company": "coder",
+   "near": 43267264,
+   "jaccard": 0.5
+  },
+  "42636341": {
+   "company": "branch"
+  },
+  "42646655": {
+   "company": "freed"
+  },
+  "42648310": {
+   "company": "godel terminal",
+   "near": 42298925,
+   "jaccard": 1.0
+  },
+  "42656844": {
+   "company": "absinthe labs"
+  },
+  "42661519": {
+   "company": "alembic"
+  },
+  "42715106": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.815
+  },
+  "42719282": {
+   "company": "livekit",
+   "near": 43614891,
+   "jaccard": 0.347
+  },
+  "42919561": {
+   "company": "temporal technologies",
+   "near": 43243116,
+   "jaccard": 1.0
+  },
+  "42919574": {
+   "company": "plantingspace"
+  },
+  "42919598": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.301
+  },
+  "42919622": {
+   "company": "tracebit"
+  },
+  "42919655": {
+   "company": "ivo",
+   "near": 43243189,
+   "jaccard": 1.0
+  },
+  "42919696": {
+   "near": 43248561,
+   "jaccard": 0.423
+  },
+  "42919957": {
+   "near": 46148645,
+   "jaccard": 0.783
+  },
+  "42920024": {
+   "company": "elicit",
+   "near": 43245713,
+   "jaccard": 0.93
+  },
+  "42920062": {
+   "company": "mta"
+  },
+  "42920079": {
+   "company": "rinse"
+  },
+  "42920176": {
+   "company": "interactive brokers"
+  },
+  "42920237": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.815
+  },
+  "42920307": {
+   "company": "funnelstory"
+  },
+  "42920417": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.511
+  },
+  "42920495": {
+   "company": "monumental",
+   "near": 43554614,
+   "jaccard": 0.314
+  },
+  "42920514": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 1.0
+  },
+  "42920564": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.453
+  },
+  "42920651": {
+   "company": "go ethereum",
+   "near": 43246938,
+   "jaccard": 1.0
+  },
+  "42920661": {
+   "company": "blue origin",
+   "near": 43548632,
+   "jaccard": 0.337
+  },
+  "42920684": {
+   "company": "promptfoo"
+  },
+  "42920722": {
+   "company": "beautiful"
+  },
+  "42920826": {
+   "company": "duckduckgo"
+  },
+  "42920833": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.518
+  },
+  "42920893": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.471
+  },
+  "42921032": {
+   "company": "freed"
+  },
+  "42921045": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.66
+  },
+  "42921087": {
+   "company": "cogram"
+  },
+  "42921131": {
+   "company": "rentana"
+  },
+  "42921155": {
+   "company": "blackshark ai",
+   "near": 42621273,
+   "jaccard": 0.815
+  },
+  "42921164": {
+   "company": "combinaut"
+  },
+  "42921243": {
+   "company": "fullstory"
+  },
+  "42921250": {
+   "company": "return"
+  },
+  "42921251": {
+   "company": "smarkets",
+   "near": 46871569,
+   "jaccard": 0.304
+  },
+  "42921576": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.672
+  },
+  "42921682": {
+   "company": "stanford research computing",
+   "near": 42577935,
+   "jaccard": 0.574
+  },
+  "42921798": {
+   "company": "materialize",
+   "near": 42300610,
+   "jaccard": 0.753
+  },
+  "42921946": {
+   "company": "costa security",
+   "near": 43584429,
+   "jaccard": 0.624
+  },
+  "42921949": {
+   "company": "foxglove"
+  },
+  "42922080": {
+   "company": "category labs",
+   "near": 47670001,
+   "jaccard": 0.484
+  },
+  "42922229": {
+   "company": "vivint",
+   "near": 42299045,
+   "jaccard": 0.888
+  },
+  "42922503": {
+   "company": "layer health"
+  },
+  "42922835": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.747
+  },
+  "42923053": {
+   "company": "wyndly",
+   "near": 42685486,
+   "jaccard": 0.969
+  },
+  "42923191": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.53
+  },
+  "42923277": {
+   "company": "archie",
+   "near": 43245345,
+   "jaccard": 0.95
+  },
+  "42923919": {
+   "company": "mattermost"
+  },
+  "42924232": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 1.0
+  },
+  "42924863": {
+   "company": "articulate",
+   "near": 43551532,
+   "jaccard": 0.668
+  },
+  "42925072": {
+   "company": "fusionauth"
+  },
+  "42925322": {
+   "company": "sourcegraph",
+   "near": 43246208,
+   "jaccard": 0.948
+  },
+  "42925689": {
+   "company": "drone startup",
+   "near": 43246752,
+   "jaccard": 0.483
+  },
+  "42926804": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.319
+  },
+  "42927774": {
+   "company": "krea"
+  },
+  "42929495": {
+   "company": "switch foundation",
+   "near": 42646591,
+   "jaccard": 0.913
+  },
+  "42929814": {
+   "company": "queueco",
+   "near": 45513953,
+   "jaccard": 0.401
+  },
+  "42929984": {
+   "company": "aurora energy research",
+   "near": 48758445,
+   "jaccard": 0.359
+  },
+  "42931339": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.634
+  },
+  "42931350": {
+   "company": "lightdash",
+   "near": 44441675,
+   "jaccard": 0.49
+  },
+  "42938569": {
+   "company": "materialize"
+  },
+  "42939577": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.822
+  },
+  "42946425": {
+   "company": "happy scribe",
+   "near": 42297599,
+   "jaccard": 0.737
+  },
+  "42964102": {
+   "company": "coder",
+   "near": 43267264,
+   "jaccard": 0.758
+  },
+  "42964270": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 0.904
+  },
+  "42965641": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 0.958
+  },
+  "42966252": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.452
+  },
+  "42976605": {
+   "company": "enveritas"
+  },
+  "43000658": {
+   "company": "estuary"
+  },
+  "43005637": {
+   "company": "medusa",
+   "near": 42627975,
+   "jaccard": 1.0
+  },
+  "43243226": {
+   "company": "plantingspace"
+  },
+  "43243228": {
+   "near": 44435151,
+   "jaccard": 0.553
+  },
+  "43243241": {
+   "company": "modash"
+  },
+  "43243283": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.903
+  },
+  "43243378": {
+   "company": "foxglove"
+  },
+  "43243434": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 1.0
+  },
+  "43243632": {
+   "company": "maven",
+   "near": 42306988,
+   "jaccard": 0.763
+  },
+  "43243706": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "43243780": {
+   "company": "duckduckgo"
+  },
+  "43243792": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.7
+  },
+  "43243810": {
+   "company": "norm",
+   "near": 42921376,
+   "jaccard": 1.0
+  },
+  "43243834": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "43243844": {
+   "company": "funnelstory"
+  },
+  "43244141": {
+   "company": "rinse"
+  },
+  "43244148": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.495
+  },
+  "43244207": {
+   "company": "credcore",
+   "near": 42945575,
+   "jaccard": 0.64
+  },
+  "43244210": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.672
+  },
+  "43244273": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.453
+  },
+  "43244368": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 1.0
+  },
+  "43245105": {
+   "company": "beautiful"
+  },
+  "43245293": {
+   "company": "interactive brokers",
+   "near": 44436059,
+   "jaccard": 1.0
+  },
+  "43245362": {
+   "company": "fullstory"
+  },
+  "43245373": {
+   "company": "vivint",
+   "near": 42299045,
+   "jaccard": 0.727
+  },
+  "43245390": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.439
+  },
+  "43245420": {
+   "company": "zed industries"
+  },
+  "43245443": {
+   "company": "repspark"
+  },
+  "43245876": {
+   "company": "puma tech",
+   "near": 42021224,
+   "jaccard": 0.822
+  },
+  "43246390": {
+   "company": "rentana"
+  },
+  "43246832": {
+   "near": 42976176,
+   "jaccard": 0.576
+  },
+  "43247008": {
+   "company": "branch",
+   "near": 42939450,
+   "jaccard": 0.601
+  },
+  "43247372": {
+   "company": "monumental",
+   "near": 43554614,
+   "jaccard": 0.314
+  },
+  "43247390": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.842
+  },
+  "43247803": {
+   "company": "wyndly"
+  },
+  "43247872": {
+   "company": "enveritas"
+  },
+  "43247922": {
+   "company": "rabbet",
+   "near": 48819370,
+   "jaccard": 0.464
+  },
+  "43247933": {
+   "company": "sewerai"
+  },
+  "43248224": {
+   "company": "stream"
+  },
+  "43248954": {
+   "near": 43616989,
+   "jaccard": 0.678
+  },
+  "43249061": {
+   "company": "parable",
+   "near": 42921557,
+   "jaccard": 0.671
+  },
+  "43249066": {
+   "company": "puraido"
+  },
+  "43249172": {
+   "company": "branch"
+  },
+  "43250380": {
+   "company": "alembic"
+  },
+  "43251103": {
+   "company": "chartmogul",
+   "near": 44176786,
+   "jaccard": 0.693
+  },
+  "43252048": {
+   "company": "blackshark ai",
+   "near": 42621273,
+   "jaccard": 0.815
+  },
+  "43252171": {
+   "company": "mintlify"
+  },
+  "43252191": {
+   "company": "aurora energy research",
+   "near": 48758445,
+   "jaccard": 0.427
+  },
+  "43252245": {
+   "company": "happy scribe",
+   "near": 42297599,
+   "jaccard": 0.764
+  },
+  "43252365": {
+   "company": "arenko",
+   "near": 42971560,
+   "jaccard": 0.845
+  },
+  "43252573": {
+   "company": "prior labs"
+  },
+  "43253594": {
+   "company": "senior software engineer"
+  },
+  "43253755": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.537
+  },
+  "43254131": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.511
+  },
+  "43255504": {
+   "company": "cogram"
+  },
+  "43256817": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.524
+  },
+  "43257106": {
+   "company": "jam",
+   "near": 43550309,
+   "jaccard": 0.925
+  },
+  "43257726": {
+   "company": "onton",
+   "near": 44765434,
+   "jaccard": 0.763
+  },
+  "43257823": {
+   "company": "return"
+  },
+  "43257975": {
+   "company": "layer health"
+  },
+  "43258615": {
+   "company": "mongodb"
+  },
+  "43260010": {
+   "company": "livekit",
+   "near": 43614891,
+   "jaccard": 0.312
+  },
+  "43260056": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 1.0
+  },
+  "43260296": {
+   "company": "absinthe labs",
+   "near": 44510172,
+   "jaccard": 0.696
+  },
+  "43268049": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "43271075": {
+   "company": "fathom ai notetaker",
+   "near": 42131838,
+   "jaccard": 0.398
+  },
+  "43285744": {
+   "company": "freed",
+   "near": 44447602,
+   "jaccard": 0.472
+  },
+  "43289376": {
+   "company": "autokroma"
+  },
+  "43315386": {
+   "company": "office hours"
+  },
+  "43333582": {
+   "company": "tandem health"
+  },
+  "43344553": {
+   "company": "larridin"
+  },
+  "43547613": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "43547617": {
+   "company": "ivo",
+   "near": 43243189,
+   "jaccard": 1.0
+  },
+  "43547629": {
+   "company": "tracebit"
+  },
+  "43547678": {
+   "company": "reckon digital"
+  },
+  "43547685": {
+   "company": "beautiful"
+  },
+  "43547726": {
+   "near": 44435151,
+   "jaccard": 0.571
+  },
+  "43547757": {
+   "company": "absinthe labs",
+   "near": 44510172,
+   "jaccard": 0.935
+  },
+  "43547793": {
+   "company": "elicit",
+   "near": 43245713,
+   "jaccard": 0.805
+  },
+  "43547848": {
+   "company": "tandem health"
+  },
+  "43548119": {
+   "company": "plantingspace"
+  },
+  "43548231": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.453
+  },
+  "43548262": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.669
+  },
+  "43548465": {
+   "company": "fathom ai notetaker",
+   "near": 42131838,
+   "jaccard": 0.398
+  },
+  "43548471": {
+   "company": "cvector"
+  },
+  "43548770": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "43549474": {
+   "company": "freed",
+   "near": 44447602,
+   "jaccard": 0.439
+  },
+  "43549632": {
+   "company": "lovable"
+  },
+  "43549753": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.794
+  },
+  "43549864": {
+   "company": "duckduckgo"
+  },
+  "43549972": {
+   "company": "hudson river trading",
+   "near": 42919897,
+   "jaccard": 0.406
+  },
+  "43549975": {
+   "company": "larridin"
+  },
+  "43550142": {
+   "company": "sourcegraph",
+   "near": 43246208,
+   "jaccard": 0.872
+  },
+  "43550217": {
+   "company": "source"
+  },
+  "43550611": {
+   "company": "jane street",
+   "near": 44436953,
+   "jaccard": 0.573
+  },
+  "43550698": {
+   "company": "innovint",
+   "near": 43244661,
+   "jaccard": 1.0
+  },
+  "43551732": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.953
+  },
+  "43551810": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.61
+  },
+  "43552825": {
+   "company": "archie",
+   "near": 43245345,
+   "jaccard": 1.0
+  },
+  "43554592": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 1.0
+  },
+  "43554779": {
+   "company": "arenko",
+   "near": 46945618,
+   "jaccard": 0.947
+  },
+  "43555178": {
+   "company": "credcore"
+  },
+  "43555677": {
+   "company": "category labs"
+  },
+  "43555683": {
+   "company": "stealth gpu optimization startup"
+  },
+  "43556073": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.616
+  },
+  "43557147": {
+   "company": "fullstory",
+   "near": 43858876,
+   "jaccard": 0.365
+  },
+  "43557653": {
+   "company": "puraido"
+  },
+  "43557860": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.636
+  },
+  "43558254": {
+   "company": "narrative i o"
+  },
+  "43558533": {
+   "company": "interactive brokers",
+   "near": 44436059,
+   "jaccard": 1.0
+  },
+  "43558728": {
+   "company": "norm",
+   "near": 42921376,
+   "jaccard": 0.65
+  },
+  "43559857": {
+   "company": "solace health"
+  },
+  "43561830": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.919
+  },
+  "43562471": {
+   "company": "fusionauth"
+  },
+  "43562576": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.7
+  },
+  "43563154": {
+   "company": "onton",
+   "near": 44765434,
+   "jaccard": 0.816
+  },
+  "43564151": {
+   "company": "foxglove"
+  },
+  "43566625": {
+   "near": 48399564,
+   "jaccard": 0.561
+  },
+  "43568133": {
+   "company": "queueco",
+   "near": 45513953,
+   "jaccard": 0.398
+  },
+  "43569340": {
+   "company": "coder",
+   "near": 43267264,
+   "jaccard": 0.386
+  },
+  "43569921": {
+   "company": "layer health"
+  },
+  "43570793": {
+   "company": "flexhire",
+   "near": 42631917,
+   "jaccard": 0.65
+  },
+  "43572200": {
+   "company": "altar",
+   "near": 43243448,
+   "jaccard": 1.0
+  },
+  "43574725": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.495
+  },
+  "43580055": {
+   "near": 45807771,
+   "jaccard": 0.715
+  },
+  "43588025": {
+   "company": "alembic"
+  },
+  "43606672": {
+   "company": "drone startup",
+   "near": 43246752,
+   "jaccard": 0.858
+  },
+  "43612652": {
+   "company": "workhelix",
+   "near": 43896666,
+   "jaccard": 0.953
+  },
+  "43619449": {
+   "near": 45097832,
+   "jaccard": 0.574
+  },
+  "43625117": {
+   "company": "enveritas"
+  },
+  "43652035": {
+   "company": "jurisphere"
+  },
+  "43652851": {
+   "company": "prior labs"
+  },
+  "43672669": {
+   "company": "telli"
+  },
+  "43858587": {
+   "company": "goody"
+  },
+  "43858615": {
+   "company": "ivo",
+   "near": 43243189,
+   "jaccard": 0.904
+  },
+  "43858692": {
+   "company": "tandem health"
+  },
+  "43858776": {
+   "company": "solace health",
+   "near": 44170432,
+   "jaccard": 0.699
+  },
+  "43858831": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.675
+  },
+  "43858874": {
+   "company": "tracebit"
+  },
+  "43858910": {
+   "company": "archie",
+   "near": 43245345,
+   "jaccard": 0.848
+  },
+  "43859004": {
+   "company": "fathom ai notetaker",
+   "near": 42131838,
+   "jaccard": 0.429
+  },
+  "43859093": {
+   "company": "plantingspace"
+  },
+  "43859156": {
+   "company": "clear",
+   "near": 44785484,
+   "jaccard": 0.546
+  },
+  "43859266": {
+   "company": "jam",
+   "near": 43550309,
+   "jaccard": 0.931
+  },
+  "43859394": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.456
+  },
+  "43860072": {
+   "company": "smarkets",
+   "near": 46871569,
+   "jaccard": 0.356
+  },
+  "43860464": {
+   "company": "pylon",
+   "near": 44493345,
+   "jaccard": 0.877
+  },
+  "43860720": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "43861064": {
+   "company": "unto labs"
+  },
+  "43861513": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.769
+  },
+  "43861537": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.79
+  },
+  "43861784": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.454
+  },
+  "43861965": {
+   "company": "topaz labs",
+   "near": 42922756,
+   "jaccard": 0.802
+  },
+  "43861972": {
+   "company": "monumental",
+   "near": 43554614,
+   "jaccard": 1.0
+  },
+  "43862151": {
+   "company": "fusionauth"
+  },
+  "43863431": {
+   "company": "drone startup"
+  },
+  "43863514": {
+   "company": "source"
+  },
+  "43864137": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.514
+  },
+  "43864315": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.315
+  },
+  "43864431": {
+   "company": "minoa",
+   "near": 44160298,
+   "jaccard": 1.0
+  },
+  "43864715": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.513
+  },
+  "43864785": {
+   "near": 45104067,
+   "jaccard": 0.322
+  },
+  "43864844": {
+   "company": "foxglove"
+  },
+  "43864929": {
+   "company": "allspice"
+  },
+  "43865255": {
+   "company": "sourcegraph"
+  },
+  "43865370": {
+   "company": "puma tech"
+  },
+  "43865469": {
+   "company": "zepto"
+  },
+  "43865474": {
+   "company": "source"
+  },
+  "43865549": {
+   "company": "norm",
+   "near": 42921376,
+   "jaccard": 0.606
+  },
+  "43866857": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 1.0
+  },
+  "43866930": {
+   "near": 45097832,
+   "jaccard": 0.7
+  },
+  "43867018": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "43867548": {
+   "company": "altar",
+   "near": 43243448,
+   "jaccard": 0.851
+  },
+  "43867721": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.542
+  },
+  "43869351": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.731
+  },
+  "43871383": {
+   "company": "queueco",
+   "near": 45513953,
+   "jaccard": 0.395
+  },
+  "43872912": {
+   "company": "interactive brokers",
+   "near": 44436059,
+   "jaccard": 1.0
+  },
+  "43873918": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.383
+  },
+  "43876983": {
+   "company": "return"
+  },
+  "43884796": {
+   "company": "puraido"
+  },
+  "43888778": {
+   "company": "jurisphere"
+  },
+  "43889732": {
+   "company": "modash"
+  },
+  "43892753": {
+   "near": 48399564,
+   "jaccard": 0.561
+  },
+  "43894876": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.51
+  },
+  "43895471": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.488
+  },
+  "43896245": {
+   "company": "cogram"
+  },
+  "43896348": {
+   "company": "hellodata",
+   "near": 44160748,
+   "jaccard": 0.41
+  },
+  "43896957": {
+   "company": "prior labs"
+  },
+  "43916224": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "43916436": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.787
+  },
+  "43916536": {
+   "company": "zed industries",
+   "near": 44434910,
+   "jaccard": 0.503
+  },
+  "43918764": {
+   "company": "coder"
+  },
+  "43919320": {
+   "company": "office hours"
+  },
+  "43920724": {
+   "company": "livekit",
+   "near": 43614891,
+   "jaccard": 0.449
+  },
+  "43921178": {
+   "company": "thunder compute"
+  },
+  "43931428": {
+   "company": "senior software engineer"
+  },
+  "43933565": {
+   "company": "chartmogul",
+   "near": 44176786,
+   "jaccard": 1.0
+  },
+  "43935641": {
+   "company": "lightdash",
+   "near": 44441675,
+   "jaccard": 1.0
+  },
+  "43967297": {
+   "company": "cribl",
+   "near": 44183675,
+   "jaccard": 0.352
+  },
+  "43987671": {
+   "company": "maven",
+   "near": 42306988,
+   "jaccard": 0.763
+  },
+  "43988731": {
+   "company": "plotly",
+   "near": 44490380,
+   "jaccard": 0.704
+  },
+  "43989098": {
+   "company": "bubble goods",
+   "near": 44159658,
+   "jaccard": 0.913
+  },
+  "44159534": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "44159548": {
+   "company": "goody",
+   "near": 46466868,
+   "jaccard": 0.887
+  },
+  "44159557": {
+   "company": "ivo",
+   "near": 43243189,
+   "jaccard": 1.0
+  },
+  "44159563": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.809
+  },
+  "44159595": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.675
+  },
+  "44159664": {
+   "company": "fullstory",
+   "near": 43858876,
+   "jaccard": 0.625
+  },
+  "44159666": {
+   "company": "polaron",
+   "near": 43548100,
+   "jaccard": 0.785
+  },
+  "44159695": {
+   "company": "beautiful"
+  },
+  "44159977": {
+   "company": "plantingspace"
+  },
+  "44160112": {
+   "company": "clear",
+   "near": 44785484,
+   "jaccard": 0.784
+  },
+  "44160214": {
+   "company": "tandem health"
+  },
+  "44160313": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.769
+  },
+  "44160494": {
+   "company": "funnelstory"
+  },
+  "44160502": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.458
+  },
+  "44160729": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.782
+  },
+  "44160799": {
+   "company": "elicit",
+   "near": 43245713,
+   "jaccard": 0.739
+  },
+  "44160801": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "44160808": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.616
+  },
+  "44161063": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 1.0
+  },
+  "44161112": {
+   "company": "ascertain",
+   "near": 43864487,
+   "jaccard": 0.913
+  },
+  "44161323": {
+   "company": "fusionauth"
+  },
+  "44161337": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.418
+  },
+  "44161381": {
+   "company": "unto labs",
+   "near": 46859770,
+   "jaccard": 0.301
+  },
+  "44161402": {
+   "company": "graphite"
+  },
+  "44161599": {
+   "company": "parable"
+  },
+  "44161754": {
+   "company": "wyndly"
+  },
+  "44161859": {
+   "company": "drone startup"
+  },
+  "44161902": {
+   "company": "interactive brokers",
+   "near": 44436059,
+   "jaccard": 1.0
+  },
+  "44161916": {
+   "company": "kyra health",
+   "near": 46148645,
+   "jaccard": 0.897
+  },
+  "44161934": {
+   "near": 46251590,
+   "jaccard": 0.491
+  },
+  "44162021": {
+   "company": "9 mothers defense",
+   "near": 45094377,
+   "jaccard": 0.828
+  },
+  "44162040": {
+   "company": "monumental",
+   "near": 43554614,
+   "jaccard": 0.945
+  },
+  "44162245": {
+   "company": "archie",
+   "near": 43245345,
+   "jaccard": 0.502
+  },
+  "44162330": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.513
+  },
+  "44162422": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.441
+  },
+  "44162535": {
+   "company": "modash"
+  },
+  "44162795": {
+   "company": "cleric"
+  },
+  "44163058": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.514
+  },
+  "44163079": {
+   "company": "foxglove"
+  },
+  "44163149": {
+   "company": "costa security"
+  },
+  "44163190": {
+   "company": "stellar"
+  },
+  "44164010": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.375
+  },
+  "44164190": {
+   "company": "zed industries",
+   "near": 44434910,
+   "jaccard": 0.583
+  },
+  "44165168": {
+   "company": "allspice"
+  },
+  "44165287": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.523
+  },
+  "44166097": {
+   "company": "good pair days"
+  },
+  "44166693": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.805
+  },
+  "44166739": {
+   "company": "new lantern",
+   "near": 44436641,
+   "jaccard": 0.677
+  },
+  "44167669": {
+   "company": "senior software engineer"
+  },
+  "44167899": {
+   "company": "architect financial technologies",
+   "near": 46470199,
+   "jaccard": 0.596
+  },
+  "44168887": {
+   "company": "cvector"
+  },
+  "44169744": {
+   "company": "vivint",
+   "near": 42299045,
+   "jaccard": 0.771
+  },
+  "44170524": {
+   "company": "pylon",
+   "near": 44493345,
+   "jaccard": 0.877
+  },
+  "44171218": {
+   "near": 42921376,
+   "jaccard": 0.46
+  },
+  "44173061": {
+   "company": "plotly",
+   "near": 44490380,
+   "jaccard": 0.794
+  },
+  "44173112": {
+   "company": "trove",
+   "near": 44438266,
+   "jaccard": 0.41
+  },
+  "44173862": {
+   "company": "sourcegraph"
+  },
+  "44175355": {
+   "company": "freed",
+   "near": 44447602,
+   "jaccard": 0.512
+  },
+  "44179158": {
+   "company": "absinthe labs",
+   "near": 44510172,
+   "jaccard": 0.977
+  },
+  "44179401": {
+   "company": "lightdash",
+   "near": 44441675,
+   "jaccard": 1.0
+  },
+  "44180518": {
+   "company": "zigment",
+   "near": 43867906,
+   "jaccard": 0.351
+  },
+  "44184754": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.594
+  },
+  "44190206": {
+   "company": "link11"
+  },
+  "44193896": {
+   "company": "jane street",
+   "near": 44436953,
+   "jaccard": 0.63
+  },
+  "44205738": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "44224784": {
+   "company": "estuary",
+   "near": 44814562,
+   "jaccard": 0.675
+  },
+  "44225396": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.63
+  },
+  "44240207": {
+   "company": "mapistry"
+  },
+  "44264316": {
+   "company": "scholarly",
+   "near": 45439259,
+   "jaccard": 0.368
+  },
+  "44266897": {
+   "company": "credcore"
+  },
+  "44434578": {
+   "company": "goody",
+   "near": 46466868,
+   "jaccard": 0.477
+  },
+  "44434624": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.688
+  },
+  "44434677": {
+   "company": "beautiful"
+  },
+  "44434765": {
+   "company": "fathom ai notetaker",
+   "near": 42131838,
+   "jaccard": 0.392
+  },
+  "44434960": {
+   "company": "frequenz energy as a service"
+  },
+  "44435095": {
+   "company": "livekit",
+   "near": 43614891,
+   "jaccard": 0.313
+  },
+  "44435113": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.903
+  },
+  "44435199": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.427
+  },
+  "44435216": {
+   "company": "new public"
+  },
+  "44435370": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.434
+  },
+  "44435398": {
+   "company": "ghco ghco uk",
+   "near": 45447198,
+   "jaccard": 0.912
+  },
+  "44435510": {
+   "company": "solace health",
+   "near": 44170432,
+   "jaccard": 0.631
+  },
+  "44435519": {
+   "company": "allspice"
+  },
+  "44435542": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.622
+  },
+  "44435595": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.419
+  },
+  "44435605": {
+   "company": "plantingspace"
+  },
+  "44435660": {
+   "company": "9 mothers defense",
+   "near": 45094377,
+   "jaccard": 0.828
+  },
+  "44435717": {
+   "company": "monumental",
+   "near": 43554614,
+   "jaccard": 0.615
+  },
+  "44435746": {
+   "company": "autokroma",
+   "near": 45441809,
+   "jaccard": 0.783
+  },
+  "44435764": {
+   "company": "scholarly",
+   "near": 45439259,
+   "jaccard": 0.735
+  },
+  "44435802": {
+   "company": "unto labs",
+   "near": 46859770,
+   "jaccard": 0.304
+  },
+  "44435803": {
+   "company": "tandem health"
+  },
+  "44435971": {
+   "company": "hardfin",
+   "near": 45812986,
+   "jaccard": 0.333
+  },
+  "44436034": {
+   "company": "blue origin"
+  },
+  "44436114": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.913
+  },
+  "44436151": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 1.0
+  },
+  "44436560": {
+   "company": "credcore"
+  },
+  "44436910": {
+   "company": "elicit",
+   "near": 43245713,
+   "jaccard": 0.739
+  },
+  "44437020": {
+   "company": "graphite"
+  },
+  "44437024": {
+   "company": "cvector"
+  },
+  "44437065": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.47
+  },
+  "44437071": {
+   "company": "modash"
+  },
+  "44437506": {
+   "company": "foxglove"
+  },
+  "44437650": {
+   "company": "pex part of vobile group",
+   "near": 44762806,
+   "jaccard": 0.717
+  },
+  "44437843": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 1.0
+  },
+  "44437876": {
+   "near": 46251590,
+   "jaccard": 0.482
+  },
+  "44438220": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.805
+  },
+  "44438721": {
+   "company": "kyra health",
+   "near": 46148645,
+   "jaccard": 1.0
+  },
+  "44438764": {
+   "company": "baton"
+  },
+  "44438793": {
+   "company": "august health"
+  },
+  "44438812": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.514
+  },
+  "44438866": {
+   "company": "mapistry"
+  },
+  "44439138": {
+   "company": "oscilar"
+  },
+  "44439243": {
+   "company": "office hours"
+  },
+  "44439641": {
+   "company": "puma tech",
+   "near": 48360581,
+   "jaccard": 0.307
+  },
+  "44439658": {
+   "company": "promptfoo"
+  },
+  "44440059": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.929
+  },
+  "44442754": {
+   "company": "stellar"
+  },
+  "44443350": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.542
+  },
+  "44445345": {
+   "company": "smarkets",
+   "near": 46871569,
+   "jaccard": 0.404
+  },
+  "44446788": {
+   "company": "estuary",
+   "near": 44814562,
+   "jaccard": 0.61
+  },
+  "44446894": {
+   "company": "fullstory",
+   "near": 43858876,
+   "jaccard": 0.347
+  },
+  "44447550": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "44452920": {
+   "company": "zigment",
+   "near": 46858439,
+   "jaccard": 0.495
+  },
+  "44455319": {
+   "company": "lovable"
+  },
+  "44455979": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.411
+  },
+  "44456684": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.619
+  },
+  "44457631": {
+   "company": "alembic",
+   "near": 44807445,
+   "jaccard": 0.347
+  },
+  "44462711": {
+   "company": "blackshark ai",
+   "near": 44169240,
+   "jaccard": 0.688
+  },
+  "44482352": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "44489518": {
+   "company": "sourcegraph"
+  },
+  "44491247": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.53
+  },
+  "44495981": {
+   "company": "drone startup"
+  },
+  "44497448": {
+   "company": "chartmogul",
+   "near": 44176786,
+   "jaccard": 0.894
+  },
+  "44503356": {
+   "company": "clear",
+   "near": 44785484,
+   "jaccard": 0.85
+  },
+  "44509895": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.521
+  },
+  "44569123": {
+   "company": "spread"
+  },
+  "44757796": {
+   "company": "goody",
+   "near": 46466868,
+   "jaccard": 1.0
+  },
+  "44757800": {
+   "company": "fusionbox",
+   "near": 46111911,
+   "jaccard": 0.947
+  },
+  "44757890": {
+   "company": "kharon",
+   "near": 44449012,
+   "jaccard": 0.615
+  },
+  "44758000": {
+   "company": "frequenz energy as a service",
+   "near": 45800652,
+   "jaccard": 1.0
+  },
+  "44758020": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.705
+  },
+  "44758026": {
+   "company": "beautiful"
+  },
+  "44758147": {
+   "company": "plantingspace"
+  },
+  "44758559": {
+   "company": "combinaut"
+  },
+  "44758695": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 0.677
+  },
+  "44758710": {
+   "company": "puntt",
+   "near": 45093443,
+   "jaccard": 0.412
+  },
+  "44759087": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.498
+  },
+  "44759100": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.427
+  },
+  "44759124": {
+   "company": "scholarly",
+   "near": 45439259,
+   "jaccard": 0.738
+  },
+  "44759175": {
+   "company": "solace health",
+   "near": 44170432,
+   "jaccard": 0.611
+  },
+  "44759522": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.797
+  },
+  "44759647": {
+   "company": "reckon digital"
+  },
+  "44759717": {
+   "company": "covar",
+   "near": 44436191,
+   "jaccard": 0.65
+  },
+  "44759963": {
+   "company": "graphite"
+  },
+  "44760068": {
+   "company": "krea",
+   "near": 45441249,
+   "jaccard": 0.445
+  },
+  "44760651": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.411
+  },
+  "44760766": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.805
+  },
+  "44760909": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.441
+  },
+  "44761405": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 1.0
+  },
+  "44761598": {
+   "company": "cribl",
+   "near": 44183675,
+   "jaccard": 0.355
+  },
+  "44761620": {
+   "company": "lovable"
+  },
+  "44761705": {
+   "company": "sourcegraph"
+  },
+  "44761994": {
+   "company": "zigment",
+   "near": 46858439,
+   "jaccard": 0.629
+  },
+  "44762019": {
+   "company": "9 mothers defense",
+   "near": 45094377,
+   "jaccard": 1.0
+  },
+  "44762878": {
+   "company": "unto labs",
+   "near": 46859770,
+   "jaccard": 0.73
+  },
+  "44763223": {
+   "company": "pylon",
+   "near": 44493345,
+   "jaccard": 1.0
+  },
+  "44763288": {
+   "company": "autokroma",
+   "near": 45441809,
+   "jaccard": 0.902
+  },
+  "44763660": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.514
+  },
+  "44763818": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.893
+  },
+  "44763865": {
+   "company": "promptfoo"
+  },
+  "44764328": {
+   "company": "deepline"
+  },
+  "44765194": {
+   "company": "mintlify",
+   "near": 42921249,
+   "jaccard": 0.884
+  },
+  "44765821": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.698
+  },
+  "44767051": {
+   "company": "cvector"
+  },
+  "44771384": {
+   "company": "stellar",
+   "near": 47604566,
+   "jaccard": 0.341
+  },
+  "44777320": {
+   "company": "allspice"
+  },
+  "44781687": {
+   "company": "chartmogul",
+   "near": 44176786,
+   "jaccard": 0.718
+  },
+  "44782827": {
+   "company": "modash"
+  },
+  "44783314": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.583
+  },
+  "44784182": {
+   "company": "absinthe labs"
+  },
+  "44785153": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.528
+  },
+  "44785589": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.48
+  },
+  "44786156": {
+   "company": "ghco ghco uk",
+   "near": 45447198,
+   "jaccard": 0.912
+  },
+  "44786571": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.433
+  },
+  "44788738": {
+   "company": "tandem health"
+  },
+  "44789887": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "44795586": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.846
+  },
+  "44799826": {
+   "company": "rabbet",
+   "near": 48819370,
+   "jaccard": 0.565
+  },
+  "44804802": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.459
+  },
+  "44815114": {
+   "company": "oscilar"
+  },
+  "44826156": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.394
+  },
+  "44840389": {
+   "company": "memorang",
+   "near": 45520010,
+   "jaccard": 0.808
+  },
+  "44868787": {
+   "company": "jetbrains"
+  },
+  "44883368": {
+   "near": 42921376,
+   "jaccard": 0.379
+  },
+  "44884216": {
+   "company": "founding engineer"
+  },
+  "44901365": {
+   "company": "office hours"
+  },
+  "45093546": {
+   "company": "goody",
+   "near": 46466868,
+   "jaccard": 1.0
+  },
+  "45093618": {
+   "company": "plantingspace"
+  },
+  "45093960": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.705
+  },
+  "45094132": {
+   "company": "cogram"
+  },
+  "45094200": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 0.677
+  },
+  "45094456": {
+   "company": "zigment",
+   "near": 46858439,
+   "jaccard": 0.861
+  },
+  "45094601": {
+   "company": "foxglove"
+  },
+  "45094629": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.698
+  },
+  "45094631": {
+   "company": "lovable"
+  },
+  "45095135": {
+   "company": "mattermost"
+  },
+  "45095292": {
+   "company": "tandem health"
+  },
+  "45095687": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.415
+  },
+  "45095716": {
+   "company": "rinse"
+  },
+  "45095810": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.933
+  },
+  "45095984": {
+   "company": "allspice"
+  },
+  "45096212": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.855
+  },
+  "45096338": {
+   "company": "krea",
+   "near": 45441249,
+   "jaccard": 0.695
+  },
+  "45096555": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.427
+  },
+  "45096958": {
+   "company": "cvector"
+  },
+  "45097183": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.508
+  },
+  "45098052": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.805
+  },
+  "45098095": {
+   "company": "zoetro pe",
+   "near": 45444100,
+   "jaccard": 1.0
+  },
+  "45098164": {
+   "company": "funnelstory"
+  },
+  "45098670": {
+   "near": 47607631,
+   "jaccard": 0.383
+  },
+  "45099751": {
+   "company": "moyai",
+   "near": 44759149,
+   "jaccard": 0.412
+  },
+  "45099765": {
+   "company": "credcore"
+  },
+  "45100710": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.807
+  },
+  "45102419": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.483
+  },
+  "45102665": {
+   "near": 46251590,
+   "jaccard": 0.482
+  },
+  "45102951": {
+   "company": "fusionauth"
+  },
+  "45103002": {
+   "company": "materialize"
+  },
+  "45103201": {
+   "company": "absinthe labs"
+  },
+  "45103649": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 1.0
+  },
+  "45103699": {
+   "company": "modash"
+  },
+  "45103981": {
+   "company": "hardfin",
+   "near": 45812986,
+   "jaccard": 0.531
+  },
+  "45104008": {
+   "company": "beautiful"
+  },
+  "45104272": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.509
+  },
+  "45104640": {
+   "company": "livekit"
+  },
+  "45104657": {
+   "company": "sewerai"
+  },
+  "45105141": {
+   "company": "sourcegraph"
+  },
+  "45105157": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.623
+  },
+  "45105226": {
+   "company": "trunk",
+   "near": 43247976,
+   "jaccard": 0.389
+  },
+  "45106305": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.562
+  },
+  "45106635": {
+   "company": "memorang",
+   "near": 45520010,
+   "jaccard": 0.928
+  },
+  "45107017": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.575
+  },
+  "45107147": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.478
+  },
+  "45109131": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "45110036": {
+   "company": "zed industries"
+  },
+  "45110823": {
+   "company": "mintlify"
+  },
+  "45112138": {
+   "company": "unto labs",
+   "near": 46859770,
+   "jaccard": 0.722
+  },
+  "45115176": {
+   "near": 42921376,
+   "jaccard": 0.367
+  },
+  "45117362": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.483
+  },
+  "45118640": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "45125787": {
+   "company": "taho",
+   "near": 45473748,
+   "jaccard": 0.878
+  },
+  "45127516": {
+   "company": "vivint",
+   "near": 42299045,
+   "jaccard": 0.619
+  },
+  "45128499": {
+   "company": "queueco",
+   "near": 45513953,
+   "jaccard": 0.98
+  },
+  "45128988": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 1.0
+  },
+  "45129579": {
+   "company": "clear",
+   "near": 44785484,
+   "jaccard": 0.802
+  },
+  "45129596": {
+   "near": 47233376,
+   "jaccard": 0.32
+  },
+  "45131221": {
+   "company": "agile six"
+  },
+  "45139894": {
+   "company": "jane street",
+   "near": 44436953,
+   "jaccard": 0.88
+  },
+  "45140646": {
+   "company": "narrative i o",
+   "near": 45440009,
+   "jaccard": 1.0
+  },
+  "45142606": {
+   "company": "rabbet",
+   "near": 48819370,
+   "jaccard": 0.565
+  },
+  "45146327": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.493
+  },
+  "45170835": {
+   "company": "meritfirst",
+   "near": 44866686,
+   "jaccard": 1.0
+  },
+  "45190219": {
+   "company": "freed",
+   "near": 44447602,
+   "jaccard": 0.573
+  },
+  "45197701": {
+   "company": "trove",
+   "near": 44438266,
+   "jaccard": 0.7
+  },
+  "45198636": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "45215864": {
+   "company": "fullstory"
+  },
+  "45438654": {
+   "company": "moyai",
+   "near": 44759149,
+   "jaccard": 0.412
+  },
+  "45438827": {
+   "company": "beautiful"
+  },
+  "45439039": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.493
+  },
+  "45439056": {
+   "company": "plantingspace"
+  },
+  "45439321": {
+   "company": "vibrant",
+   "near": 43549240,
+   "jaccard": 0.724
+  },
+  "45439438": {
+   "near": 47607631,
+   "jaccard": 0.429
+  },
+  "45439517": {
+   "company": "frequenz energy as a service",
+   "near": 45800652,
+   "jaccard": 1.0
+  },
+  "45439542": {
+   "company": "smarkets",
+   "near": 46871569,
+   "jaccard": 0.313
+  },
+  "45439587": {
+   "company": "crux",
+   "near": 45801463,
+   "jaccard": 0.888
+  },
+  "45439673": {
+   "near": 47233376,
+   "jaccard": 0.34
+  },
+  "45439708": {
+   "company": "multiply",
+   "near": 49532978,
+   "jaccard": 0.396
+  },
+  "45439925": {
+   "company": "estuary",
+   "near": 44814562,
+   "jaccard": 0.457
+  },
+  "45440199": {
+   "company": "clear",
+   "near": 44785484,
+   "jaccard": 0.738
+  },
+  "45440776": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.523
+  },
+  "45440794": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 0.677
+  },
+  "45440826": {
+   "company": "foxglove"
+  },
+  "45440975": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.365
+  },
+  "45441003": {
+   "company": "goody",
+   "near": 46466868,
+   "jaccard": 1.0
+  },
+  "45441016": {
+   "company": "credcore"
+  },
+  "45441226": {
+   "company": "9 mothers defense",
+   "near": 45094377,
+   "jaccard": 1.0
+  },
+  "45441246": {
+   "company": "spread"
+  },
+  "45441506": {
+   "company": "funnelstory"
+  },
+  "45441589": {
+   "company": "baton"
+  },
+  "45441760": {
+   "company": "hardfin",
+   "near": 45812986,
+   "jaccard": 0.967
+  },
+  "45441958": {
+   "company": "sourcegraph"
+  },
+  "45442050": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.933
+  },
+  "45442205": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.357
+  },
+  "45442233": {
+   "company": "parable"
+  },
+  "45442614": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.509
+  },
+  "45442830": {
+   "company": "unto labs",
+   "near": 46859770,
+   "jaccard": 0.753
+  },
+  "45443025": {
+   "company": "pylon",
+   "near": 44493345,
+   "jaccard": 0.529
+  },
+  "45443433": {
+   "company": "konvu"
+  },
+  "45443749": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 1.0
+  },
+  "45443776": {
+   "company": "appfolio"
+  },
+  "45443875": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "45444298": {
+   "company": "source"
+  },
+  "45444912": {
+   "company": "livekit"
+  },
+  "45445198": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.909
+  },
+  "45445236": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.74
+  },
+  "45445490": {
+   "company": "freed",
+   "near": 44447602,
+   "jaccard": 0.507
+  },
+  "45445620": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.889
+  },
+  "45446665": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.31
+  },
+  "45446884": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "45447412": {
+   "company": "stellar"
+  },
+  "45448595": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.698
+  },
+  "45450573": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.647
+  },
+  "45453492": {
+   "company": "founding engineer"
+  },
+  "45453621": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.406
+  },
+  "45455509": {
+   "company": "fullstory"
+  },
+  "45463144": {
+   "company": "absinthe labs"
+  },
+  "45468889": {
+   "company": "flax health",
+   "near": 46111812,
+   "jaccard": 0.936
+  },
+  "45488305": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.682
+  },
+  "45490456": {
+   "company": "ditto"
+  },
+  "45491233": {
+   "company": "common prefix",
+   "near": 45096239,
+   "jaccard": 1.0
+  },
+  "45491370": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.613
+  },
+  "45491697": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.549
+  },
+  "45500120": {
+   "company": "asbl",
+   "near": 46478302,
+   "jaccard": 0.692
+  },
+  "45502628": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.593
+  },
+  "45503066": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.733
+  },
+  "45504877": {
+   "company": "logiqo",
+   "near": 45803553,
+   "jaccard": 0.574
+  },
+  "45508050": {
+   "company": "mta"
+  },
+  "45516651": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.498
+  },
+  "45518765": {
+   "company": "zed industries"
+  },
+  "45519658": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 1.0
+  },
+  "45532630": {
+   "near": 42921376,
+   "jaccard": 0.363
+  },
+  "45548260": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "45800479": {
+   "company": "beautiful"
+  },
+  "45800500": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.362
+  },
+  "45800572": {
+   "near": 47233376,
+   "jaccard": 0.41
+  },
+  "45800586": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.68
+  },
+  "45800594": {
+   "company": "tracebit"
+  },
+  "45800601": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.755
+  },
+  "45800893": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.514
+  },
+  "45800906": {
+   "company": "plantingspace"
+  },
+  "45801218": {
+   "company": "unto labs",
+   "near": 46859770,
+   "jaccard": 1.0
+  },
+  "45801290": {
+   "near": 47607631,
+   "jaccard": 0.486
+  },
+  "45801323": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.31
+  },
+  "45801405": {
+   "company": "fusionbox",
+   "near": 46111911,
+   "jaccard": 1.0
+  },
+  "45801425": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.523
+  },
+  "45801522": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "45801570": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.608
+  },
+  "45801644": {
+   "company": "foxglove"
+  },
+  "45801676": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.548
+  },
+  "45801750": {
+   "near": 44762806,
+   "jaccard": 0.713
+  },
+  "45801841": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.438
+  },
+  "45801866": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.5
+  },
+  "45802067": {
+   "company": "holepuch",
+   "near": 48034442,
+   "jaccard": 1.0
+  },
+  "45802232": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.406
+  },
+  "45802260": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.498
+  },
+  "45802326": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.536
+  },
+  "45802334": {
+   "company": "materialize"
+  },
+  "45802605": {
+   "company": "thunder compute yc s24"
+  },
+  "45802619": {
+   "company": "narrative i o",
+   "near": 45440009,
+   "jaccard": 1.0
+  },
+  "45802787": {
+   "company": "gogograndparent",
+   "near": 43243511,
+   "jaccard": 0.66
+  },
+  "45802840": {
+   "company": "elicit",
+   "near": 43245713,
+   "jaccard": 0.571
+  },
+  "45802857": {
+   "company": "duckduckgo",
+   "near": 44759424,
+   "jaccard": 0.561
+  },
+  "45802964": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.74
+  },
+  "45803001": {
+   "company": "truetax"
+  },
+  "45803078": {
+   "company": "repspark",
+   "near": 46468180,
+   "jaccard": 0.876
+  },
+  "45803148": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "45803205": {
+   "company": "stellar"
+  },
+  "45803442": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.889
+  },
+  "45803649": {
+   "company": "source"
+  },
+  "45804393": {
+   "company": "absinthe labs"
+  },
+  "45804919": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 1.0
+  },
+  "45805022": {
+   "company": "lantern"
+  },
+  "45805556": {
+   "company": "puma tech",
+   "near": 48360581,
+   "jaccard": 0.462
+  },
+  "45805562": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 0.677
+  },
+  "45805645": {
+   "company": "freed",
+   "near": 44447602,
+   "jaccard": 0.486
+  },
+  "45805734": {
+   "company": "zed industries",
+   "near": 44434910,
+   "jaccard": 0.32
+  },
+  "45805873": {
+   "company": "9 mothers defense"
+  },
+  "45805952": {
+   "company": "funnelstory"
+  },
+  "45806000": {
+   "company": "krea",
+   "near": 45441249,
+   "jaccard": 0.936
+  },
+  "45806689": {
+   "company": "ditto"
+  },
+  "45806699": {
+   "company": "asbl",
+   "near": 46478302,
+   "jaccard": 0.826
+  },
+  "45807001": {
+   "company": "transfyr"
+  },
+  "45807768": {
+   "company": "spread"
+  },
+  "45808423": {
+   "company": "onton",
+   "near": 44765434,
+   "jaccard": 0.598
+  },
+  "45808635": {
+   "company": "common prefix",
+   "near": 45096239,
+   "jaccard": 1.0
+  },
+  "45808752": {
+   "company": "moyai",
+   "near": 44759149,
+   "jaccard": 0.307
+  },
+  "45808815": {
+   "company": "happy scribe"
+  },
+  "45809032": {
+   "company": "goody",
+   "near": 46466868,
+   "jaccard": 1.0
+  },
+  "45809368": {
+   "company": "modash",
+   "near": 45446597,
+   "jaccard": 0.468
+  },
+  "45811355": {
+   "near": 42921376,
+   "jaccard": 0.363
+  },
+  "45813779": {
+   "company": "brico",
+   "near": 44763114,
+   "jaccard": 0.455
+  },
+  "45814320": {
+   "company": "jane street",
+   "near": 44436953,
+   "jaccard": 0.925
+  },
+  "45816066": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.572
+  },
+  "45828552": {
+   "company": "oscilar"
+  },
+  "45829093": {
+   "company": "flax health",
+   "near": 46111812,
+   "jaccard": 0.936
+  },
+  "45834556": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.805
+  },
+  "45846912": {
+   "company": "hudson river trading"
+  },
+  "45874543": {
+   "company": "blackshark ai",
+   "near": 44169240,
+   "jaccard": 0.717
+  },
+  "45879785": {
+   "company": "redpanda data",
+   "near": 46469625,
+   "jaccard": 0.806
+  },
+  "45890643": {
+   "company": "gaia ai",
+   "near": 46515639,
+   "jaccard": 0.436
+  },
+  "45896134": {
+   "near": 45097832,
+   "jaccard": 0.89
+  },
+  "46108994": {
+   "company": "jam",
+   "near": 43550309,
+   "jaccard": 0.524
+  },
+  "46109010": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "46109033": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.612
+  },
+  "46109054": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 0.722
+  },
+  "46109094": {
+   "company": "tracebit"
+  },
+  "46109116": {
+   "company": "plantingspace"
+  },
+  "46109144": {
+   "company": "beautiful"
+  },
+  "46109191": {
+   "company": "frequenz energy as a service",
+   "near": 45800652,
+   "jaccard": 0.502
+  },
+  "46109210": {
+   "company": "unto labs",
+   "near": 46859770,
+   "jaccard": 1.0
+  },
+  "46109243": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.762
+  },
+  "46109329": {
+   "company": "lovable"
+  },
+  "46109510": {
+   "company": "zed industries",
+   "near": 44434910,
+   "jaccard": 0.303
+  },
+  "46109556": {
+   "near": 47233376,
+   "jaccard": 0.41
+  },
+  "46109780": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 1.0
+  },
+  "46109991": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.605
+  },
+  "46110016": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.431
+  },
+  "46110047": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.463
+  },
+  "46110077": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.548
+  },
+  "46110191": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.345
+  },
+  "46110230": {
+   "company": "vibrant",
+   "near": 43549240,
+   "jaccard": 0.607
+  },
+  "46110305": {
+   "company": "ditto",
+   "near": 45822250,
+   "jaccard": 0.934
+  },
+  "46110310": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.432
+  },
+  "46110465": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.889
+  },
+  "46110596": {
+   "company": "trunk"
+  },
+  "46110693": {
+   "company": "griffin bank",
+   "near": 45803336,
+   "jaccard": 0.853
+  },
+  "46110723": {
+   "company": "repspark",
+   "near": 46468180,
+   "jaccard": 0.876
+  },
+  "46110848": {
+   "company": "duckduckgo",
+   "near": 44759424,
+   "jaccard": 0.591
+  },
+  "46110914": {
+   "company": "clear",
+   "near": 44785484,
+   "jaccard": 0.75
+  },
+  "46111186": {
+   "company": "stellar"
+  },
+  "46111242": {
+   "company": "onton",
+   "near": 44765434,
+   "jaccard": 0.598
+  },
+  "46111286": {
+   "company": "greptile"
+  },
+  "46111599": {
+   "company": "konvu"
+  },
+  "46111758": {
+   "company": "graphite"
+  },
+  "46111935": {
+   "company": "puma tech",
+   "near": 48360581,
+   "jaccard": 0.489
+  },
+  "46112212": {
+   "company": "goody",
+   "near": 46466868,
+   "jaccard": 1.0
+  },
+  "46112308": {
+   "company": "rinse"
+  },
+  "46112675": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.487
+  },
+  "46112767": {
+   "company": "source"
+  },
+  "46112932": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.357
+  },
+  "46112959": {
+   "company": "krea",
+   "near": 45441249,
+   "jaccard": 0.749
+  },
+  "46112972": {
+   "company": "modash",
+   "near": 45446597,
+   "jaccard": 0.349
+  },
+  "46113629": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.493
+  },
+  "46113646": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.674
+  },
+  "46113788": {
+   "near": 42921376,
+   "jaccard": 0.38
+  },
+  "46113867": {
+   "company": "source"
+  },
+  "46114174": {
+   "company": "estuary"
+  },
+  "46114176": {
+   "company": "crux",
+   "near": 45801463,
+   "jaccard": 0.904
+  },
+  "46114682": {
+   "near": 47607631,
+   "jaccard": 0.616
+  },
+  "46114831": {
+   "company": "puntt"
+  },
+  "46115155": {
+   "company": "autokroma",
+   "near": 45441809,
+   "jaccard": 0.573
+  },
+  "46115233": {
+   "company": "foam"
+  },
+  "46115258": {
+   "company": "new lantern"
+  },
+  "46115411": {
+   "company": "lantern"
+  },
+  "46115627": {
+   "company": "alembic"
+  },
+  "46116343": {
+   "company": "combinaut"
+  },
+  "46117045": {
+   "company": "gaia ai",
+   "near": 46515639,
+   "jaccard": 0.434
+  },
+  "46117418": {
+   "company": "foxglove"
+  },
+  "46118150": {
+   "company": "multiply",
+   "near": 49532978,
+   "jaccard": 0.396
+  },
+  "46118679": {
+   "company": "common prefix",
+   "near": 45096239,
+   "jaccard": 0.91
+  },
+  "46119422": {
+   "company": "eggai"
+  },
+  "46120386": {
+   "company": "moyai"
+  },
+  "46121167": {
+   "company": "holepuch",
+   "near": 48034442,
+   "jaccard": 1.0
+  },
+  "46121740": {
+   "company": "allspice",
+   "near": 45805332,
+   "jaccard": 0.595
+  },
+  "46122570": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.611
+  },
+  "46123544": {
+   "company": "hudson river trading"
+  },
+  "46125744": {
+   "company": "redpanda data",
+   "near": 46469625,
+   "jaccard": 0.888
+  },
+  "46129396": {
+   "company": "pepr ai"
+  },
+  "46129484": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 1.0
+  },
+  "46131002": {
+   "company": "asbl",
+   "near": 46478302,
+   "jaccard": 0.821
+  },
+  "46134504": {
+   "company": "return",
+   "near": 47351165,
+   "jaccard": 0.51
+  },
+  "46139783": {
+   "company": "allspice"
+  },
+  "46141844": {
+   "near": 46893972,
+   "jaccard": 0.594
+  },
+  "46150569": {
+   "company": "threeflow",
+   "near": 42662071,
+   "jaccard": 0.368
+  },
+  "46191004": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.805
+  },
+  "46193883": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.8
+  },
+  "46195871": {
+   "company": "blackshark ai",
+   "near": 44169240,
+   "jaccard": 0.485
+  },
+  "46226820": {
+   "near": 45097832,
+   "jaccard": 0.855
+  },
+  "46466124": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.601
+  },
+  "46466389": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.605
+  },
+  "46466549": {
+   "company": "trunk"
+  },
+  "46466600": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.431
+  },
+  "46466732": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.742
+  },
+  "46466753": {
+   "company": "northstar security"
+  },
+  "46467021": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.527
+  },
+  "46467125": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.63
+  },
+  "46467383": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.889
+  },
+  "46467489": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.733
+  },
+  "46467697": {
+   "company": "9 mothers defense"
+  },
+  "46467916": {
+   "company": "lantern"
+  },
+  "46468149": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.5
+  },
+  "46468466": {
+   "company": "common prefix"
+  },
+  "46468630": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.518
+  },
+  "46469687": {
+   "near": 47607631,
+   "jaccard": 0.865
+  },
+  "46470447": {
+   "company": "source"
+  },
+  "46470996": {
+   "company": "beatdapp"
+  },
+  "46471060": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 0.722
+  },
+  "46472000": {
+   "company": "rinse"
+  },
+  "46472301": {
+   "company": "cleric"
+  },
+  "46473980": {
+   "company": "foxglove"
+  },
+  "46475488": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.933
+  },
+  "46475658": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.463
+  },
+  "46482511": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 1.0
+  },
+  "46495610": {
+   "company": "office hours"
+  },
+  "46496613": {
+   "company": "plantingspace"
+  },
+  "46496697": {
+   "company": "comulate",
+   "near": 46112427,
+   "jaccard": 0.921
+  },
+  "46499752": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.432
+  },
+  "46501077": {
+   "company": "beautiful"
+  },
+  "46504003": {
+   "company": "duckduckgo"
+  },
+  "46505279": {
+   "company": "konvu",
+   "near": 43867023,
+   "jaccard": 0.634
+  },
+  "46505478": {
+   "company": "pepr ai",
+   "near": 46908134,
+   "jaccard": 0.727
+  },
+  "46507027": {
+   "company": "oscilar",
+   "near": 47602825,
+   "jaccard": 0.339
+  },
+  "46507616": {
+   "company": "thunder compute yc s24"
+  },
+  "46516042": {
+   "near": 47233376,
+   "jaccard": 0.512
+  },
+  "46525416": {
+   "company": "kubermatic",
+   "near": 45833825,
+   "jaccard": 0.599
+  },
+  "46527064": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.516
+  },
+  "46528291": {
+   "company": "gitbook"
+  },
+  "46542208": {
+   "company": "jurisphere"
+  },
+  "46543871": {
+   "company": "estuary",
+   "near": 47238829,
+   "jaccard": 0.962
+  },
+  "46546825": {
+   "near": 42921376,
+   "jaccard": 0.383
+  },
+  "46558870": {
+   "company": "mydatavalue",
+   "near": 46174338,
+   "jaccard": 0.34
+  },
+  "46566783": {
+   "company": "permitflow",
+   "near": 44818903,
+   "jaccard": 1.0
+  },
+  "46590192": {
+   "company": "blackshark ai"
+  },
+  "46604964": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.623
+  },
+  "46630621": {
+   "company": "link11",
+   "near": 45136616,
+   "jaccard": 0.967
+  },
+  "46640681": {
+   "company": "livekit"
+  },
+  "46857491": {
+   "company": "goody"
+  },
+  "46857609": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.481
+  },
+  "46857654": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.463
+  },
+  "46857739": {
+   "company": "asbl",
+   "near": 46478302,
+   "jaccard": 0.764
+  },
+  "46857784": {
+   "company": "memorang"
+  },
+  "46857923": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 1.0
+  },
+  "46857939": {
+   "company": "greenline"
+  },
+  "46857982": {
+   "company": "piq energy",
+   "near": 46466139,
+   "jaccard": 1.0
+  },
+  "46857991": {
+   "company": "baseten labs",
+   "near": 47220359,
+   "jaccard": 0.746
+  },
+  "46858047": {
+   "company": "trunk"
+  },
+  "46858137": {
+   "company": "modash"
+  },
+  "46858205": {
+   "company": "graphite"
+  },
+  "46858219": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 1.0
+  },
+  "46858287": {
+   "company": "atria",
+   "near": 48752751,
+   "jaccard": 0.773
+  },
+  "46858367": {
+   "company": "mozilla"
+  },
+  "46858372": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.491
+  },
+  "46858474": {
+   "company": "repspark",
+   "near": 46468180,
+   "jaccard": 0.423
+  },
+  "46858522": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.628
+  },
+  "46858570": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "46858652": {
+   "company": "foxglove"
+  },
+  "46858674": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.486
+  },
+  "46858891": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.43
+  },
+  "46859024": {
+   "company": "hiring",
+   "near": 47233376,
+   "jaccard": 0.645
+  },
+  "46859027": {
+   "company": "return",
+   "near": 47351165,
+   "jaccard": 0.335
+  },
+  "46859065": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.8
+  },
+  "46859207": {
+   "near": 47607631,
+   "jaccard": 0.865
+  },
+  "46859341": {
+   "company": "eggai",
+   "near": 49525468,
+   "jaccard": 0.411
+  },
+  "46859392": {
+   "company": "cogram"
+  },
+  "46859688": {
+   "company": "hellodata"
+  },
+  "46859721": {
+   "company": "discord"
+  },
+  "46860277": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.518
+  },
+  "46860352": {
+   "company": "allspice"
+  },
+  "46860461": {
+   "company": "rinse"
+  },
+  "46860607": {
+   "company": "cvector",
+   "near": 47609341,
+   "jaccard": 1.0
+  },
+  "46860967": {
+   "company": "beautiful"
+  },
+  "46861178": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "46861232": {
+   "company": "new lantern"
+  },
+  "46861246": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.742
+  },
+  "46862207": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.73
+  },
+  "46862617": {
+   "company": "puma tech",
+   "near": 48360581,
+   "jaccard": 0.489
+  },
+  "46862707": {
+   "company": "fusionbox",
+   "near": 46111911,
+   "jaccard": 1.0
+  },
+  "46862815": {
+   "company": "splash tech",
+   "near": 45800668,
+   "jaccard": 0.532
+  },
+  "46863649": {
+   "company": "uncountable",
+   "near": 47220185,
+   "jaccard": 0.94
+  },
+  "46864577": {
+   "company": "northstar security"
+  },
+  "46865733": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.571
+  },
+  "46866014": {
+   "company": "source"
+  },
+  "46868478": {
+   "company": "plantingspace"
+  },
+  "46869101": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.933
+  },
+  "46869323": {
+   "company": "moyai"
+  },
+  "46869551": {
+   "company": "blackshark ai"
+  },
+  "46869827": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.748
+  },
+  "46871202": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.388
+  },
+  "46871324": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.889
+  },
+  "46874252": {
+   "company": "sentinel defense technologies"
+  },
+  "46875313": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.428
+  },
+  "46875747": {
+   "company": "estuary",
+   "near": 47238829,
+   "jaccard": 0.962
+  },
+  "46888484": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.594
+  },
+  "46890019": {
+   "company": "zed industries",
+   "near": 44434910,
+   "jaccard": 0.328
+  },
+  "46895259": {
+   "company": "office hours"
+  },
+  "46899806": {
+   "company": "gaia ai",
+   "near": 46515639,
+   "jaccard": 1.0
+  },
+  "46899988": {
+   "company": "tracebit"
+  },
+  "46919295": {
+   "company": "livekit"
+  },
+  "46928330": {
+   "company": "permitflow",
+   "near": 47649099,
+   "jaccard": 0.841
+  },
+  "46946177": {
+   "company": "holepuch",
+   "near": 48034442,
+   "jaccard": 1.0
+  },
+  "46965643": {
+   "company": "fullstory"
+  },
+  "46982908": {
+   "company": "alembic"
+  },
+  "47219691": {
+   "company": "beautiful"
+  },
+  "47219704": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.405
+  },
+  "47219749": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.461
+  },
+  "47220096": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.628
+  },
+  "47220120": {
+   "company": "category labs",
+   "near": 46877012,
+   "jaccard": 0.7
+  },
+  "47220355": {
+   "company": "conductor"
+  },
+  "47220402": {
+   "company": "layer health",
+   "near": 46122794,
+   "jaccard": 0.412
+  },
+  "47220761": {
+   "company": "smarkets",
+   "near": 46871569,
+   "jaccard": 0.524
+  },
+  "47220915": {
+   "company": "transfyr"
+  },
+  "47220980": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "47221116": {
+   "company": "gen alpha transistor",
+   "near": 47979250,
+   "jaccard": 0.324
+  },
+  "47221145": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 1.0
+  },
+  "47221453": {
+   "company": "rinse"
+  },
+  "47221864": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.805
+  },
+  "47221911": {
+   "company": "plantingspace",
+   "near": 47613445,
+   "jaccard": 0.341
+  },
+  "47221913": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.814
+  },
+  "47222073": {
+   "company": "eggai",
+   "near": 49525468,
+   "jaccard": 0.494
+  },
+  "47222239": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "47222261": {
+   "company": "zed industries",
+   "near": 44434910,
+   "jaccard": 0.316
+  },
+  "47223697": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.829
+  },
+  "47224026": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.889
+  },
+  "47224327": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.411
+  },
+  "47224724": {
+   "company": "griffin bank",
+   "near": 45803336,
+   "jaccard": 0.683
+  },
+  "47224880": {
+   "company": "goody"
+  },
+  "47225180": {
+   "company": "ro"
+  },
+  "47225651": {
+   "company": "allspice"
+  },
+  "47225714": {
+   "company": "new lantern"
+  },
+  "47225833": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.518
+  },
+  "47226440": {
+   "company": "allspice"
+  },
+  "47227409": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.534
+  },
+  "47227478": {
+   "company": "krea"
+  },
+  "47228074": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.571
+  },
+  "47228437": {
+   "company": "onton",
+   "near": 44765434,
+   "jaccard": 0.598
+  },
+  "47229609": {
+   "company": "modash"
+  },
+  "47230068": {
+   "company": "arenko",
+   "near": 46945618,
+   "jaccard": 0.871
+  },
+  "47232486": {
+   "company": "cvector"
+  },
+  "47233197": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.39
+  },
+  "47233701": {
+   "company": "puntt"
+  },
+  "47237652": {
+   "company": "di rezze family office",
+   "near": 47601886,
+   "jaccard": 0.942
+  },
+  "47239774": {
+   "company": "comulate",
+   "near": 46881344,
+   "jaccard": 1.0
+  },
+  "47240899": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.8
+  },
+  "47244856": {
+   "company": "9 mothers defense"
+  },
+  "47244862": {
+   "company": "tracebit"
+  },
+  "47246546": {
+   "company": "common prefix",
+   "near": 45096239,
+   "jaccard": 0.739
+  },
+  "47249264": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.784
+  },
+  "47249983": {
+   "company": "blackshark ai"
+  },
+  "47250372": {
+   "company": "fullstory",
+   "near": 48361680,
+   "jaccard": 0.339
+  },
+  "47250582": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.615
+  },
+  "47251892": {
+   "company": "trunk"
+  },
+  "47256159": {
+   "company": "livekit"
+  },
+  "47258128": {
+   "company": "brico",
+   "near": 44763114,
+   "jaccard": 0.388
+  },
+  "47263177": {
+   "company": "permitflow",
+   "near": 47649099,
+   "jaccard": 0.9
+  },
+  "47282029": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.688
+  },
+  "47316717": {
+   "company": "oscilar",
+   "near": 47602825,
+   "jaccard": 0.42
+  },
+  "47321985": {
+   "company": "holepuch",
+   "near": 48034442,
+   "jaccard": 0.471
+  },
+  "47350658": {
+   "company": "jurisphere"
+  },
+  "47601910": {
+   "company": "bit capital",
+   "near": 48357777,
+   "jaccard": 0.697
+  },
+  "47602038": {
+   "company": "tracebit"
+  },
+  "47602061": {
+   "company": "aqora",
+   "near": 46491830,
+   "jaccard": 1.0
+  },
+  "47602101": {
+   "company": "conductor"
+  },
+  "47602386": {
+   "company": "mongodb",
+   "near": 47975996,
+   "jaccard": 0.636
+  },
+  "47602418": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.388
+  },
+  "47602515": {
+   "company": "fusionbox",
+   "near": 46111911,
+   "jaccard": 0.96
+  },
+  "47602687": {
+   "company": "ascertain"
+  },
+  "47602816": {
+   "company": "discord"
+  },
+  "47602861": {
+   "company": "temporal technologies",
+   "near": 45438549,
+   "jaccard": 0.355
+  },
+  "47603175": {
+   "company": "rinse"
+  },
+  "47603233": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.889
+  },
+  "47603262": {
+   "company": "clear"
+  },
+  "47603601": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.615
+  },
+  "47603843": {
+   "company": "repspark"
+  },
+  "47603937": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.708
+  },
+  "47604005": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.829
+  },
+  "47604113": {
+   "company": "allspice"
+  },
+  "47604210": {
+   "company": "beautiful",
+   "near": 48764209,
+   "jaccard": 0.698
+  },
+  "47604429": {
+   "company": "zed industries"
+  },
+  "47604491": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.814
+  },
+  "47604665": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 1.0
+  },
+  "47604816": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 1.0
+  },
+  "47604899": {
+   "company": "lantern",
+   "near": 46857911,
+   "jaccard": 1.0
+  },
+  "47605422": {
+   "company": "new lantern"
+  },
+  "47605527": {
+   "company": "senior software engineer"
+  },
+  "47605765": {
+   "company": "duckduckgo",
+   "near": 44759424,
+   "jaccard": 0.418
+  },
+  "47606145": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "47606350": {
+   "company": "atria",
+   "near": 48752751,
+   "jaccard": 0.301
+  },
+  "47606602": {
+   "company": "uncountable",
+   "near": 47220185,
+   "jaccard": 1.0
+  },
+  "47606829": {
+   "company": "goody"
+  },
+  "47606838": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.628
+  },
+  "47606922": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.365
+  },
+  "47607188": {
+   "company": "9 mothers defense"
+  },
+  "47607314": {
+   "company": "sentinel defense technologies",
+   "near": 47238992,
+   "jaccard": 0.457
+  },
+  "47607854": {
+   "company": "foxglove"
+  },
+  "47608799": {
+   "company": "puma tech",
+   "near": 48360581,
+   "jaccard": 0.617
+  },
+  "47609118": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.518
+  },
+  "47609246": {
+   "company": "thunder compute"
+  },
+  "47609849": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.571
+  },
+  "47609962": {
+   "company": "onton",
+   "near": 44765434,
+   "jaccard": 0.468
+  },
+  "47612478": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.8
+  },
+  "47613220": {
+   "company": "scite"
+  },
+  "47613244": {
+   "company": "volcore",
+   "near": 44179142,
+   "jaccard": 0.454
+  },
+  "47613323": {
+   "company": "blackshark ai"
+  },
+  "47613398": {
+   "company": "common prefix",
+   "near": 45096239,
+   "jaccard": 0.619
+  },
+  "47614153": {
+   "company": "estuary",
+   "near": 47238829,
+   "jaccard": 0.353
+  },
+  "47615904": {
+   "company": "northstar security"
+  },
+  "47621418": {
+   "company": "livekit"
+  },
+  "47624241": {
+   "company": "senior python backend engineer",
+   "near": 48399564,
+   "jaccard": 1.0
+  },
+  "47631066": {
+   "company": "fullstory",
+   "near": 48361680,
+   "jaccard": 0.401
+  },
+  "47655764": {
+   "company": "comulate",
+   "near": 46881344,
+   "jaccard": 0.724
+  },
+  "47660478": {
+   "company": "holepuch",
+   "near": 48034442,
+   "jaccard": 0.511
+  },
+  "47662878": {
+   "company": "redpanda data",
+   "near": 46469625,
+   "jaccard": 0.659
+  },
+  "47663311": {
+   "company": "baseten labs",
+   "near": 47220359,
+   "jaccard": 0.691
+  },
+  "47672075": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.523
+  },
+  "47696673": {
+   "company": "b well",
+   "near": 43918865,
+   "jaccard": 0.622
+  },
+  "47710603": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.696
+  },
+  "47767056": {
+   "company": "solace health"
+  },
+  "47772418": {
+   "company": "mongodb"
+  },
+  "47975581": {
+   "company": "netbird"
+  },
+  "47975618": {
+   "company": "bit capital",
+   "near": 48357777,
+   "jaccard": 0.74
+  },
+  "47975817": {
+   "company": "moyai"
+  },
+  "47975828": {
+   "company": "smarkets"
+  },
+  "47975870": {
+   "company": "solace health"
+  },
+  "47975902": {
+   "company": "conductor"
+  },
+  "47975952": {
+   "company": "beautiful",
+   "near": 48764209,
+   "jaccard": 1.0
+  },
+  "47975959": {
+   "company": "plantingspace",
+   "near": 47613445,
+   "jaccard": 0.743
+  },
+  "47976048": {
+   "company": "aqora"
+  },
+  "47976068": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.406
+  },
+  "47976200": {
+   "company": "lantern",
+   "near": 46857911,
+   "jaccard": 1.0
+  },
+  "47976228": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.829
+  },
+  "47976334": {
+   "company": "mongodb"
+  },
+  "47976499": {
+   "company": "covar",
+   "near": 44436191,
+   "jaccard": 0.313
+  },
+  "47976607": {
+   "company": "scholarly",
+   "near": 45439259,
+   "jaccard": 0.863
+  },
+  "47976637": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.921
+  },
+  "47976648": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.938
+  },
+  "47976728": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "47976769": {
+   "company": "return"
+  },
+  "47976780": {
+   "near": 47607631,
+   "jaccard": 1.0
+  },
+  "47977183": {
+   "company": "foxglove"
+  },
+  "47977299": {
+   "company": "clear"
+  },
+  "47977422": {
+   "company": "monumental",
+   "near": 47220380,
+   "jaccard": 1.0
+  },
+  "47977744": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.541
+  },
+  "47977939": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.395
+  },
+  "47978141": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.498
+  },
+  "47978287": {
+   "company": "uncountable",
+   "near": 47220185,
+   "jaccard": 1.0
+  },
+  "47978767": {
+   "company": "livekit"
+  },
+  "47978785": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.571
+  },
+  "47979377": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.518
+  },
+  "47979526": {
+   "company": "temporal technologies",
+   "near": 43243116,
+   "jaccard": 0.338
+  },
+  "47979994": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.8
+  },
+  "47980297": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.628
+  },
+  "47980397": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.364
+  },
+  "47981348": {
+   "company": "kiloforge",
+   "near": 48750516,
+   "jaccard": 0.718
+  },
+  "47981421": {
+   "company": "stanford research computing"
+  },
+  "47984038": {
+   "company": "prior labs",
+   "near": 47219823,
+   "jaccard": 0.687
+  },
+  "47984711": {
+   "company": "stellar",
+   "near": 47604566,
+   "jaccard": 0.567
+  },
+  "47985200": {
+   "company": "kraken tech",
+   "near": 49945738,
+   "jaccard": 0.842
+  },
+  "47985738": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.819
+  },
+  "47986563": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.788
+  },
+  "47987456": {
+   "company": "rinse"
+  },
+  "47988194": {
+   "company": "funnelstory"
+  },
+  "48005277": {
+   "company": "deepline",
+   "near": 47727983,
+   "jaccard": 1.0
+  },
+  "48005552": {
+   "company": "threatmark",
+   "near": 44487696,
+   "jaccard": 0.516
+  },
+  "48005926": {
+   "company": "eggai",
+   "near": 49525468,
+   "jaccard": 0.684
+  },
+  "48008852": {
+   "company": "category labs",
+   "near": 47670001,
+   "jaccard": 0.888
+  },
+  "48010560": {
+   "company": "baseten labs",
+   "near": 47220359,
+   "jaccard": 0.823
+  },
+  "48013821": {
+   "company": "fullstory",
+   "near": 48361680,
+   "jaccard": 0.609
+  },
+  "48013978": {
+   "company": "oscilar",
+   "near": 47602825,
+   "jaccard": 0.443
+  },
+  "48020730": {
+   "company": "senior python backend engineer",
+   "near": 48399564,
+   "jaccard": 1.0
+  },
+  "48021536": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.765
+  },
+  "48022980": {
+   "company": "permitflow",
+   "near": 47649099,
+   "jaccard": 1.0
+  },
+  "48034721": {
+   "company": "stream"
+  },
+  "48043765": {
+   "company": "sentinel defense technologies",
+   "near": 47238992,
+   "jaccard": 0.439
+  },
+  "48051915": {
+   "company": "estuary"
+  },
+  "48137886": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.783
+  },
+  "48357742": {
+   "near": 47978920,
+   "jaccard": 0.944
+  },
+  "48357778": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.351
+  },
+  "48357890": {
+   "company": "temporal technologies",
+   "near": 43243116,
+   "jaccard": 0.337
+  },
+  "48357894": {
+   "company": "monumental",
+   "near": 48749051,
+   "jaccard": 0.873
+  },
+  "48358075": {
+   "near": 47607631,
+   "jaccard": 0.958
+  },
+  "48358106": {
+   "company": "conductor",
+   "near": 48749271,
+   "jaccard": 1.0
+  },
+  "48358159": {
+   "company": "plantingspace",
+   "near": 47613445,
+   "jaccard": 0.656
+  },
+  "48358185": {
+   "company": "mongodb"
+  },
+  "48358281": {
+   "company": "smarkets"
+  },
+  "48358378": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.921
+  },
+  "48358386": {
+   "company": "blackshark ai"
+  },
+  "48358820": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.913
+  },
+  "48359481": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.788
+  },
+  "48359593": {
+   "company": "fusionbox",
+   "near": 46111911,
+   "jaccard": 0.534
+  },
+  "48359956": {
+   "company": "foxglove"
+  },
+  "48360189": {
+   "company": "alembic"
+  },
+  "48360194": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.628
+  },
+  "48360400": {
+   "company": "covar",
+   "near": 44436191,
+   "jaccard": 0.313
+  },
+  "48360453": {
+   "company": "prior labs"
+  },
+  "48360601": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "48360904": {
+   "company": "lantern",
+   "near": 46857911,
+   "jaccard": 0.946
+  },
+  "48360909": {
+   "company": "august health"
+  },
+  "48361074": {
+   "company": "clear"
+  },
+  "48361362": {
+   "company": "beautiful",
+   "near": 48764209,
+   "jaccard": 1.0
+  },
+  "48361443": {
+   "company": "category labs",
+   "near": 47670001,
+   "jaccard": 0.86
+  },
+  "48361656": {
+   "company": "duckduckgo",
+   "near": 44161344,
+   "jaccard": 0.497
+  },
+  "48361940": {
+   "company": "global partners",
+   "near": 48027873,
+   "jaccard": 0.648
+  },
+  "48362248": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.8
+  },
+  "48362749": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.518
+  },
+  "48362756": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.541
+  },
+  "48363752": {
+   "company": "piq energy",
+   "near": 46466139,
+   "jaccard": 0.812
+  },
+  "48363772": {
+   "company": "kiloforge",
+   "near": 48750516,
+   "jaccard": 0.718
+  },
+  "48363775": {
+   "company": "kyra health"
+  },
+  "48364782": {
+   "company": "beatdapp"
+  },
+  "48364817": {
+   "company": "foam"
+  },
+  "48365417": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.524
+  },
+  "48365748": {
+   "company": "coplane",
+   "near": 47224649,
+   "jaccard": 0.406
+  },
+  "48367909": {
+   "company": "mydatavalue"
+  },
+  "48370889": {
+   "company": "telli"
+  },
+  "48372029": {
+   "company": "articulate"
+  },
+  "48372240": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.385
+  },
+  "48372552": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 1.0
+  },
+  "48377948": {
+   "company": "albert",
+   "near": 49172196,
+   "jaccard": 0.969
+  },
+  "48383132": {
+   "company": "lovable"
+  },
+  "48392723": {
+   "company": "livekit"
+  },
+  "48399822": {
+   "company": "stream"
+  },
+  "48408853": {
+   "company": "return"
+  },
+  "48414026": {
+   "company": "estuary"
+  },
+  "48416066": {
+   "company": "vvd",
+   "near": 47977567,
+   "jaccard": 0.889
+  },
+  "48428518": {
+   "company": "permitflow",
+   "near": 47649099,
+   "jaccard": 1.0
+  },
+  "48444439": {
+   "company": "eggai",
+   "near": 49525468,
+   "jaccard": 0.684
+  },
+  "48748393": {
+   "company": "kyra health"
+  },
+  "48748961": {
+   "company": "temporal technologies",
+   "near": 43243116,
+   "jaccard": 0.361
+  },
+  "48749084": {
+   "near": 47607631,
+   "jaccard": 0.92
+  },
+  "48749201": {
+   "company": "splash tech",
+   "near": 45800668,
+   "jaccard": 0.585
+  },
+  "48749343": {
+   "company": "plantingspace",
+   "near": 47613445,
+   "jaccard": 0.338
+  },
+  "48749443": {
+   "near": 47978920,
+   "jaccard": 0.518
+  },
+  "48749755": {
+   "company": "duckduckgo"
+  },
+  "48750014": {
+   "company": "covar"
+  },
+  "48750083": {
+   "company": "please normalize 4dww",
+   "near": 49523896,
+   "jaccard": 1.0
+  },
+  "48750474": {
+   "company": "bucket robotics",
+   "near": 48361615,
+   "jaccard": 0.91
+  },
+  "48750829": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 0.738
+  },
+  "48751092": {
+   "company": "lantern",
+   "near": 46857911,
+   "jaccard": 0.848
+  },
+  "48751106": {
+   "company": "clear"
+  },
+  "48751855": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.863
+  },
+  "48751913": {
+   "company": "albert",
+   "near": 49172196,
+   "jaccard": 0.969
+  },
+  "48751937": {
+   "company": "middesk",
+   "near": 49525141,
+   "jaccard": 0.678
+  },
+  "48752134": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "48752640": {
+   "company": "foxglove"
+  },
+  "48752786": {
+   "company": "mongodb"
+  },
+  "48753172": {
+   "company": "ojin",
+   "near": 49184927,
+   "jaccard": 0.5
+  },
+  "48753234": {
+   "company": "solace health"
+  },
+  "48753597": {
+   "company": "puma tech",
+   "near": 48360581,
+   "jaccard": 0.712
+  },
+  "48754333": {
+   "company": "ro"
+  },
+  "48754924": {
+   "company": "stanford research computing",
+   "near": 42577935,
+   "jaccard": 0.372
+  },
+  "48756786": {
+   "company": "proxybase"
+  },
+  "48757283": {
+   "company": "prior labs"
+  },
+  "48757307": {
+   "company": "eggai",
+   "near": 49525468,
+   "jaccard": 0.696
+  },
+  "48761585": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.524
+  },
+  "48764138": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.758
+  },
+  "48764582": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.722
+  },
+  "48764770": {
+   "company": "fusionbox",
+   "near": 46111911,
+   "jaccard": 0.534
+  },
+  "48765532": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.363
+  },
+  "48767262": {
+   "company": "august health"
+  },
+  "48772462": {
+   "company": "senior python backend engineer",
+   "near": 48399564,
+   "jaccard": 0.893
+  },
+  "48780213": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.528
+  },
+  "48794583": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.916
+  },
+  "48797833": {
+   "company": "permitflow",
+   "near": 47649099,
+   "jaccard": 1.0
+  },
+  "48804757": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.385
+  },
+  "48805995": {
+   "company": "estuary"
+  },
+  "48806521": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.595
+  },
+  "48807202": {
+   "company": "sphinx defense"
+  },
+  "48809559": {
+   "company": "category labs",
+   "near": 47670001,
+   "jaccard": 0.524
+  },
+  "48822697": {
+   "company": "livekit"
+  },
+  "48825319": {
+   "company": "ditto"
+  },
+  "48835373": {
+   "company": "oscilar"
+  },
+  "49156716": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.357
+  },
+  "49156819": {
+   "company": "kyra health"
+  },
+  "49156845": {
+   "company": "temporal technologies",
+   "near": 43243116,
+   "jaccard": 0.336
+  },
+  "49157182": {
+   "near": 47607631,
+   "jaccard": 0.92
+  },
+  "49157265": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.641
+  },
+  "49157674": {
+   "company": "plantingspace",
+   "near": 47613445,
+   "jaccard": 0.344
+  },
+  "49157827": {
+   "company": "middesk",
+   "near": 49525141,
+   "jaccard": 0.775
+  },
+  "49157888": {
+   "company": "cogram"
+  },
+  "49158655": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 0.738
+  },
+  "49159281": {
+   "company": "duckduckgo"
+  },
+  "49159686": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.474
+  },
+  "49159784": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.603
+  },
+  "49160086": {
+   "company": "atria",
+   "near": 48752751,
+   "jaccard": 0.325
+  },
+  "49160170": {
+   "company": "covar"
+  },
+  "49160662": {
+   "company": "category labs",
+   "near": 47670001,
+   "jaccard": 0.524
+  },
+  "49162501": {
+   "company": "bucket robotics",
+   "near": 48361615,
+   "jaccard": 0.91
+  },
+  "49163160": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.524
+  },
+  "49163358": {
+   "company": "charge robotics",
+   "near": 49926244,
+   "jaccard": 0.518
+  },
+  "49163678": {
+   "company": "foxglove"
+  },
+  "49163927": {
+   "company": "stanford research computing",
+   "near": 42577935,
+   "jaccard": 0.359
+  },
+  "49165353": {
+   "company": "prior labs"
+  },
+  "49166151": {
+   "company": "senior python backend engineer",
+   "near": 48399564,
+   "jaccard": 0.785
+  },
+  "49167691": {
+   "company": "monumental",
+   "near": 48749051,
+   "jaccard": 0.949
+  },
+  "49168356": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "49169371": {
+   "company": "sphinx defense"
+  },
+  "49171202": {
+   "company": "sourcegraph"
+  },
+  "49175789": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.528
+  },
+  "49183442": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.675
+  },
+  "49185103": {
+   "company": "oscilar"
+  },
+  "49198416": {
+   "company": "estuary"
+  },
+  "49212742": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.602
+  },
+  "49215237": {
+   "company": "deepline",
+   "near": 47727983,
+   "jaccard": 0.569
+  },
+  "49217319": {
+   "company": "livekit"
+  },
+  "49230580": {
+   "company": "permitflow",
+   "near": 47649099,
+   "jaccard": 1.0
+  },
+  "49284614": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.506
+  },
+  "49522903": {
+   "company": "modash"
+  },
+  "49523018": {
+   "company": "smarkets"
+  },
+  "49523123": {
+   "company": "yeet",
+   "near": 44759613,
+   "jaccard": 0.545
+  },
+  "49523194": {
+   "company": "aerdos",
+   "near": 49163060,
+   "jaccard": 0.77
+  },
+  "49523422": {
+   "company": "proxybase"
+  },
+  "49523808": {
+   "company": "stream",
+   "near": 44435151,
+   "jaccard": 0.506
+  },
+  "49523950": {
+   "company": "plantingspace"
+  },
+  "49524252": {
+   "company": "conductor",
+   "near": 48749271,
+   "jaccard": 1.0
+  },
+  "49524341": {
+   "company": "findigs",
+   "near": 43332247,
+   "jaccard": 0.333
+  },
+  "49524501": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.566
+  },
+  "49524520": {
+   "near": 47607631,
+   "jaccard": 0.958
+  },
+  "49524691": {
+   "company": "covar"
+  },
+  "49524781": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.348
+  },
+  "49524978": {
+   "company": "category labs",
+   "near": 47670001,
+   "jaccard": 0.309
+  },
+  "49525412": {
+   "company": "krea"
+  },
+  "49525548": {
+   "company": "rinse"
+  },
+  "49525651": {
+   "company": "monumental",
+   "near": 48749051,
+   "jaccard": 0.77
+  },
+  "49526478": {
+   "company": "sourcegraph"
+  },
+  "49526742": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.475
+  },
+  "49526803": {
+   "company": "duckduckgo"
+  },
+  "49527115": {
+   "company": "spacelift",
+   "near": 42301108,
+   "jaccard": 0.495
+  },
+  "49527118": {
+   "company": "puma tech",
+   "near": 48360581,
+   "jaccard": 0.811
+  },
+  "49527283": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.5
+  },
+  "49527344": {
+   "company": "areo",
+   "near": 47615206,
+   "jaccard": 0.474
+  },
+  "49529518": {
+   "company": "new lantern"
+  },
+  "49530381": {
+   "company": "seeq",
+   "near": 49929522,
+   "jaccard": 0.743
+  },
+  "49531109": {
+   "company": "source"
+  },
+  "49531416": {
+   "company": "mondrio"
+  },
+  "49531646": {
+   "company": "serpapi",
+   "near": 49929200,
+   "jaccard": 0.938
+  },
+  "49532957": {
+   "company": "senior python backend engineer",
+   "near": 48399564,
+   "jaccard": 0.785
+  },
+  "49533498": {
+   "company": "telli"
+  },
+  "49534032": {
+   "company": "interview resources",
+   "near": 49207409,
+   "jaccard": 0.539
+  },
+  "49537584": {
+   "company": "prior labs"
+  },
+  "49539168": {
+   "company": "senzing",
+   "near": 49156737,
+   "jaccard": 0.406
+  },
+  "49539823": {
+   "company": "oscilar"
+  },
+  "49541107": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 0.738
+  },
+  "49541388": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.472
+  },
+  "49546936": {
+   "company": "lovable"
+  },
+  "49546958": {
+   "company": "frequenz energy as a service",
+   "near": 45800652,
+   "jaccard": 0.326
+  },
+  "49553901": {
+   "company": "tandem health",
+   "near": 48801914,
+   "jaccard": 0.398
+  },
+  "49564474": {
+   "company": "aurora energy research",
+   "near": 48758445,
+   "jaccard": 1.0
+  },
+  "49570095": {
+   "company": "livekit"
+  },
+  "49576039": {
+   "company": "permitflow",
+   "near": 47649099,
+   "jaccard": 1.0
+  },
+  "49613305": {
+   "company": "estuary"
+  },
+  "49615435": {
+   "company": "albert",
+   "near": 49172196,
+   "jaccard": 0.947
+  },
+  "49922850": {
+   "company": "thunder compute"
+  },
+  "49922881": {
+   "company": "smarkets"
+  },
+  "49924087": {
+   "company": "baton",
+   "near": 47982224,
+   "jaccard": 0.51
+  },
+  "49924327": {
+   "company": "solace health"
+  },
+  "49924674": {
+   "company": "duckduckgo"
+  },
+  "49925063": {
+   "company": "discord"
+  },
+  "49925489": {
+   "company": "enveritas",
+   "near": 47982361,
+   "jaccard": 0.738
+  },
+  "49925644": {
+   "company": "meritfirst"
+  },
+  "49925904": {
+   "company": "uncountable",
+   "near": 45096995,
+   "jaccard": 0.475
+  },
+  "49926213": {
+   "company": "tandem health"
+  },
+  "49927073": {
+   "company": "monumental",
+   "near": 48749051,
+   "jaccard": 0.77
+  },
+  "49927319": {
+   "near": 47607631,
+   "jaccard": 0.814
+  },
+  "49927692": {
+   "company": "rinse"
+  },
+  "49927984": {
+   "company": "sourcegraph"
+  },
+  "49928755": {
+   "company": "fusionauth",
+   "near": 48360523,
+   "jaccard": 0.881
+  },
+  "49928826": {
+   "company": "covar"
+  },
+  "49929235": {
+   "company": "radar labs",
+   "near": 45095872,
+   "jaccard": 0.589
+  },
+  "49929264": {
+   "company": "cvector",
+   "near": 47609341,
+   "jaccard": 0.817
+  },
+  "49929352": {
+   "company": "stellar science",
+   "near": 44164916,
+   "jaccard": 0.524
+  },
+  "49930260": {
+   "company": "lovable"
+  },
+  "49930681": {
+   "company": "modash"
+  },
+  "49930919": {
+   "company": "eventfirst",
+   "near": 45807771,
+   "jaccard": 0.38
+  },
+  "49931033": {
+   "company": "plantingspace",
+   "near": 47613445,
+   "jaccard": 0.338
+  },
+  "49931362": {
+   "company": "eggai",
+   "near": 49525468,
+   "jaccard": 0.91
+  },
+  "49933507": {
+   "company": "areo"
+  },
+  "49935210": {
+   "company": "ml6",
+   "near": 44159703,
+   "jaccard": 0.5
+  },
+  "49935497": {
+   "company": "prior labs"
+  },
+  "49937835": {
+   "company": "middesk",
+   "near": 49525141,
+   "jaccard": 1.0
+  },
+  "49939371": {
+   "company": "new lantern"
+  },
+  "49946276": {
+   "company": "mattermost",
+   "near": 49530116,
+   "jaccard": 0.927
+  },
+  "49964448": {
+   "company": "albert",
+   "near": 49172196,
+   "jaccard": 0.89
+  },
+  "49965012": {
+   "company": "tenki cloud by luxor tech"
+  },
+  "49967017": {
+   "company": "sphinx defense",
+   "near": 47225052,
+   "jaccard": 0.506
+  },
+  "49969213": {
+   "company": "funnelstory"
+  },
+  "49978570": {
+   "company": "posthog",
+   "near": 45094452,
+   "jaccard": 0.359
+  },
+  "49980680": {
+   "company": "coder",
+   "near": 48384224,
+   "jaccard": 0.48
+  },
+  "49980976": {
+   "company": "oscilar"
+  },
+  "49997244": {
+   "company": "livekit"
+  },
+  "50001801": {
+   "company": "netbird",
+   "near": 49532898,
+   "jaccard": 0.801
+  },
+  "50013152": {
+   "company": "vvd"
+  },
+  "50071142": {
+   "company": "estuary"
+  }
+ },
+ "order": [
+  42576266,
+  49525549,
+  44435973,
+  43565589,
+  46467948,
+  47219766,
+  42940177,
+  49295167,
+  46906861,
+  45446134,
+  49929588,
+  43889519,
+  49529957,
+  49559854,
+  48756697,
+  44437361,
+  45809991,
+  47610469,
+  42301002,
+  47607341,
+  42024271,
+  47981052,
+  47271625,
+  47611760,
+  47224402,
+  49166082,
+  46869122,
+  42024839,
+  48748378,
+  44435840,
+  42018959,
+  49935692,
+  42108562,
+  46502777,
+  46114363,
+  49923426,
+  49157647,
+  49199157,
+  46207084,
+  43562656,
+  47222459,
+  46857812,
+  43562350,
+  44765423,
+  44842321,
+  46476412,
+  45884377,
+  48360439,
+  48748564,
+  44161465,
+  46945590,
+  46482382,
+  46859590,
+  46467724,
+  49925260,
+  42075409,
+  43246329,
+  49926195,
+  42922273,
+  42585524,
+  44514716,
+  42298254,
+  42304201,
+  46861359,
+  44438569,
+  44528479,
+  46466774,
+  45446048,
+  46596115,
+  45817435,
+  48070967,
+  48376824,
+  42598162,
+  47225739,
+  43594573,
+  46907530,
+  42018117,
+  45440328,
+  42303872,
+  42371843,
+  49158703,
+  45804169,
+  43245037,
+  48013457,
+  43253808,
+  49526396,
+  46117858,
+  42019424,
+  49987144,
+  42955050,
+  46164265,
+  42324560,
+  49931051,
+  49972097,
+  42577579,
+  42928769,
+  45441456,
+  43564658,
+  49525831,
+  43549782,
+  46879486,
+  45804790,
+  44902183,
+  47977605,
+  44436467,
+  42043106,
+  45446911,
+  46858794,
+  48766311,
+  47638436,
+  47976500,
+  46860300,
+  43548276,
+  48908740,
+  42025477,
+  48358992,
+  42935011,
+  48357800,
+  49172407,
+  46211009,
+  43869618,
+  49940125,
+  48357792,
+  46109335,
+  48783722,
+  47604662,
+  42022863,
+  44514798,
+  43619691,
+  47230741,
+  45112876,
+  44436322,
+  46190308,
+  42922656,
+  44763272,
+  46197711,
+  49224620,
+  46112687,
+  43250990,
+  42070443,
+  47616532,
+  47604635,
+  48802744,
+  43864562,
+  45440809,
+  45130831,
+  47976903,
+  47229274,
+  46468376,
+  42936649,
+  48361614,
+  42315340,
+  42932334,
+  47678401,
+  43595748,
+  49530464,
+  45095426,
+  42711756,
+  46890337,
+  47603733,
+  45493665,
+  45202718,
+  44171189,
+  47604949,
+  48359855,
+  45161044,
+  42584556,
+  44435891,
+  46920847,
+  47277766,
+  48897221,
+  47983050,
+  42579526,
+  49166080,
+  42934807,
+  42920368,
+  44444917,
+  44443486,
+  49523740,
+  42638921,
+  48147597,
+  46870271,
+  42309185,
+  44760584,
+  48364864,
+  48531236,
+  46628673,
+  43252450,
+  44835635,
+  49976516,
+  43858638,
+  46115109,
+  45219796,
+  45952533,
+  45099497,
+  42586167,
+  45820433,
+  42976896,
+  46906102,
+  44762228,
+  45458819,
+  45805746,
+  43568925,
+  44160930,
+  45578956,
+  42305242,
+  44160278,
+  44757835,
+  46868484,
+  44760222,
+  49169663,
+  46861651,
+  45812402,
+  42593096,
+  47980511,
+  43547682,
+  42576450,
+  46122325,
+  45104864,
+  42301297,
+  49935441,
+  46467458,
+  45804162,
+  48361696,
+  46127388,
+  44790101,
+  42922121,
+  42724288,
+  46864481,
+  42313116,
+  46476963,
+  42298118,
+  46505651,
+  46108947,
+  46868542,
+  42301801,
+  47261286,
+  44177563,
+  44164613,
+  45095827,
+  43288103,
+  42301792,
+  44171419,
+  42576614,
+  42576717,
+  43872259,
+  43343402,
+  42919605,
+  49611044,
+  44437560,
+  47360403,
+  44228307,
+  45803857,
+  42960889,
+  47223956,
+  44492301,
+  42920692,
+  45183446,
+  43864766,
+  47977858,
+  48359483,
+  47610050,
+  42921711,
+  45468581,
+  43563736,
+  43560359,
+  42114732,
+  43860254,
+  45817554,
+  44786166,
+  47638363,
+  48373447,
+  42305695,
+  49968954,
+  44434887,
+  45802424,
+  43254007,
+  48359017,
+  42313554,
+  48750150,
+  42922301,
+  46134666,
+  49924974,
+  44800377,
+  46115295,
+  43873807,
+  46467801,
+  42921551,
+  42577530,
+  43966907,
+  49184940,
+  47290550,
+  43552056,
+  47604056,
+  46151516,
+  48361748,
+  48358258,
+  45803456,
+  45800650,
+  48752727,
+  47605721,
+  43247420,
+  45825624,
+  42946028,
+  47000819,
+  49931382,
+  48752077,
+  44521031,
+  43863773,
+  42299656,
+  44434613,
+  42934454,
+  42927791,
+  42306736,
+  42922271,
+  46117625,
+  48375155,
+  42023456,
+  42301674,
+  47986567,
+  42297963,
+  43656377,
+  49169577,
+  42922107,
+  45454646,
+  48751068,
+  44227566,
+  48067640,
+  44805340,
+  47977931,
+  46863986,
+  43564232,
+  42582344,
+  47991238,
+  48361570,
+  46861945,
+  45914878,
+  45451509,
+  47978129,
+  47220897,
+  47366704,
+  42615954,
+  45095049,
+  44456931,
+  46513205,
+  43619664,
+  48748407,
+  44160216,
+  42303087,
+  44441917,
+  45820451,
+  42931279,
+  47223980,
+  47601898,
+  48359106,
+  43870527,
+  43251357,
+  47241899,
+  47313952,
+  48752812,
+  42920246,
+  49924556,
+  47398997,
+  42297527,
+  47611314,
+  47602743,
+  49289931,
+  42022609,
+  45800598,
+  44493844,
+  49523408,
+  45100677,
+  49541874,
+  42019184,
+  45094855,
+  47606148,
+  47979394,
+  45445350,
+  47604397,
+  42300237,
+  47977223,
+  46117398,
+  43858634,
+  44251003,
+  46866066,
+  48889875,
+  46114382,
+  42583382,
+  43248495,
+  47226966,
+  47975760,
+  45449641,
+  47606172,
+  43243687,
+  48750122,
+  42304830,
+  45917223,
+  45096199,
+  42026307,
+  47609094,
+  42299839,
+  47231224,
+  48003121,
+  44441928,
+  45803121,
+  45457864,
+  46858683,
+  46469865,
+  48888035,
+  47229571,
+  49523875,
+  43260031,
+  49162565,
+  47977978,
+  42636486,
+  42051053,
+  44169948,
+  44908622,
+  47976070,
+  42306552,
+  49930868,
+  46862071,
+  44165128,
+  47603280,
+  42368564,
+  43630336,
+  42576432,
+  47220091,
+  49567458,
+  45099367,
+  42298730,
+  45440688,
+  46110948,
+  42019725,
+  49169841,
+  44160485,
+  45800756,
+  44167902,
+  47982610,
+  45806319,
+  42986096,
+  49931746,
+  43637256,
+  46599142,
+  46120243,
+  45801846,
+  47036452,
+  45463420,
+  46114811,
+  43617118,
+  47634597,
+  48443143,
+  48751306,
+  44434633,
+  45441637,
+  46859924,
+  42298410,
+  43552927,
+  45815038,
+  42588560,
+  48751006,
+  42920795,
+  42304750,
+  42379535,
+  49197515,
+  43864264,
+  46871501,
+  43867569,
+  49929283,
+  47678017,
+  42575573,
+  47976095,
+  42588012,
+  42053487,
+  49216288,
+  44459119,
+  49194503,
+  48011307,
+  45446638,
+  45816755,
+  42949879,
+  48366425,
+  47606461,
+  47267122,
+  42924814,
+  44168305,
+  46246722,
+  48752254,
+  49525270,
+  42299363,
+  48782067,
+  42928991,
+  48362448,
+  42020328,
+  49928452,
+  47236670,
+  42019055,
+  48778752,
+  42023151,
+  44227737,
+  49559434,
+  46471636,
+  42971586,
+  45442741,
+  48004707,
+  47601865,
+  47224157,
+  45445113,
+  48357963,
+  44444620,
+  45451758,
+  44436763,
+  46594603,
+  47778695,
+  47320714,
+  43567429,
+  42923878,
+  47610533,
+  45443525,
+  42919787,
+  47247499,
+  42020979,
+  42923061,
+  45808543,
+  45443353,
+  45804918,
+  47976294,
+  44159532,
+  47225888,
+  43859176,
+  44441404,
+  42043696,
+  43554853,
+  44894803,
+  45106379,
+  42297453,
+  44447704,
+  42589067,
+  48842857,
+  49527388,
+  42312307,
+  46208851,
+  45094279,
+  47980891,
+  49937104,
+  46466191,
+  46872867,
+  43866240,
+  49524835,
+  45099009,
+  42929953,
+  44170334,
+  42922642,
+  49529054,
+  45445647,
+  45105207,
+  42021985,
+  45813998,
+  45819318,
+  45812329,
+  42930380,
+  47980786,
+  47982988,
+  46858707,
+  43563471,
+  46469531,
+  46859375,
+  48751832,
+  47765444,
+  44162256,
+  48811437,
+  43582996,
+  49157959,
+  47229954,
+  43249126,
+  48037311,
+  43248964,
+  45094301,
+  49925544,
+  47605790,
+  48507707,
+  44168991,
+  46858562,
+  44160160,
+  42923055,
+  47767947,
+  43245117,
+  43355014,
+  45440394,
+  44453540,
+  46558735,
+  43244149,
+  45446723,
+  44436189,
+  43267443,
+  47680382,
+  45806746,
+  48469252,
+  42576401,
+  49527354,
+  43569106,
+  42047244,
+  46902722,
+  43245243,
+  48751339,
+  44910500,
+  48910969,
+  44763186,
+  46468074,
+  46211473,
+  45805683,
+  45444149,
+  43265578,
+  44435200,
+  47978926,
+  42299815,
+  43550922,
+  48750256,
+  46553484,
+  48757845,
+  49595476,
+  45802001,
+  42935446,
+  43873222,
+  49523558,
+  43558878,
+  46117975,
+  42920750,
+  43366565,
+  42368139,
+  47610840,
+  49164297,
+  44235349,
+  42017593,
+  44236004,
+  42920365,
+  48087214,
+  44164452,
+  46859092,
+  44161243,
+  49526894,
+  44160691,
+  48823535,
+  49541233,
+  47221356,
+  45800690,
+  42021088,
+  46112907,
+  45874223,
+  42946571,
+  45131626,
+  45132559,
+  42301687,
+  49529454,
+  46857825,
+  45517224,
+  42581221,
+  43859509,
+  43860858,
+  47223685,
+  44445121,
+  47221072,
+  48399570,
+  45505726,
+  48915237,
+  46113037,
+  45158357,
+  42322086,
+  48359608,
+  42575781,
+  46469038,
+  44514653,
+  43244539,
+  48361618,
+  45810750,
+  48848862,
+  47619045,
+  47975788,
+  47975744,
+  46468879,
+  43374225,
+  42025946,
+  46858889,
+  46498756,
+  43247384,
+  44435564,
+  49923756,
+  45443388,
+  45095180,
+  48362225,
+  48755090,
+  45805972,
+  42022662,
+  43897014,
+  42576685,
+  43251524,
+  42308653,
+  47608392,
+  48806120,
+  45805731,
+  42299908,
+  43858570,
+  44171024,
+  47223255,
+  44759017,
+  49927389,
+  45460802,
+  46110066,
+  44817645,
+  42650565,
+  45214572,
+  45443824,
+  42019765,
+  48011496,
+  46110008,
+  49922910,
+  45804425,
+  42018097,
+  44454679,
+  42018285,
+  44229341,
+  42021065,
+  44759683,
+  46118212,
+  46858377,
+  43933182,
+  48015477,
+  42301972,
+  43573294,
+  47606463,
+  42312289,
+  48368468,
+  47603345,
+  43569556,
+  47683125,
+  45246219,
+  46116740,
+  46502788,
+  45120960,
+  48766752,
+  44448936,
+  44440240,
+  42042934,
+  48451409,
+  44758206,
+  47221630,
+  49165031,
+  44760424,
+  46642360,
+  47601961,
+  42575634,
+  47224384,
+  46881503,
+  42301170,
+  48099184,
+  44161792,
+  49532259,
+  44765630,
+  46858321,
+  47981876,
+  43244478,
+  48039478,
+  44761160,
+  43549550,
+  45829893,
+  43036053,
+  43864168,
+  42577220,
+  45801505,
+  43245974,
+  42919893,
+  42021235,
+  44161172,
+  49160915,
+  42951113,
+  44167733,
+  49933483,
+  49174053,
+  44760412,
+  43862096,
+  44434671,
+  45567032,
+  42297905,
+  46636480,
+  46877706,
+  43560913,
+  42033698,
+  42921282,
+  48765841,
+  48363378,
+  45441141,
+  48016314,
+  42923287,
+  44434734,
+  43563380,
+  43869233,
+  46470899,
+  45449193,
+  42300188,
+  43248894,
+  49157781,
+  47611323,
+  44161787,
+  47602509,
+  49939260,
+  48381333,
+  46857585,
+  44435620,
+  49267985,
+  46110931,
+  44829213,
+  47976214,
+  46109850,
+  44161629,
+  43865439,
+  44165495,
+  48366909,
+  44446627,
+  45812501,
+  44436239,
+  47697924,
+  43550621,
+  45441015,
+  45438532,
+  43899831,
+  44452302,
+  42924924,
+  47976286,
+  49525463,
+  44447964,
+  42301952,
+  49929657,
+  43259201,
+  43858994,
+  42305677,
+  45096468,
+  42021066,
+  42020085,
+  42951986,
+  42719929,
+  43245309,
+  43555793,
+  44165451,
+  44168585,
+  49166975,
+  45441107,
+  49163176,
+  44161290,
+  44531223,
+  45439138,
+  48748705,
+  42298502,
+  48363462,
+  47980180,
+  49951635,
+  44869638,
+  47606169,
+  43873510,
+  43300373,
+  49163458,
+  45501609,
+  49930066,
+  43863830,
+  44449265,
+  44761918,
+  45801128,
+  45443020,
+  43568244,
+  42300309,
+  49553119,
+  42923586,
+  46111074,
+  42589866,
+  46857647,
+  47676563,
+  43009102,
+  45443203,
+  44757820,
+  46859985,
+  42587430,
+  42922390,
+  45800561,
+  48359262,
+  45094918,
+  42928008,
+  45593658,
+  43870828,
+  48762510,
+  45095319,
+  47633062,
+  46858879,
+  42682964,
+  45439058,
+  47224165,
+  42948084,
+  47241620,
+  44160549,
+  43868110,
+  50016229,
+  44438149,
+  44262316,
+  46110242,
+  42586193,
+  42612623,
+  46112804,
+  42018070,
+  46858342,
+  42043424,
+  47224990,
+  44161813,
+  47227261,
+  45801278,
+  42576134,
+  42589413,
+  47225787,
+  46888591,
+  45534530,
+  44436951,
+  46471113,
+  45802435,
+  45439105,
+  43243534,
+  46861028,
+  42021090,
+  45094579,
+  42937633,
+  47977154,
+  45807015,
+  42921083,
+  46204185,
+  42920688,
+  46129013,
+  48359536,
+  43009181,
+  47978984,
+  46858748,
+  46470836,
+  44163562,
+  43858758,
+  43562548,
+  44760178,
+  48754933,
+  42304421,
+  46859130,
+  43245099,
+  45186482,
+  43686632,
+  42054762,
+  45812525,
+  46212008,
+  42922651,
+  47603039,
+  47222724,
+  48868436,
+  48369698,
+  47603013,
+  49544301,
+  48825294,
+  43861267,
+  47978231,
+  43553805,
+  43573902,
+  47344076,
+  48361314,
+  47223097,
+  42585630,
+  42608546,
+  42300196,
+  46498043,
+  46905925,
+  42301482,
+  44764800,
+  44447664,
+  48371505,
+  47221273,
+  46109712,
+  45844962,
+  42298906,
+  44165348,
+  48361511,
+  46108996,
+  42927816,
+  46109520,
+  42043341,
+  49525729,
+  47979026,
+  42932258,
+  44440962,
+  42298342,
+  42018363,
+  44883506,
+  43257053,
+  47613093,
+  44761925,
+  47749158,
+  42304301,
+  44161714,
+  47221579,
+  43011727,
+  49550510,
+  43863977,
+  44801081,
+  49564322,
+  42927226,
+  42920710,
+  48750316,
+  46466223,
+  42919952,
+  42043874,
+  49963906,
+  45169753,
+  45102891,
+  45806521,
+  47765432,
+  49967489,
+  43559542,
+  42924048,
+  43551059,
+  45439401,
+  43553761,
+  46112562,
+  44792014,
+  42297808,
+  43243449,
+  45442230,
+  43572754,
+  43867747,
+  44509151,
+  42919519,
+  48801745,
+  44765088,
+  45801777,
+  48754567,
+  49543632,
+  44197202,
+  46108949,
+  48748034,
+  44757832,
+  47980362,
+  42928656,
+  43880707,
+  46131486,
+  46120268,
+  46467635,
+  45444784,
+  49159996,
+  49523712,
+  46148547,
+  45098837,
+  47757674,
+  44489583,
+  42353207,
+  49964254,
+  48362265,
+  44444050,
+  43245485,
+  42922646,
+  43245891,
+  48365480,
+  47603189,
+  42700198,
+  45805636,
+  42576819,
+  49160057,
+  46112673,
+  43674208,
+  48357853,
+  46469294,
+  42638613,
+  49923320,
+  46914468,
+  45093262,
+  45801107,
+  42575916,
+  45805184,
+  43245548,
+  47307796,
+  48755610,
+  48006232,
+  47649165,
+  48750358,
+  46110725,
+  49523956,
+  43244633,
+  46859629,
+  47603243,
+  46149969,
+  47976582,
+  46857936,
+  45872517,
+  47223365,
+  44169612,
+  47980469,
+  42349970,
+  44436401,
+  43246584,
+  48364915,
+  49968228,
+  43302702,
+  47607180,
+  47219927,
+  47220396,
+  43247490,
+  42609411,
+  46870264,
+  43909842,
+  49927917,
+  43246520,
+  43866758,
+  45810694,
+  43244925,
+  46858181,
+  46121189,
+  48779432,
+  44172275,
+  42927903,
+  44435040,
+  42378353,
+  49935001,
+  49525399,
+  44508400,
+  46907390,
+  47221995,
+  46858667,
+  49162047,
+  47232351,
+  42019196,
+  43243440,
+  48756639,
+  42922963,
+  43243799,
+  47981106,
+  43243142,
+  45804310,
+  47607095,
+  44161423,
+  45441748,
+  43866734,
+  46113549,
+  43974146,
+  42920074,
+  44790199,
+  44193266,
+  47977972,
+  42930521,
+  42022763,
+  47996843,
+  46857641,
+  43245898,
+  48750050,
+  45444134,
+  43864845,
+  47220513,
+  47689101,
+  44760720,
+  49533419,
+  46559779,
+  42921118,
+  44529452,
+  49523675,
+  44776080,
+  48837183,
+  46972527,
+  48368138,
+  47975619,
+  46858691,
+  42920591,
+  46112893,
+  43248877,
+  45808604,
+  45180199,
+  46109993,
+  47603342,
+  49522912,
+  45803685,
+  44529655,
+  42576220,
+  45449703,
+  46467085,
+  49187963,
+  44895564,
+  44162277,
+  45451010,
+  45161373,
+  48761138,
+  47236437,
+  43559407,
+  45176788,
+  49528637,
+  48819384,
+  44787734,
+  42300125,
+  42020571,
+  48758483,
+  45172046,
+  42018197,
+  45096269,
+  42612798,
+  42921619,
+  43562635,
+  45803569,
+  47976772,
+  46860113,
+  46858523,
+  44273665,
+  44759081,
+  45115964,
+  47978952,
+  46121699,
+  48067034,
+  47601928,
+  42022598,
+  42020775,
+  47704491,
+  44165359,
+  42018303,
+  46114023,
+  42924970,
+  47975687,
+  45583517,
+  49163946,
+  49164350,
+  44163324,
+  47603363,
+  46861288,
+  46862101,
+  44162293,
+  44202591,
+  42928514,
+  45453035,
+  45800473,
+  49159064,
+  45805472,
+  45804487,
+  49929510,
+  48011263,
+  43570057,
+  42925572,
+  46128682,
+  47981963,
+  42925619,
+  45806322,
+  46906781,
+  45802697,
+  42381558,
+  45093219,
+  48365778,
+  45443868,
+  48403261,
+  42924223,
+  45441028,
+  46865766,
+  44435735,
+  46112876,
+  44439237,
+  44162800,
+  49156730,
+  42020292,
+  46466795,
+  48751740,
+  48398390,
+  42613554,
+  49966712,
+  42920397,
+  49936893,
+  48009560,
+  49925116,
+  44766110,
+  45440258,
+  45805950,
+  43563610,
+  44765348,
+  47602034,
+  45095206,
+  43020115,
+  43549752,
+  45447291,
+  49528364,
+  47606059,
+  45802028,
+  44570283,
+  42021570,
+  46862400,
+  44763415,
+  44162926,
+  42920170,
+  42920073,
+  42017619,
+  49164060,
+  48003160,
+  43245359,
+  43550407,
+  46482793,
+  46858392,
+  44434620,
+  42921938,
+  47006572,
+  45438508,
+  47979300,
+  46469517,
+  42021741,
+  46468629,
+  44435709,
+  46947049,
+  44439808,
+  47259420,
+  47985407,
+  48371423,
+  49157646,
+  46111912,
+  49627985,
+  43258346,
+  45440596,
+  49174463,
+  43876971,
+  46872403,
+  42927511,
+  46110798,
+  49531126,
+  42919620,
+  43245206,
+  45446064,
+  47610945,
+  42020841,
+  42375372,
+  45804691,
+  48794643,
+  46993910,
+  43252147,
+  43860897,
+  47976749,
+  42086592,
+  46111081,
+  46274618,
+  49525603,
+  46636557,
+  44760289,
+  42658104,
+  44171360,
+  46860077,
+  50095921,
+  45140826,
+  47981361,
+  46109602,
+  43965998,
+  46865255,
+  44760504,
+  46611165,
+  46110987,
+  48359257,
+  42021400,
+  47975839,
+  47225273,
+  44788853,
+  47615203,
+  43596866,
+  49923784,
+  43253359,
+  47230207,
+  49525348,
+  43331457,
+  49926511,
+  42308977,
+  44762616,
+  49926872,
+  45445523,
+  44436745,
+  42298498,
+  47611589,
+  44761240,
+  49922609,
+  42624651,
+  42300691,
+  42371137,
+  42306734,
+  43866198,
+  42018378,
+  44161619,
+  46880460,
+  45841030,
+  42617598,
+  42920299,
+  46971762,
+  43883188,
+  43961900,
+  46507338,
+  46109448,
+  48358775,
+  42303925,
+  46116697,
+  43879975,
+  47605338,
+  43259398,
+  42019181,
+  46112897,
+  46110386,
+  42020879,
+  47226602,
+  47604344,
+  44164766,
+  48362254,
+  42937168,
+  48361294,
+  48365048,
+  46640277,
+  46466797,
+  42952273,
+  48363551,
+  45446073,
+  44759133,
+  45095800,
+  43549568,
+  42123745,
+  45440703,
+  47603680,
+  48385726,
+  49527133,
+  45096644,
+  46112144,
+  47219761,
+  46535376,
+  49531417,
+  45829057,
+  44437692,
+  46553199,
+  46110650,
+  47233907,
+  43722590,
+  47606590,
+  42301820,
+  45501591,
+  49158050,
+  45128707,
+  47989286,
+  48402193,
+  43616518,
+  48027372,
+  46117995,
+  46146064,
+  46867733,
+  47603298,
+  43563889,
+  46470676,
+  45439063,
+  46466992,
+  45244754,
+  48061232,
+  48359699,
+  46467434,
+  45801276,
+  47033489,
+  47603547,
+  42576206,
+  48358146,
+  44777784,
+  42103659,
+  45840703,
+  42921431,
+  43257860,
+  42312869,
+  42586339,
+  47999884,
+  49979600,
+  42920654,
+  47221642,
+  43866624,
+  48374519,
+  43869902,
+  48369362,
+  44557928,
+  45095959,
+  49925469,
+  48362294,
+  46896838,
+  43243034,
+  45469558,
+  42017587,
+  46862748,
+  42578645,
+  49197178,
+  49176763,
+  49929056,
+  49535156,
+  48008275,
+  46861264,
+  49525423,
+  48748052,
+  46865063,
+  44467233,
+  42045167,
+  44467976,
+  46858486,
+  46858834,
+  47975741,
+  45474979,
+  46115101,
+  42021195,
+  44524212,
+  42300333,
+  43865039,
+  48755327,
+  43875163,
+  43272466,
+  47979298,
+  42307658,
+  44441910,
+  45836594,
+  48752047,
+  45442801,
+  43248971,
+  43572433,
+  46858706,
+  47230726,
+  49925526,
+  45832585,
+  49525544,
+  44461247,
+  46560780,
+  43281266,
+  47977826,
+  46535464,
+  43347517,
+  43247545,
+  45439870,
+  49926951,
+  45802987,
+  42302231,
+  42320072,
+  44159956,
+  42935787,
+  44434692,
+  43547648,
+  49927083,
+  45103069,
+  47988482,
+  44817913,
+  48538544,
+  47978393,
+  44254311,
+  46112862,
+  43550493,
+  46468705,
+  44164137,
+  46858311,
+  44875286,
+  49163107,
+  49528413,
+  47341957,
+  44436627,
+  45105723,
+  48761162,
+  49189557,
+  42022203,
+  42922138,
+  47609966,
+  42033879,
+  42310589,
+  44160971,
+  50095249,
+  42300463,
+  42919634,
+  44802650,
+  45812208,
+  48394992,
+  42017801,
+  44762710,
+  43282309,
+  47222857,
+  44447403,
+  44463955,
+  45800666,
+  42583588,
+  42648325,
+  46467873,
+  42300088,
+  42576923,
+  44435382,
+  42922164,
+  43246188,
+  48518968,
+  47223382,
+  47222447,
+  42656723,
+  48533484,
+  45809013,
+  44169541,
+  44160627,
+  44161064,
+  44842731,
+  49929798,
+  44436615,
+  46468606,
+  43559686,
+  48749482,
+  42341588,
+  47603141,
+  42304584,
+  44167767,
+  42019464,
+  46468311,
+  45802213,
+  47976662,
+  44760021,
+  42928789,
+  42927476,
+  43574473,
+  49528405,
+  44440302,
+  46868088,
+  42920616,
+  42017851,
+  43548745,
+  46874404,
+  47977083,
+  45811165,
+  45803236,
+  48387732,
+  47628976,
+  49179433,
+  42302969,
+  45168091,
+  46115202,
+  42584019,
+  42300864,
+  49527646,
+  44761313,
+  46136484,
+  47978937,
+  46468361,
+  48750245,
+  44441027,
+  48362455,
+  44765861,
+  42921330,
+  48357745,
+  42613401,
+  45814021,
+  42921791,
+  47353878,
+  44449120,
+  45441417,
+  48749101,
+  47733725,
+  48759226,
+  42923467,
+  42954399,
+  49532941,
+  44436656,
+  43331901,
+  43547739,
+  45107348,
+  44165639,
+  44503309,
+  45801929,
+  43872852,
+  47637817,
+  46520031,
+  45143160,
+  49966852,
+  42641775,
+  45802199,
+  48389476,
+  45446816,
+  46858595,
+  47225096,
+  43594270,
+  46876386,
+  47701397,
+  44511001,
+  45444578,
+  46870688,
+  46857548,
+  42300178,
+  47248331,
+  47260697,
+  43630709,
+  48357897,
+  42322733,
+  43866206,
+  46110192,
+  47977953,
+  49524880,
+  42936381,
+  45120868,
+  46471975,
+  43246268,
+  46859526,
+  45812016,
+  42654900,
+  49527113,
+  44161305,
+  48358657,
+  42018453,
+  47979897,
+  46863837,
+  48359181,
+  47318729,
+  45802019,
+  42952331,
+  49523978,
+  46860342,
+  43255372,
+  44160316,
+  44800204,
+  43245148,
+  42017708,
+  46114849,
+  46858869,
+  45803447,
+  42309586,
+  49966033,
+  48000122,
+  45097625,
+  43243080,
+  43556152,
+  45439042,
+  42946035,
+  45442083,
+  46896484,
+  47603823,
+  44167612,
+  46112291,
+  44198999,
+  47221306,
+  46903595,
+  48069453,
+  44758036,
+  46955223,
+  43552571,
+  42962134,
+  49928430,
+  48030333,
+  42055889,
+  42923765,
+  43251553,
+  42589035,
+  43244578,
+  45807893,
+  48499239,
+  43551285,
+  42300216,
+  45438828,
+  44508628,
+  46896462,
+  49267747,
+  46111653,
+  46136950,
+  44161180,
+  47621535,
+  45448489,
+  43243044,
+  42577785,
+  43868316,
+  44161066,
+  49926031,
+  46196475,
+  44439907,
+  45522692,
+  42921106,
+  44161547,
+  42578941,
+  46859912,
+  45096131,
+  47220916,
+  46467610,
+  44441922,
+  44226741,
+  48363323,
+  48358793,
+  48017676,
+  49991656,
+  45099022,
+  49530256,
+  42709523,
+  46125008,
+  47223924,
+  44166797,
+  47225525,
+  45105742,
+  44761026,
+  45093222,
+  45803288,
+  42298935,
+  43860446,
+  45448171,
+  44160682,
+  45114991,
+  43247413,
+  48403229,
+  44172196,
+  46467197,
+  45110575,
+  48360108,
+  44435341,
+  47977643,
+  44819156,
+  46113763,
+  47986051,
+  42017655,
+  44187430,
+  45810609,
+  44161280,
+  46976593,
+  46111821,
+  42638542,
+  42932261,
+  43551326,
+  43871359,
+  46469584,
+  49523985,
+  46860888,
+  42924720,
+  42669329,
+  46953053,
+  48008806,
+  46499824,
+  49540382,
+  47230460,
+  49531439,
+  45441144,
+  48002437,
+  46473276,
+  44284573,
+  47611497,
+  45440706,
+  48373835,
+  47977066,
+  47235390,
+  47224677,
+  42921966,
+  47999750,
+  42575854,
+  44462318,
+  49524979,
+  47976317,
+  47225302,
+  44438158,
+  43893004,
+  46112272,
+  50068986,
+  42328649,
+  47270606,
+  45812919,
+  48009493,
+  48750113,
+  42923938,
+  46858210,
+  43868878,
+  43861343,
+  42576931,
+  49635387,
+  45439729,
+  47979955,
+  47244652,
+  46469514,
+  44761866,
+  42939252,
+  46467076,
+  47607995,
+  45093285,
+  43244119,
+  46860683,
+  46859595,
+  42921008,
+  46481306,
+  49212543,
+  46112597,
+  44759734,
+  46857760,
+  43245487,
+  46868783,
+  42633085,
+  47978806,
+  46109031,
+  45802258,
+  49523704,
+  45484001,
+  42579330,
+  42042908,
+  43864996,
+  43550932,
+  42920801,
+  47223570,
+  48358336,
+  43365068,
+  47358162,
+  48359385,
+  47975867,
+  43550719,
+  43548094,
+  44159679,
+  47607001,
+  43858719,
+  48362284,
+  44758396,
+  47980487,
+  43934127,
+  48363340,
+  45951688,
+  47318289,
+  48003986,
+  48006425,
+  42927742,
+  48755024,
+  43247079,
+  48362984,
+  43547655,
+  44170830,
+  49538758,
+  45104151,
+  48806181,
+  42018907,
+  42921828,
+  46480081,
+  44441444,
+  42304502,
+  42300476,
+  46119376,
+  43248934,
+  45100681,
+  42301064,
+  43869272,
+  47220776,
+  45802667,
+  46122252,
+  49927896,
+  44757802,
+  48756101,
+  47723777,
+  43879371,
+  46893914,
+  44438253,
+  44818733,
+  46133277,
+  49524080,
+  43245010,
+  48360907,
+  44771178,
+  49166970,
+  44436222,
+  42022982,
+  48811937,
+  42021632,
+  42300477,
+  46901627,
+  43564882,
+  46109723,
+  44167190,
+  43860036,
+  44857568,
+  42584240,
+  43559480,
+  44172344,
+  47977276,
+  44172640,
+  45093306,
+  47754408,
+  45841880,
+  45801976,
+  42617307,
+  42307199,
+  42021939,
+  49932275,
+  49926811,
+  46115360,
+  43244672,
+  48852085,
+  45448239,
+  48749014,
+  42932113,
+  42920819,
+  46471878,
+  45174611,
+  45822556,
+  45445869,
+  42023166,
+  42920486,
+  43244972,
+  45801179,
+  43250075,
+  44435141,
+  47979455,
+  48021354,
+  49523666,
+  44834012,
+  48913532,
+  45442033,
+  42026865,
+  43615681,
+  43247844,
+  47616664,
+  48004193,
+  42586402,
+  48751775,
+  45442961,
+  45443329,
+  45571216,
+  46591540,
+  45801306,
+  45438833,
+  42577042,
+  42303165,
+  43339956,
+  46220863,
+  42588104,
+  47984660,
+  49278096,
+  42018446,
+  49523703,
+  47324120,
+  48778245,
+  46146754,
+  45801694,
+  48748512,
+  45802089,
+  46572245,
+  42409306,
+  49547792,
+  43282108,
+  44769816,
+  44495423,
+  49537891,
+  46861176,
+  49244466,
+  45815214,
+  45517345,
+  45105873,
+  43556605,
+  49534764,
+  47604388,
+  47364863,
+  43875137,
+  45460825,
+  42923041,
+  42615645,
+  47981811,
+  42301506,
+  45443693,
+  46857703,
+  44165876,
+  47603881,
+  42925184,
+  48359806,
+  42661173,
+  42018179,
+  49538902,
+  49167647,
+  44161922,
+  44907976,
+  46861845,
+  44166939,
+  46860041,
+  43244828,
+  43246986,
+  45105270,
+  47976639,
+  49661611,
+  42581345,
+  47616392,
+  49554223,
+  46864421,
+  46495827,
+  47223881,
+  45095784,
+  42594300,
+  45802712,
+  47976739,
+  44499500,
+  47692927,
+  42921663,
+  46478009,
+  47224874,
+  45450304,
+  42018297,
+  46110698,
+  44763084,
+  43861003,
+  43934014,
+  43586321,
+  43257336,
+  44902421,
+  44762613,
+  43244439,
+  43245247,
+  49532122,
+  43547870,
+  48769712,
+  45883737,
+  46884382,
+  48357734,
+  45801744,
+  44165862,
+  44170158,
+  45502179,
+  43289484,
+  45804147,
+  49937789,
+  42576725,
+  42071278,
+  43868712,
+  42584612,
+  42023564,
+  44159535,
+  47270325,
+  43567159,
+  45440647,
+  42318364,
+  45873203,
+  48361574,
+  47609419,
+  47603990,
+  43549202,
+  48766112,
+  48400258,
+  44161966,
+  42943830,
+  42578774,
+  49933038,
+  42020943,
+  42305610,
+  45804466,
+  46111791,
+  44445751,
+  44161954,
+  48833943,
+  45802523,
+  49158727,
+  46508425,
+  49525135,
+  44437673,
+  47738222,
+  46469594,
+  46467172,
+  49573833,
+  49962002,
+  43864435,
+  45182238,
+  45126671,
+  43243071,
+  47780165,
+  44159593,
+  48748226,
+  49156724,
+  42920102,
+  45487441,
+  49963332,
+  43571776,
+  46111769,
+  45102049,
+  44161268,
+  42928939,
+  43861722,
+  45100806,
+  46110464,
+  46468103,
+  42024056,
+  42311668,
+  43320594,
+  49986260,
+  46521182,
+  42018471,
+  45119967,
+  45094620,
+  42311235,
+  48762450,
+  42320197,
+  45095990,
+  43322492,
+  47604264,
+  42577594,
+  47982383,
+  44170679,
+  42041084,
+  48760010,
+  43558108,
+  48039294,
+  48760654,
+  49162696,
+  49927158,
+  44440472,
+  42919506,
+  48915735,
+  47976189,
+  44438828,
+  43245060,
+  49996333,
+  42019425,
+  45806683,
+  47673074,
+  48372238,
+  46857774,
+  45803506,
+  42306490,
+  47621777,
+  49924016,
+  44782525,
+  44162579,
+  47976439,
+  48034718,
+  43858584,
+  49982648,
+  42380437,
+  46109563,
+  42302236,
+  47978490,
+  43623590,
+  44162992,
+  42921484,
+  48757527,
+  47976768,
+  47978064,
+  47604920,
+  43866690,
+  42113994,
+  46128260,
+  45186789,
+  44441550,
+  44766520,
+  49924869,
+  47227793,
+  43897635,
+  48860201,
+  45446823,
+  46135774,
+  46873017,
+  44448414,
+  45444072,
+  46864676,
+  46149070,
+  49523175,
+  42577816,
+  47220774,
+  47667155,
+  42920565,
+  47975951,
+  43548902,
+  44443177,
+  44759575,
+  48765345,
+  43913540,
+  43869468,
+  49522989,
+  46861004,
+  43874733,
+  46867611,
+  46216213,
+  45093487,
+  45093264,
+  48766814,
+  44160563,
+  49523768,
+  47977356,
+  42021170,
+  44524358,
+  49526361,
+  42384022,
+  42017588,
+  49523228,
+  47675410,
+  42140227,
+  42322185,
+  46466412,
+  43913558,
+  44435903,
+  49922929,
+  46920617,
+  47620144,
+  43548733,
+  48358942,
+  42580240,
+  42019064,
+  43244002,
+  42299134,
+  46121314,
+  46122068,
+  45441790,
+  48371138,
+  49524580,
+  49163308,
+  44789030,
+  46477688,
+  48750431,
+  48129378,
+  44164050,
+  47977270,
+  45100978,
+  46110683,
+  46977993,
+  42300050,
+  42964213,
+  45113235,
+  47341725,
+  45876442,
+  46110614,
+  43560226,
+  47603853,
+  45801772,
+  47221220,
+  43245855,
+  47324911,
+  48749661,
+  44759816,
+  43245160,
+  43898833,
+  44162329,
+  47222672,
+  42301525,
+  45213010,
+  49945147,
+  42026687,
+  47604162,
+  42018317,
+  46859082,
+  47605719,
+  49995549,
+  45480237,
+  44230990,
+  43246453,
+  48458096,
+  47980060,
+  48764956,
+  48754441,
+  45878938,
+  44881074,
+  46548264,
+  46875351,
+  42927771,
+  42146099,
+  48359905,
+  48791997,
+  42308486,
+  48378474,
+  46469214,
+  49174485,
+  42297456,
+  46586993,
+  46480236,
+  42920490,
+  46113784,
+  46886146,
+  44760373,
+  42019880,
+  42431597,
+  47978746,
+  47977849,
+  44450060,
+  45804043,
+  48409132,
+  43245849,
+  43574875,
+  44760349,
+  46473138,
+  49922615,
+  45095254,
+  43243866,
+  43549010,
+  45447179,
+  46112988,
+  46166375,
+  47229094,
+  50056667,
+  48797747,
+  49933183,
+  47602635,
+  47231977,
+  46858532,
+  45800850,
+  44766062,
+  48360712,
+  44437208,
+  48360843,
+  47227874,
+  50003866,
+  48012595,
+  43266017,
+  46875895,
+  48017525,
+  46111903,
+  42020372,
+  47986311,
+  50104234,
+  42301098,
+  47704212,
+  48372101,
+  47251873,
+  48751725,
+  43910473,
+  49215960,
+  47975670,
+  48363814,
+  42578374,
+  44760258,
+  43870270,
+  45804432,
+  44435615,
+  49524406,
+  45444823,
+  46860156,
+  43871790,
+  45444071,
+  48403016,
+  45442421,
+  45807272,
+  44443127,
+  49163907,
+  49532154,
+  42326856,
+  46984173,
+  42613233,
+  46993907,
+  45097684,
+  42924812,
+  43690660,
+  48810367,
+  48121719,
+  42300797,
+  44169333,
+  46903459,
+  47976431,
+  45510962,
+  44436399,
+  46280947,
+  46506029,
+  45438511,
+  43029839,
+  49291876,
+  43244693,
+  44559845,
+  46866432,
+  45801368,
+  46110265,
+  44817698,
+  47603467,
+  43858671,
+  42018490,
+  43243668,
+  48758289,
+  45538855,
+  45814555,
+  46861580,
+  44439561,
+  45800887,
+  43368999,
+  44434989,
+  46109687,
+  44163294,
+  47981353,
+  48749845,
+  44201698,
+  44437291,
+  42577286,
+  43333488,
+  44438390,
+  46113346,
+  46622835,
+  49223303,
+  43252224,
+  42305011,
+  49165916,
+  42954681,
+  49166131,
+  46110003,
+  49939047,
+  45446733,
+  47229567,
+  48761457,
+  42137383,
+  43550474,
+  42021995,
+  47221110,
+  43866279,
+  49928334,
+  48357732,
+  46468406,
+  44160674,
+  49529015,
+  44170437,
+  42962958,
+  47223968,
+  42122076,
+  45446388,
+  47979929,
+  46122742,
+  42021820,
+  42577300,
+  42587318,
+  42022190,
+  47219920,
+  49275045,
+  45438559,
+  45802727,
+  49924889,
+  49174765,
+  49543579,
+  47243146,
+  47664663,
+  43865410,
+  46116402,
+  49180607,
+  47221603,
+  46139219,
+  48371252,
+  49200756,
+  45806092,
+  46885398,
+  43861684,
+  44438527,
+  49929547,
+  45112506,
+  46561243,
+  49924581,
+  49530873,
+  48753050,
+  42681366,
+  47223326,
+  48755638,
+  46499794,
+  49937058,
+  44445102,
+  46897836,
+  45142269,
+  44762301,
+  43246616,
+  46108976,
+  43866535,
+  43353856,
+  48028990,
+  45438845,
+  47982238,
+  45813077,
+  42928395,
+  43283907,
+  44172555,
+  43565063,
+  48749072,
+  44196773,
+  45442402,
+  42302818,
+  43259199,
+  45441262,
+  43547667,
+  44435753,
+  45439712,
+  43568108,
+  42576415,
+  43551219,
+  43012160,
+  43898634,
+  45812847,
+  50002587,
+  44199240,
+  49923454,
+  44439899,
+  49168019,
+  42017752,
+  45444743,
+  45249657,
+  46110326,
+  47613424,
+  43897538,
+  49532070,
+  42921255,
+  44162790,
+  45093743,
+  42926007,
+  49547973,
+  44763729,
+  49165394,
+  48054246,
+  45919075,
+  49935587,
+  46109699,
+  46873054,
+  46115083,
+  47604168,
+  48361797,
+  42608706,
+  44758972,
+  49163301,
+  44160426,
+  46858223,
+  43551319,
+  47637465,
+  46858341,
+  43248587,
+  43967085,
+  47676433,
+  42022508,
+  44767226,
+  45097042,
+  42304699,
+  44784066,
+  44162448,
+  46946277,
+  48470128,
+  46860500,
+  49160993,
+  48369584,
+  46472682,
+  49162608,
+  45218055,
+  46857868,
+  48370094,
+  42576546,
+  47977568,
+  48802846,
+  45801222,
+  42920215,
+  42121522,
+  45441175,
+  42585613,
+  47220965,
+  45446865,
+  45812951,
+  49336502,
+  45442642,
+  45102389,
+  43029328,
+  42306289,
+  45801831,
+  48026290,
+  42020213,
+  43584569,
+  43243587,
+  48365334,
+  46860823,
+  43258088,
+  43611812,
+  42578647,
+  43975998,
+  44758311,
+  48750813,
+  42018450,
+  47281461,
+  44441176,
+  46281457,
+  44273484,
+  44434611,
+  42035928,
+  47227044,
+  49211731,
+  46469370,
+  43247166,
+  43865268,
+  46149978,
+  49930478,
+  43284606,
+  47220172,
+  47220989,
+  50020012,
+  42929543,
+  46859859,
+  43562643,
+  44170730,
+  43570865,
+  42029986,
+  49159002,
+  45803333,
+  48361997,
+  44760610,
+  49160628,
+  46862621,
+  45440655,
+  49525241,
+  43860134,
+  49934530,
+  45802007,
+  42583081,
+  43258553,
+  49194132,
+  45837973,
+  43290356,
+  47626656,
+  46861441,
+  43356920,
+  49976350,
+  45178034,
+  46110868,
+  45099891,
+  48754520,
+  47976762,
+  42022674,
+  47221281,
+  44765522,
+  48360357,
+  42576610,
+  42577362,
+  44435047,
+  42019185,
+  49966427,
+  43879582,
+  46111020,
+  47680673,
+  46861332,
+  46109288,
+  43874824,
+  43682252,
+  47984681,
+  47222587,
+  44804356,
+  43575096,
+  45809383,
+  47679881,
+  44762118,
+  45439136,
+  48750628,
+  45530010,
+  46153361,
+  44175690,
+  44456611,
+  49165309,
+  48359477,
+  47611640,
+  43566287,
+  42583182,
+  47601911,
+  44161655,
+  45492414,
+  46471372,
+  47604642,
+  46862811,
+  48381736,
+  49528837,
+  44162433,
+  49963937,
+  48753495,
+  48775598,
+  45446588,
+  42580499,
+  47601995,
+  42932674,
+  44788389,
+  46481959,
+  43865199,
+  49164730,
+  49962303,
+  45456014,
+  46149853,
+  49935697,
+  44435258,
+  45100923,
+  45094862,
+  46113292,
+  42577435,
+  48756588,
+  49522929,
+  46505227,
+  46110790,
+  48445051,
+  48750271,
+  45467025,
+  48099220,
+  42300310,
+  48361818,
+  46120633,
+  44180352,
+  44434786,
+  42018311,
+  43244911,
+  48358214,
+  46860331,
+  45854780,
+  47229724,
+  44761497,
+  48055606,
+  45093202,
+  43551504,
+  49928677,
+  44825739,
+  49524327,
+  42302952,
+  42594686,
+  45801873,
+  42919702,
+  44159727,
+  46469165,
+  49943992,
+  44237849,
+  43358730,
+  45137778,
+  46857964,
+  46858190,
+  43859896,
+  48753394,
+  44443564,
+  48750767,
+  42300084,
+  43246341,
+  42368932,
+  46859202,
+  47309646,
+  47976872,
+  45805710,
+  44162669,
+  49982803,
+  44758422,
+  45094015,
+  46117800,
+  49527374,
+  44762709,
+  48362564,
+  44176681,
+  46907131,
+  42924069,
+  44765511,
+  44796398,
+  43243598,
+  44467567,
+  46857693,
+  44435913,
+  43253597,
+  43572280,
+  49227630,
+  42577812,
+  42930349,
+  46469715,
+  42017878,
+  46492105,
+  47620067,
+  45443278,
+  46111968,
+  45097523,
+  42703397,
+  47224089,
+  44441843,
+  47248851,
+  47627245,
+  42306084,
+  49322552,
+  48755303,
+  49530867,
+  46470027,
+  44761597,
+  49924165,
+  47236558,
+  44180286,
+  48358971,
+  46857875,
+  47604603,
+  42575543,
+  48390831,
+  47986820,
+  42943316,
+  47673384,
+  45495080,
+  44762150,
+  44164721,
+  42036367,
+  46857510,
+  43879870,
+  42584673,
+  45933115,
+  49171913,
+  43624019,
+  49232553,
+  48361326,
+  47220291,
+  48361767,
+  47976367,
+  46466769,
+  48017490,
+  45117469,
+  44185662,
+  49555479,
+  42583957,
+  46112642,
+  43244905,
+  42022255,
+  42928430,
+  42580301,
+  42955819,
+  49162833,
+  49923964,
+  44442024,
+  42921039,
+  45099520,
+  49527193,
+  43863521,
+  47603236,
+  44766963,
+  46504484,
+  46555927,
+  48754418,
+  42021036,
+  47982703,
+  47623753,
+  43873226,
+  44462897,
+  47290112,
+  45102718,
+  44436094,
+  48762477,
+  49598799,
+  44435915,
+  42617776,
+  42140179,
+  47978246,
+  43245276,
+  43863964,
+  47606585,
+  43556540,
+  46483072,
+  46881674,
+  49932264,
+  48406760,
+  47705982,
+  45096787,
+  48368660,
+  43566582,
+  49924849,
+  45476407,
+  45101653,
+  46466830,
+  42580841,
+  44163036,
+  48818183,
+  47673019,
+  47226444,
+  43245970,
+  46858467,
+  49282255,
+  47978339,
+  42020754,
+  49525600,
+  45439102,
+  45111249,
+  46110384,
+  47221397,
+  42311860,
+  47603702,
+  42588950,
+  47979213,
+  43243217,
+  44161254,
+  43547789,
+  43561145,
+  42018480,
+  48372372,
+  46110703,
+  42578991,
+  43548079,
+  46858393,
+  42020105,
+  48829225,
+  43554034,
+  42038364,
+  48383266,
+  48762979,
+  45849183,
+  49929553,
+  47611767,
+  43252429,
+  46112381,
+  49167837,
+  42081280,
+  44161760,
+  47255238,
+  44459045,
+  46864372,
+  49173892,
+  48365790,
+  48424882,
+  48388366,
+  44435598,
+  45448311,
+  45447549,
+  43864877,
+  43860228,
+  48026144,
+  42018670,
+  47220401,
+  44814602,
+  42019743,
+  46867927,
+  43333787,
+  44448104,
+  45093366,
+  47603879,
+  45805347,
+  48749307,
+  44161570,
+  45097165,
+  42923767,
+  43863421,
+  48509534,
+  43896164,
+  46872073,
+  47976670,
+  43555467,
+  48357913,
+  49175131,
+  47330468,
+  47976955,
+  47604057,
+  46272555,
+  49168047,
+  45443292,
+  42923042,
+  45114278,
+  47230205,
+  47281154,
+  43600107,
+  49994263,
+  49169017,
+  46469223,
+  46870506,
+  42026231,
+  43864896,
+  49528822,
+  45448017,
+  43871216,
+  42042295,
+  42921821,
+  45806358,
+  43547643,
+  43867967,
+  43273234,
+  44161231,
+  48385780,
+  45812250,
+  42951324,
+  45803948,
+  42920652,
+  48363326,
+  47242928,
+  43245851,
+  46865885,
+  48753329,
+  46513900,
+  44787634,
+  48767937,
+  47317425,
+  43644477,
+  46467366,
+  43550369,
+  43566101,
+  42019944,
+  43245215,
+  49167059,
+  48358939,
+  46113062,
+  49528044,
+  42098441,
+  47607962,
+  48362790,
+  42920934,
+  49533854,
+  45883675,
+  42303823,
+  48015893,
+  49927132,
+  42921567,
+  45915184,
+  45521953,
+  42017871,
+  43915994,
+  43356678,
+  45833780,
+  42021964,
+  46509225,
+  47220599,
+  42318663,
+  45803817,
+  45103730,
+  42082937,
+  42965528,
+  42303612,
+  42919531,
+  46111252,
+  43566222,
+  46119024,
+  46859445,
+  46119049,
+  45801915,
+  44170061,
+  42299109,
+  42302746,
+  47305192,
+  42576602,
+  46468671,
+  45534283,
+  42019409,
+  42033860,
+  44160304,
+  45456049,
+  45094633,
+  44434686,
+  45801136,
+  49533274,
+  49928396,
+  48748028,
+  48403593,
+  49157080,
+  48753025,
+  46868000,
+  45094636,
+  48360245,
+  44441481,
+  48404934,
+  43250404,
+  43551535,
+  42926216,
+  46858449,
+  44469818,
+  47677688,
+  44434618,
+  42920250,
+  45123219,
+  49926232,
+  49945634,
+  42331886,
+  44785403,
+  47221922,
+  47604638,
+  44839276,
+  45216157,
+  45806403,
+  45444474,
+  46469380,
+  48457866,
+  44450189,
+  42301171,
+  42298554,
+  46863917,
+  49530909,
+  43358068,
+  46857717,
+  46866788,
+  45100181,
+  49524031,
+  49166000,
+  43871565,
+  43245555,
+  49926050,
+  42307545,
+  43255056,
+  45803871,
+  48495482,
+  47606330,
+  45096769,
+  43248558,
+  45806146,
+  47750043,
+  43858569,
+  46109012,
+  44161389,
+  45804521,
+  42580393,
+  44226089,
+  47306961,
+  46858418,
+  42301995,
+  47292427,
+  48366418,
+  42019729,
+  45440820,
+  46111857,
+  45204252,
+  45100767,
+  44162369,
+  47222646,
+  45801357,
+  46871481,
+  42582956,
+  49578811,
+  42322355,
+  46469833,
+  42938838,
+  45453957,
+  42018578,
+  42629813,
+  43256408,
+  46110543,
+  43032951,
+  43548911,
+  42964849,
+  44260782,
+  45160963,
+  42088243,
+  45457854,
+  44166825,
+  45820422,
+  45445035,
+  43290353,
+  42021193,
+  49280288,
+  44434731,
+  44452272,
+  45439212,
+  47605023,
+  48750129,
+  42578807,
+  47773371,
+  45113539,
+  42920813,
+  42931068,
+  46872979,
+  45801006,
+  42067095,
+  43869557,
+  42575774,
+  43264331,
+  48360222,
+  43246506,
+  48818875,
+  42309342,
+  43603775,
+  42026580,
+  43638463,
+  42307873,
+  45807042,
+  45100062,
+  46109416,
+  43568446,
+  49160751,
+  43872633,
+  42576469,
+  44161905,
+  49313253,
+  42920681,
+  48127030,
+  42041979,
+  44160152,
+  43565470,
+  44160978,
+  46496799,
+  45113485,
+  46981832,
+  44818094,
+  46114823,
+  42018600,
+  42920135,
+  48400263,
+  47979550,
+  45444353,
+  42576975,
+  47606988,
+  47603501,
+  44888879,
+  46469166,
+  45807186,
+  42321765,
+  45105161,
+  49528002,
+  48016274,
+  44444104,
+  49162950,
+  43548098,
+  46858291,
+  42588200,
+  43303608,
+  42920770,
+  48753849,
+  47224712,
+  42019706,
+  46118895,
+  43959566,
+  48749843,
+  43551044,
+  46893204,
+  44436409,
+  43258184,
+  45822779,
+  42583910,
+  42025846,
+  43967631,
+  46478887,
+  43867917,
+  45814874,
+  42018375,
+  42577770,
+  46502689,
+  48368363,
+  44868515,
+  42924292,
+  46858463,
+  48757141,
+  46857955,
+  43869488,
+  44766561,
+  43689901,
+  44438214,
+  43269808,
+  44168288,
+  42301159,
+  45094315,
+  48020288,
+  45096470,
+  47228640,
+  48755415,
+  49923163,
+  49935698,
+  45828248,
+  42610312,
+  43872891,
+  47976501,
+  47690735,
+  42018118,
+  43547974,
+  43930944,
+  46466466,
+  47983369,
+  42300929,
+  45809122,
+  46466328,
+  43246462,
+  44453006,
+  46869643,
+  42087239,
+  47278362,
+  44436731,
+  44434796,
+  47977115,
+  49550509,
+  45804543,
+  43386449,
+  45803256,
+  42022665,
+  47222105,
+  48373063,
+  42430940,
+  43860064,
+  45464646,
+  46473676,
+  44761493,
+  43554148,
+  47250277,
+  45094359,
+  45808223,
+  43249928,
+  43550352,
+  44569609,
+  42927039,
+  44160127,
+  45102899,
+  42576572,
+  42298087,
+  48363123,
+  44170035,
+  45944661,
+  47220278,
+  45099757,
+  47981089,
+  43867950,
+  49934114,
+  44438616,
+  45096461,
+  47700740,
+  47602035,
+  48838599,
+  42300934,
+  43646584,
+  44759426,
+  46198722,
+  42019587,
+  49939804,
+  45440839,
+  47605066,
+  49169157,
+  45104699,
+  46113013,
+  43243093,
+  45103743,
+  46877031,
+  45801327,
+  49527181,
+  44837439,
+  45223836,
+  46961849,
+  46110415,
+  46873021,
+  46877126,
+  46991052,
+  45809444,
+  49156689,
+  48358393,
+  49531002,
+  44161133,
+  49157454,
+  46998778,
+  44757817,
+  46113045,
+  46499208,
+  44758985,
+  47221286,
+  46878250,
+  48020352,
+  46917479,
+  44525961,
+  45439500,
+  49180017,
+  42923551,
+  49925468,
+  47757571,
+  49162776,
+  46858809,
+  42299180,
+  43565674,
+  45099952,
+  46113515,
+  49524167,
+  48358221,
+  48365376,
+  43865402,
+  43657837,
+  44435270,
+  45446798,
+  48012401,
+  43254349,
+  42299490,
+  43268594,
+  49164382,
+  49180088,
+  42587175,
+  45845271,
+  43248107,
+  46864488,
+  44435008,
+  49922769,
+  46868773,
+  45221721,
+  43243322,
+  43247942,
+  43972198,
+  46597627,
+  43567251,
+  44781860,
+  48754925,
+  44441681,
+  42019224,
+  46110742,
+  43562111,
+  42698511,
+  46162082,
+  48774583,
+  45107180,
+  46888712,
+  43252278,
+  44763482,
+  48363987,
+  46469128,
+  47234970,
+  48476041,
+  45178981,
+  46122112,
+  49922899,
+  47989541,
+  44436748,
+  44168444,
+  44458901,
+  42581088,
+  43863407,
+  43690033,
+  42300270,
+  47772392,
+  43866751,
+  43861790,
+  46127201,
+  45093198,
+  48401238,
+  43865172,
+  47246611,
+  46857490,
+  43258437,
+  44174506,
+  43247237,
+  46109127,
+  44161543,
+  43562745,
+  42920362,
+  42341088,
+  44161383,
+  42301093,
+  49161851,
+  49163520,
+  47219791,
+  44788342,
+  42309481,
+  45520291,
+  43861223,
+  49524920,
+  46133898,
+  43547925,
+  49523604,
+  47230041,
+  43287012,
+  46894224,
+  48749540,
+  42300893,
+  47985197,
+  46120780,
+  43863481,
+  48361403,
+  46466743,
+  42301800,
+  46120893,
+  42920133,
+  49934993,
+  42929900,
+  46873950,
+  47224356,
+  42577987,
+  44757997,
+  44164731,
+  49924509,
+  47978989,
+  45447701,
+  42922609,
+  43274561,
+  47976732,
+  46155386,
+  47977919,
+  46113594,
+  45534318,
+  42576515,
+  47609507,
+  46469686,
+  49937360,
+  43893184,
+  48397115,
+  45806266,
+  43246082,
+  49156711,
+  44167766,
+  45805590,
+  45801137,
+  43965228,
+  48750836,
+  45094010,
+  49538639,
+  48751039,
+  43872543,
+  49613617,
+  49326458,
+  48365211,
+  45801415,
+  42577533,
+  49158895,
+  45804784,
+  45806859,
+  46859323,
+  47242121,
+  44435977,
+  45438585,
+  43935499,
+  44435402,
+  42985559,
+  46857573,
+  43627350,
+  43867432,
+  44171956,
+  49972736,
+  46483154,
+  44759839,
+  49525418,
+  49926504,
+  42611229,
+  42369198,
+  47231735,
+  45804086,
+  49530424,
+  44187265,
+  48358924,
+  42583390,
+  49922695,
+  47249936,
+  49934638,
+  49157505,
+  42930172,
+  47224884,
+  45120310,
+  43867375,
+  44858243,
+  44162599,
+  42588946,
+  44762648,
+  42921733,
+  48450323,
+  45457575,
+  45103797,
+  47368079,
+  44764006,
+  42297718,
+  42922484,
+  48032288,
+  42309034,
+  47221821,
+  43550278,
+  44760930,
+  42920765,
+  46110287,
+  49164894,
+  44169699,
+  43859231,
+  43555336,
+  46996070,
+  42919552,
+  49525750,
+  42930648,
+  46859274,
+  43552049,
+  47220503,
+  44760303,
+  48363110,
+  43965787,
+  43245415,
+  43244767,
+  46873988,
+  42304792,
+  45800476,
+  43883550,
+  45913141,
+  44758674,
+  46469041,
+  42921439,
+  49186245,
+  43558116,
+  44525943,
+  49550471,
+  42634578,
+  48359673,
+  46467206,
+  42301642,
+  48817531,
+  44159626,
+  46904144,
+  46111090,
+  43245326,
+  47613432,
+  45441693,
+  46593336,
+  44771323,
+  42305013,
+  44161604,
+  45947385,
+  42974415,
+  48359465,
+  43244703,
+  42575790,
+  47606136,
+  49974107,
+  42577164,
+  42020609,
+  46858035,
+  42299106,
+  42312220,
+  44758179,
+  44161035,
+  48010697,
+  43561521,
+  42588438,
+  47296800,
+  49164303,
+  45804118,
+  48358702,
+  42328276,
+  44162891,
+  49171072,
+  47603975,
+  48462170,
+  46860157,
+  48837669,
+  47221199,
+  43358817,
+  47772933,
+  45094669,
+  50091446,
+  42929302,
+  45443635,
+  43547684,
+  46110404,
+  46860754,
+  45454700,
+  43904936,
+  42300189,
+  46911216,
+  47220040,
+  45096412,
+  46871300,
+  47977930,
+  44440455,
+  47280830,
+  43678293,
+  47220521,
+  42965495,
+  43566641,
+  43552879,
+  45803054,
+  47606879,
+  42019470,
+  48915341,
+  46862438,
+  46115133,
+  45801446,
+  48364413,
+  44444027,
+  44559830,
+  47754096,
+  47687407,
+  43858846,
+  48357761,
+  43875902,
+  46136027,
+  44531965,
+  42921527,
+  46114455,
+  44826965,
+  45127383,
+  46868733,
+  42641431,
+  46904943,
+  48095175,
+  44161581,
+  43976021,
+  44237457,
+  44169016,
+  44498363,
+  46862595,
+  49926618,
+  49528234,
+  45448009,
+  43248162,
+  43551925,
+  50063248,
+  45806365,
+  44789076,
+  49164461,
+  42303649,
+  49525497,
+  45442854,
+  44160906,
+  43874402,
+  44786450,
+  42921214,
+  44161463,
+  42921941,
+  45094499,
+  43859858,
+  44162651,
+  43249400,
+  49524731,
+  45806153,
+  45459880,
+  47603496,
+  46880747,
+  42946041,
+  44783054,
+  42307374,
+  43254614,
+  45815376,
+  43863844,
+  46149350,
+  43261244,
+  44758808,
+  43255489,
+  43555776,
+  42024669,
+  45838836,
+  45104609,
+  49927356,
+  48748583,
+  43859807,
+  46507517,
+  46885343,
+  46936963,
+  46860584,
+  42364683,
+  46858410,
+  50055019,
+  45439363,
+  43660390,
+  47606253,
+  43586785,
+  49526311,
+  44162611,
+  49163435,
+  47309381,
+  49193298,
+  48027869,
+  43338006,
+  44485113,
+  47225025,
+  44758529,
+  46571700,
+  47603284,
+  42924762,
+  45808151,
+  48404229,
+  44766982,
+  45505382,
+  45094056,
+  47254867,
+  43548298,
+  49170963,
+  47611075,
+  43249356,
+  46859233,
+  46147698,
+  44165540,
+  44757803,
+  48014519,
+  48792793,
+  46861925,
+  43243272,
+  47605047,
+  46925276,
+  46110860,
+  48363998,
+  44518160,
+  47226382,
+  43254248,
+  42025315,
+  48369712,
+  47230209,
+  42928954,
+  44439691,
+  42932065,
+  49173075,
+  48752177,
+  42019475,
+  49167547,
+  45490518,
+  47221634,
+  49922593,
+  50012248,
+  45851191,
+  48761473,
+  44525602,
+  42017714,
+  46132898,
+  46858612,
+  44760005,
+  47308369,
+  44167673,
+  42304027,
+  43893558,
+  47977906,
+  45811090,
+  43896059,
+  43254374,
+  48358617,
+  48021269,
+  49267485,
+  44761008,
+  44761824,
+  43550230,
+  47232286,
+  44438358,
+  43860437,
+  43243131,
+  46471318,
+  42047443,
+  44758926,
+  48760900,
+  45808967,
+  48359037,
+  44162390,
+  47626144,
+  49540773,
+  45805507,
+  42297432,
+  48362210,
+  43548634,
+  43261171,
+  48016223,
+  44513291,
+  44878855,
+  46858976,
+  42020231,
+  47607330,
+  44280795,
+  44165111,
+  49159312,
+  49530430,
+  44162837,
+  43243812,
+  45440824,
+  46509189,
+  45455157,
+  46865574,
+  42637082,
+  46114231,
+  42609488,
+  43243033,
+  44444635,
+  44434830,
+  43033846,
+  45444816,
+  44786196,
+  42018152,
+  43262628,
+  46467701,
+  49524060,
+  45450561,
+  46140344,
+  44436820,
+  45442431,
+  43867319,
+  45439735,
+  42922086,
+  45801951,
+  48399476,
+  42579416,
+  42922405,
+  43608769,
+  49160256,
+  49245007,
+  44758754,
+  48446422,
+  42580522,
+  44796426,
+  43247449,
+  45825030,
+  47604915,
+  42403316,
+  47605524,
+  49993917,
+  43558389,
+  42610945,
+  45806160,
+  45444080,
+  42922012,
+  46859154,
+  46112358,
+  45093698,
+  42927758,
+  42921776,
+  42921886,
+  47980592,
+  43860140,
+  44190423,
+  47354546,
+  42021982,
+  44558743,
+  46859814,
+  44167541,
+  47703426,
+  43914945,
+  45440163,
+  44189225,
+  45450503,
+  46498874,
+  43244266,
+  42017765,
+  44193494,
+  47004190,
+  46110204,
+  42019211,
+  47607732,
+  46109032,
+  43292679,
+  43860507,
+  48767640,
+  45803401,
+  45800693,
+  42302195,
+  46161518,
+  42306035,
+  49194021,
+  42018164,
+  48426455,
+  45891917,
+  42299924,
+  43247425,
+  43558071,
+  46864354,
+  44833275,
+  47220446,
+  46873525,
+  43676725,
+  46466130,
+  48360926,
+  48754641,
+  43686049,
+  43859374,
+  42923680,
+  48749799,
+  46114248,
+  43262690,
+  42920569,
+  43551225,
+  44765338,
+  44202383,
+  47977166,
+  46111904,
+  47975678,
+  48765082,
+  45450028,
+  49162990,
+  48052996,
+  42927467,
+  48367646,
+  43555871,
+  42043959,
+  42018292,
+  49650855,
+  48448546,
+  43247275,
+  48768633,
+  46466427,
+  44436403,
+  44810588,
+  46858032,
+  45130064,
+  42937110,
+  44165845,
+  48361136,
+  44767967,
+  46683368,
+  46108986,
+  49527452,
+  47605862,
+  42040198,
+  47603316,
+  46114595,
+  46857666,
+  48367084,
+  42921928,
+  43858917,
+  42303088,
+  44204092,
+  43569646,
+  46858265,
+  44785783,
+  43343492,
+  45837482,
+  49930656,
+  42922192,
+  45802963,
+  46858708,
+  42576739,
+  43619727,
+  46110316,
+  46566849,
+  43561598,
+  49926793,
+  43661136,
+  47978833,
+  44159807,
+  45095955,
+  47987473,
+  46113857,
+  45812677,
+  42298570,
+  45804746,
+  45444284,
+  45108645,
+  47979383,
+  45800899,
+  47980052,
+  42937242,
+  42926883,
+  46891963,
+  43873695,
+  47615101,
+  44436124,
+  46110218,
+  43249081,
+  45439396,
+  45093237,
+  42300868,
+  45505003,
+  47977581,
+  45094807,
+  45438513,
+  47222314,
+  43549356,
+  45444965,
+  46467063,
+  49546647,
+  43552212,
+  43564690,
+  42922911,
+  42921359,
+  45438921,
+  46883150,
+  42303251,
+  45802453,
+  49187999,
+  46878279,
+  45803449,
+  47602068,
+  45094210,
+  49524737,
+  44443029,
+  43322218,
+  43919791,
+  47606483,
+  46111093,
+  46113577,
+  42301783,
+  45803298,
+  49262437,
+  43864141,
+  45803462,
+  45152815,
+  44196104,
+  42027473,
+  45101792,
+  49523041,
+  44161924,
+  49525147,
+  46860117,
+  46123880,
+  42298290,
+  43245346,
+  49204595,
+  45444264,
+  42305747,
+  43567049,
+  47607283,
+  48376486,
+  47979095,
+  42931429,
+  44869556,
+  47982567,
+  45801011,
+  44161016,
+  49523770,
+  49200866,
+  44168344,
+  44159577,
+  43658757,
+  47978010,
+  44164479,
+  44160479,
+  43858556,
+  42019679,
+  43245925,
+  42306484,
+  44167457,
+  47384343,
+  46127193,
+  46154236,
+  45594100,
+  42933095,
+  47985734,
+  43863148,
+  46857798,
+  45801310,
+  45445016,
+  48751532,
+  48748749,
+  44435513,
+  46466367,
+  49923640,
+  42300338,
+  46499924,
+  45451570,
+  42019503,
+  50033036,
+  44805851,
+  43251029,
+  46210829,
+  42301828,
+  43254917,
+  47241526,
+  45830716,
+  44521939,
+  46880315,
+  44460441,
+  44164789,
+  46468303,
+  43243315,
+  45164548,
+  42921553,
+  46859442,
+  43243310,
+  48099785,
+  45806560,
+  44165232,
+  47225465,
+  46858029,
+  42919953,
+  48365397,
+  42025388,
+  44161273,
+  43243891,
+  42299035,
+  44447119,
+  45805321,
+  49522949,
+  43610715,
+  42317054,
+  48893278,
+  42313715,
+  45440542,
+  42328877,
+  42923009,
+  45142104,
+  49523716,
+  48748697,
+  45806622,
+  42299334,
+  49207434,
+  43645720,
+  46120395,
+  49571280,
+  47220824,
+  45807539,
+  47221096,
+  46110479,
+  43899143,
+  43251682,
+  45478589,
+  48037337,
+  48357992,
+  44165274,
+  42030878,
+  45805071,
+  42302121,
+  46594731,
+  47604338,
+  42921242,
+  47604474,
+  43896270,
+  46274262,
+  42580212,
+  46121210,
+  43261621,
+  47606561,
+  42024583,
+  48360006,
+  42022062,
+  46501421,
+  45851647,
+  43975452,
+  44163323,
+  49928358,
+  43552546,
+  42310373,
+  46122793,
+  44842129,
+  49534359,
+  42312190,
+  44435162,
+  42317831,
+  43858740,
+  48855260,
+  49163131,
+  42919628,
+  45104679,
+  50075162,
+  42300128,
+  42923720,
+  44763150,
+  46859477,
+  43250427,
+  48363300,
+  46861373,
+  42308091,
+  42021379,
+  49302719,
+  49196678,
+  42935450,
+  42653568,
+  44435671,
+  48748003,
+  43549892,
+  44456914,
+  45803749,
+  45125832,
+  45822612,
+  47975574,
+  43246918,
+  44241366,
+  42344070,
+  42581091,
+  47604194,
+  42931740,
+  42576385,
+  49528608,
+  44238916,
+  44761247,
+  42577763,
+  47268259,
+  44758310,
+  49542805,
+  45096398,
+  42577805,
+  49933369,
+  45473845,
+  46493422,
+  43567692,
+  48754582,
+  42312513,
+  42300757,
+  44757876,
+  44798264,
+  46108992,
+  43247093,
+  47603440,
+  47615296,
+  46109675,
+  49555567,
+  45805149,
+  47664053,
+  46976827,
+  49529763,
+  43865879,
+  46858476,
+  42020933,
+  45102919,
+  47976204,
+  42020536,
+  45119905,
+  46109295,
+  49961551,
+  47696074,
+  48070114,
+  46505067,
+  48008420,
+  45213476,
+  45441247,
+  44517670,
+  45806192,
+  42023684,
+  43549135,
+  43870752,
+  45801419,
+  46863232,
+  46156630,
+  47223274,
+  42921346,
+  47281299,
+  43873245,
+  43245736,
+  49929563,
+  42310856,
+  46867043,
+  43860952,
+  45105525,
+  43866209,
+  43250112,
+  42017753,
+  49523797,
+  44160285,
+  49165024,
+  45441051,
+  46467282,
+  49928997,
+  47605460,
+  44164839,
+  50090302,
+  42298291,
+  44761184,
+  45439479,
+  47222977,
+  47688799,
+  47224017,
+  48759665,
+  47603277,
+  42922339,
+  42034035,
+  49524350,
+  47227102,
+  42920238,
+  48023405,
+  44159663,
+  45446383,
+  47226655,
+  47219700,
+  42300047,
+  46859138,
+  43859959,
+  42924807,
+  48362169,
+  44167030,
+  46207649,
+  48019489,
+  49271778,
+  49158131,
+  47606297,
+  48364629,
+  49159115,
+  49166165,
+  49192593,
+  42921352,
+  43861861,
+  48005795,
+  49523289,
+  47220116,
+  44864660,
+  47222698,
+  45147951,
+  42576338,
+  46233107,
+  42920890,
+  43665769,
+  44764163,
+  47770252,
+  46111295,
+  46610239,
+  48360796,
+  49925202,
+  43269521,
+  46111046,
+  46469850,
+  43864719,
+  49649994,
+  46634701,
+  48748402,
+  42623251,
+  45800882,
+  44436061,
+  45093287,
+  46871062,
+  49609343,
+  44161660,
+  47609370,
+  48361273,
+  42298839,
+  47221438,
+  47657541,
+  49925300,
+  47602875,
+  45444275,
+  46606863,
+  46470668,
+  49524502,
+  43014648,
+  42054175,
+  43548001,
+  45800604,
+  44759492,
+  42063050,
+  45846328,
+  42923553,
+  47655289,
+  44165847,
+  42025649,
+  46110321,
+  44757816,
+  46484696,
+  43009039,
+  48751573,
+  42634949,
+  46945956,
+  49212807,
+  47979247,
+  47978602,
+  44529586,
+  43245583,
+  45441841,
+  42922934,
+  46110639,
+  42952484,
+  45212860,
+  49933969,
+  47224903,
+  44772688,
+  46192544,
+  43026525,
+  46889635,
+  42925715,
+  44160449,
+  45805577,
+  48361787,
+  43866737,
+  49523830,
+  45464251,
+  45802155,
+  45456765,
+  43292534,
+  42575969,
+  48896974,
+  49246737,
+  46211441,
+  48775022,
+  43253470,
+  48367716,
+  45108636,
+  45125593,
+  42920690,
+  48229177,
+  47677567,
+  47976359,
+  46467492,
+  43550088,
+  49163337,
+  46111725,
+  48386662,
+  45445542,
+  47249945,
+  42300718,
+  43864287,
+  42930071,
+  45439701,
+  47281476,
+  42311000,
+  42021560,
+  42046111,
+  45850424,
+  47632126,
+  46868084,
+  42576773,
+  44788140,
+  45527820,
+  43549777,
+  45109274,
+  48361035,
+  43563628,
+  48768550,
+  46469634,
+  44166853,
+  46885022,
+  45840084,
+  44162273,
+  49922803,
+  48762099,
+  47311360,
+  45441705,
+  48377380,
+  46472440,
+  49936718,
+  47236664,
+  45836584,
+  49925497,
+  42920715,
+  47221333,
+  45490405,
+  42087600,
+  43548279,
+  46858277,
+  45452229,
+  42026776,
+  47614969,
+  48919859,
+  44881396,
+  49523288,
+  43552636,
+  48009461,
+  43249264,
+  42021638,
+  44162549,
+  46496411,
+  48772824,
+  49162401,
+  42297458,
+  47223137,
+  46115968,
+  44762624,
+  42576335,
+  42960095,
+  42301300,
+  45135266,
+  50006929,
+  48357929,
+  44873077,
+  46469061,
+  48358160,
+  45438594,
+  42300682,
+  43550774,
+  43563213,
+  42301144,
+  48019625,
+  46466646,
+  46859048,
+  43942428,
+  42298287,
+  48787393,
+  45801757,
+  44437991,
+  44439488,
+  49534647,
+  42576126,
+  45802358,
+  43245627,
+  47220290,
+  43244029,
+  46861088,
+  47358712,
+  43252619,
+  44434749,
+  44175666,
+  42301457,
+  49523176,
+  47222692,
+  42585139,
+  42610804,
+  50066205,
+  49927265,
+  43254538,
+  44435233,
+  49523510,
+  42308884,
+  49526154,
+  44435704,
+  46109315,
+  45443014,
+  45440667,
+  49524943,
+  45449442,
+  49526831,
+  48914268,
+  48751634,
+  44435606,
+  45105103,
+  44763077,
+  46117807,
+  44436705,
+  44884088,
+  45097132,
+  49534270,
+  44164273,
+  45843089,
+  43629640,
+  46112755,
+  45443116,
+  44760650,
+  45800628,
+  48383195,
+  46632128,
+  49157095,
+  44434655,
+  48392586,
+  42924231,
+  44440657,
+  44437016,
+  44873489,
+  42021402,
+  44436446,
+  48768318,
+  47285692,
+  44777165,
+  44173470,
+  44437175,
+  46502528,
+  44438932,
+  43867300,
+  48408037,
+  46858297,
+  43552578,
+  45104655,
+  49956481,
+  44239351,
+  48477019,
+  42953037,
+  48040612,
+  47609466,
+  43572590,
+  43622766,
+  49925071,
+  48091448,
+  49926771,
+  45093289,
+  47603424,
+  44434657,
+  44172638,
+  43247886,
+  46594737,
+  46870302,
+  47617564,
+  47605285,
+  46115939,
+  42363876,
+  45095780,
+  47234131,
+  48360824,
+  44436827,
+  47617495,
+  49158982,
+  46112435,
+  47606584,
+  46131511,
+  43562610,
+  46468560,
+  44160474,
+  46867159,
+  47227320,
+  46468913,
+  49935083,
+  47220346,
+  44435622,
+  42928320,
+  42581090,
+  49932525,
+  44502536,
+  44765950,
+  42922922,
+  45223932,
+  46145687,
+  42932537,
+  46110127,
+  44167364,
+  43557679,
+  48362489,
+  43872046,
+  45806110,
+  49296620,
+  46120914,
+  43866617,
+  45181745,
+  42022074,
+  47978910,
+  46114474,
+  42024701,
+  46165105,
+  45447595,
+  42589310,
+  42578751,
+  46111491,
+  42320425,
+  49530020,
+  47605072,
+  49971729,
+  46132846,
+  44160543,
+  49922970,
+  48749718,
+  47219734,
+  42301664,
+  49940381,
+  47226145,
+  45126657,
+  45443785,
+  46137982,
+  46860229,
+  43246513,
+  44162515,
+  47231211,
+  45807353,
+  42921286,
+  45093824,
+  46109125,
+  43268822,
+  45453515,
+  44244054,
+  48363425,
+  45108839,
+  43871748,
+  49922584,
+  48371273,
+  42933513,
+  42924027,
+  46865353,
+  43562342,
+  49159028,
+  44442622,
+  42298776,
+  45538589,
+  43323828,
+  45112155,
+  42589822,
+  42576081,
+  48464514,
+  48358312,
+  49178671,
+  45504536,
+  47603047,
+  44159607,
+  48764738,
+  45814022,
+  43931717,
+  47605713,
+  44161807,
+  44159531,
+  44758667,
+  47614285,
+  42576496,
+  42020152,
+  48357754,
+  42298608,
+  43871399,
+  45449870,
+  44882410,
+  42302199,
+  45118823,
+  43858850,
+  46857726,
+  46140374,
+  46115164,
+  42588234,
+  43547949,
+  44760333,
+  42921878,
+  48904312,
+  46878732,
+  44760576,
+  49996914,
+  48364033,
+  46110454,
+  46859446,
+  42924800,
+  45464812,
+  49926228,
+  45119770,
+  44764886,
+  46467871,
+  45463519,
+  42312228,
+  45800592,
+  47330329,
+  45095328,
+  44436529,
+  42044319,
+  42377064,
+  42946307,
+  44834694,
+  48361780,
+  49933080,
+  42963046,
+  42019473,
+  43257865,
+  43252810,
+  45822516,
+  43562470,
+  44790807,
+  46907272,
+  45802400,
+  46873079,
+  48361768,
+  48383070,
+  47222398,
+  42577973,
+  49980867,
+  50000038,
+  48361234,
+  43548747,
+  43890364,
+  48008674,
+  49923010,
+  42648059,
+  45800994,
+  44760350,
+  45466232,
+  45800548,
+  46857494,
+  43246941,
+  47975772,
+  48358374,
+  48818464,
+  42425949,
+  43644395,
+  42017768,
+  42609902,
+  46124040,
+  43549467,
+  49930568,
+  44439547,
+  44439408,
+  49552564,
+  49166092,
+  46110145,
+  42919550,
+  44161930,
+  48748044,
+  45127375,
+  46111050,
+  42929252,
+  47603622,
+  47604165,
+  46110773,
+  46859582,
+  44166150,
+  44764929,
+  46521389,
+  42927831,
+  45801635,
+  45804442,
+  46466822,
+  44435591,
+  43863990,
+  43861329,
+  42343328,
+  47222201,
+  42333503,
+  43259352,
+  47766820,
+  42922940,
+  49523835,
+  48765578,
+  49315850,
+  46892076,
+  48434880,
+  42302753,
+  49925283,
+  46876447,
+  47610467,
+  45466687,
+  44766395,
+  45444115,
+  42021131,
+  48023815,
+  46121843,
+  46129427,
+  46857514,
+  46860239,
+  47230075,
+  43244853,
+  42967375,
+  48362249,
+  45802426,
+  42576654,
+  44434799,
+  46859992,
+  45098050,
+  46134825,
+  48749995,
+  44787715,
+  48505744,
+  46549048,
+  43923973,
+  43335754,
+  43923838,
+  43245366,
+  48367953,
+  42019289,
+  43870467,
+  43293543,
+  45455811,
+  45451313,
+  44435587,
+  44172922,
+  49157178,
+  45108193,
+  44766635,
+  44758970,
+  46857529,
+  43246454,
+  46509990,
+  44162388,
+  45493717,
+  44764431,
+  45441505,
+  49612508,
+  42633555,
+  44436123,
+  47666123,
+  44159719,
+  47712573,
+  43568801,
+  43548135,
+  44786393,
+  49158886,
+  42585731,
+  45800832,
+  42304381,
+  45800542,
+  48360825,
+  42579097,
+  43861453,
+  44762378,
+  47230320,
+  47318659,
+  43906129,
+  46187909,
+  44162174,
+  46858533,
+  43858574,
+  48456648,
+  49998400,
+  45802700,
+  48359172,
+  44270969,
+  47617865,
+  48371094,
+  49922621,
+  44441957,
+  42019603,
+  46471548,
+  44438625,
+  44169514,
+  44435299,
+  46113455,
+  49562582,
+  47609991,
+  49929664,
+  45807645,
+  47223283,
+  44161192,
+  45822288,
+  43254076,
+  42298709,
+  45802790,
+  42019360,
+  47724340,
+  44206214,
+  42579778,
+  45439075,
+  47224803,
+  49711313,
+  44161365,
+  42050148,
+  45093268,
+  43288435,
+  44162102,
+  49165622,
+  47614308,
+  42303175,
+  46857862,
+  49538459,
+  44439248,
+  43915703,
+  42307014,
+  48014057,
+  46957010,
+  47602168,
+  46858929,
+  48361616,
+  47347256,
+  46507418,
+  47603166,
+  46109621,
+  43246070,
+  45099955,
+  47225051,
+  45800515,
+  42053788,
+  43571982,
+  47609680,
+  47975882,
+  43903156,
+  48102189,
+  42939349,
+  47741050,
+  49553487,
+  44767414,
+  48540509,
+  45865581,
+  49598051,
+  49528132,
+  46162022,
+  44438999,
+  42613941,
+  42021796,
+  46860492,
+  47222596,
+  49165651,
+  42924560,
+  42920610,
+  46862094,
+  47601882,
+  49157129,
+  43247721,
+  46466619,
+  47224354,
+  47233919,
+  42618176,
+  44437921,
+  46111181,
+  42019250,
+  47222910,
+  49162509,
+  47982730,
+  42023297,
+  44168573,
+  45109406,
+  49713455,
+  46114409,
+  42580699,
+  48368490,
+  43244997,
+  47985782,
+  43244725,
+  42920129,
+  45189428,
+  46118370,
+  43556797,
+  45826284,
+  47976217,
+  44437143,
+  48044543,
+  45111016,
+  42587571,
+  43243734,
+  48448408,
+  49931740,
+  43914219,
+  50014023,
+  42017584,
+  48368639,
+  44761865,
+  48804251,
+  44220293,
+  45442843,
+  43259732,
+  47226370,
+  43246139,
+  49936182,
+  42308256,
+  43250833,
+  48066300,
+  49923847,
+  45808030,
+  44441548,
+  48749185,
+  48754238,
+  46944852,
+  47603909,
+  47652763,
+  46190934,
+  49667711,
+  42577295,
+  43047409,
+  47609195,
+  42302027,
+  43547621,
+  48763652,
+  49524822,
+  44161340,
+  42298542,
+  43923378,
+  47976921,
+  42020315,
+  48498049,
+  47661037,
+  46469063,
+  44440451,
+  47222944,
+  48006671,
+  43864042,
+  47980760,
+  44434617,
+  45444148,
+  48366911,
+  45487358,
+  43244497,
+  49525367,
+  45804500,
+  50021883,
+  46115500,
+  49525714,
+  47608212,
+  44536502,
+  43248108,
+  44758408,
+  44764669,
+  48376099,
+  47227901,
+  42921198,
+  44162563,
+  48496705,
+  49527588,
+  49923384,
+  42018737,
+  43914934,
+  46116912,
+  47667607,
+  49161868,
+  42319590,
+  46114540,
+  46112902,
+  45450208,
+  45095901,
+  47219753,
+  44180795,
+  46858512,
+  47634342,
+  45800857,
+  42921810,
+  46161304,
+  42298302,
+  47227969,
+  46615406,
+  46857970,
+  44487802,
+  43563583,
+  44760267,
+  45449644,
+  43247283,
+  42976120,
+  46858039,
+  42299713,
+  42587687,
+  44770296,
+  49626445,
+  42921061,
+  42919528,
+  45803605,
+  47723411,
+  42017816,
+  42303152,
+  42354062,
+  49961408,
+  43248029,
+  43589089,
+  42583497,
+  48492735,
+  42115047,
+  49162817,
+  47978164,
+  43869185,
+  42919651,
+  47604760,
+  43551995,
+  45805323,
+  45443897,
+  44439277,
+  42302835,
+  47219705,
+  44162265,
+  45488412,
+  42023777,
+  45440845,
+  45804061,
+  49159899,
+  43002288,
+  45813360,
+  47631468,
+  43268708,
+  43864478,
+  48750675,
+  47220667,
+  42017759,
+  46617364,
+  45097603,
+  43615637,
+  45801347,
+  45441337,
+  42922364,
+  42922293,
+  42926388,
+  43550344,
+  48012147,
+  42304757,
+  48751313,
+  47220986,
+  44161164,
+  47224283,
+  46467424,
+  49525078,
+  45505204,
+  50063001,
+  44454900,
+  45803655,
+  42124349,
+  47603400,
+  43858660,
+  48804695,
+  47602451,
+  45093778,
+  43252537,
+  45807639,
+  45809726,
+  42617989,
+  45438697,
+  49925643,
+  44436992,
+  44180788,
+  49528935,
+  45807171,
+  46868502,
+  42611221,
+  49185343,
+  48055591,
+  46945674,
+  45803353,
+  45814715,
+  45801593,
+  45224181,
+  44230786,
+  46860563,
+  44466987,
+  45486202,
+  49525483,
+  46513757,
+  44564751,
+  47977258,
+  49925928,
+  49163576,
+  42948842,
+  42921441,
+  43244244,
+  47605264,
+  48752617,
+  42298018,
+  44526842,
+  48370791,
+  49262026,
+  43573985,
+  42920851,
+  42578012,
+  44440180,
+  45441351,
+  42039092,
+  46858155,
+  44162175,
+  48762674,
+  45813311,
+  43002338,
+  44490435,
+  42583596,
+  48442647,
+  44159539,
+  48040028,
+  44888173,
+  42921010,
+  48359945,
+  49163658,
+  47636489,
+  46122088,
+  44175432,
+  42579414,
+  50061040,
+  43334798,
+  49552294,
+  48904087,
+  49283824,
+  46959004,
+  45445716,
+  44162037,
+  48363249,
+  42964277,
+  45101341,
+  46123629,
+  46478358,
+  49184766,
+  44759469,
+  42924739,
+  44436227,
+  48358370,
+  45872587,
+  47230454,
+  44173548,
+  42018299,
+  45586261,
+  49213747,
+  46877871,
+  47607508,
+  42017891,
+  42921987,
+  43870503,
+  47220727,
+  45442918,
+  48370505,
+  42715938,
+  46528039,
+  46119075,
+  42964933,
+  42020071,
+  42109533,
+  46119898,
+  45506219,
+  45441122,
+  44196215,
+  43257601,
+  42018855,
+  47715598,
+  47975783,
+  45802539,
+  49158689,
+  47603835,
+  42920614,
+  43548683,
+  42138673,
+  47220242,
+  44165358,
+  43859398,
+  46859099,
+  47223473,
+  45814068,
+  45098236,
+  43619518,
+  42934061,
+  42577441,
+  44163520,
+  47299084,
+  49549234,
+  46914248,
+  45803050,
+  47368551,
+  46860668,
+  43563219,
+  43057059,
+  42920600,
+  44771874,
+  46858086,
+  46869120,
+  45898222,
+  43004961,
+  46859499,
+  45802305,
+  47607118,
+  46910780,
+  47228352,
+  47222340,
+  44760363,
+  42300472,
+  45814957,
+  46488923,
+  45438747,
+  42297475,
+  48885246,
+  44792780,
+  49615973,
+  44167341,
+  43548424,
+  42580762,
+  45444645,
+  44883473,
+  47678523,
+  44787072,
+  44438595,
+  44162806,
+  44243121,
+  44787513,
+  49158072,
+  47604611,
+  44459752,
+  42089211,
+  44160536,
+  46869263,
+  47220060,
+  42297556,
+  46857555,
+  42933268,
+  46113767,
+  46873883,
+  42300583,
+  47642878,
+  46113748,
+  46858833,
+  49527209,
+  44783467,
+  46109284,
+  45802190,
+  48748007,
+  45800530,
+  49523166,
+  42930203,
+  42022737,
+  46862317,
+  42920081,
+  43548184,
+  43570442,
+  42634924,
+  49927464,
+  44435634,
+  46140027,
+  44437626,
+  48754324,
+  49530057,
+  48364039,
+  43864564,
+  46115603,
+  42921921,
+  44483353,
+  46114806,
+  42298726,
+  48052750,
+  46899510,
+  43256779,
+  42926505,
+  46858726,
+  47324849,
+  43894808,
+  45445584,
+  48754536,
+  45801473,
+  43646944,
+  46857847,
+  43264038,
+  45440026,
+  48360938,
+  49925098,
+  45546170,
+  42922669,
+  47299970,
+  43549295,
+  45803580,
+  47693834,
+  42298439,
+  49968179,
+  44523811,
+  44783595,
+  42922496,
+  49530894,
+  48753141,
+  46119019,
+  43861588,
+  48357775,
+  42018975,
+  48361869,
+  47976574,
+  45102337,
+  46109039,
+  42108885,
+  46858975,
+  43259263,
+  43244555,
+  45804074,
+  47611910,
+  45441156,
+  49526149,
+  42924857,
+  46859169,
+  46905158,
+  44758007,
+  47259602,
+  48357822,
+  45804933,
+  45802295,
+  47976142,
+  48005990,
+  44503743,
+  46466215,
+  43869391,
+  48818190,
+  43547651,
+  48359505,
+  45804470,
+  46110517,
+  46111069,
+  43280623,
+  47624976,
+  46109059,
+  44167100,
+  45834896,
+  45094884,
+  46859342,
+  44434705,
+  46466639,
+  46528277,
+  45451089,
+  46858133,
+  45513725,
+  48368871,
+  43557610,
+  44194722,
+  44435897,
+  47222923,
+  49526601,
+  43561232,
+  46861819,
+  49925329,
+  42953783,
+  42928623,
+  46498479,
+  44437448,
+  48439500,
+  42312157,
+  43248687,
+  48748008,
+  43563428,
+  45442209,
+  45816641,
+  49928066,
+  42611928,
+  46558371,
+  44162328,
+  44766108,
+  42019966,
+  42579895,
+  49923870,
+  48774670,
+  42922843,
+  49157970,
+  49169971,
+  43247445,
+  43347509,
+  45094162,
+  49159942,
+  45802394,
+  46966099,
+  42638758,
+  43861414,
+  43282304,
+  44436160,
+  47601873,
+  44763580,
+  48753928,
+  42939884,
+  44762551,
+  45214244,
+  45800956,
+  45102400,
+  45102938,
+  49177149,
+  42418740,
+  49925545,
+  43245662,
+  45442650,
+  42926043,
+  46861494,
+  45801512,
+  44760488,
+  47715444,
+  44765056,
+  47605788,
+  49160095,
+  48756811,
+  43547808,
+  46858941,
+  46115587,
+  43580161,
+  44160525,
+  46860592,
+  45127220,
+  46134153,
+  44761226,
+  47222579,
+  43247916,
+  47977295,
+  46863884,
+  46118721,
+  42308398,
+  44446404,
+  46877445,
+  48751825,
+  49927351,
+  46472409,
+  45448144,
+  49922693,
+  43246829,
+  44799504,
+  44890040,
+  49543040,
+  46859160,
+  45803482,
+  45803126,
+  42660177,
+  42022226,
+  49269646,
+  42307260,
+  43243612,
+  43562876,
+  45114372,
+  47226282,
+  48001984,
+  47607127,
+  42020276,
+  49924972,
+  49525116,
+  44166174,
+  49525183,
+  44162752,
+  44437157,
+  48042228,
+  42920595,
+  45802634,
+  43359986,
+  49227265,
+  47603438,
+  45104145,
+  43554652,
+  46122757,
+  45113488,
+  47759666,
+  46467798,
+  47979818,
+  48385146,
+  43895546,
+  48133591,
+  44183889,
+  43250628,
+  46112914,
+  46111503,
+  49215140,
+  46480920,
+  49927291,
+  46872258,
+  47978058,
+  46860404,
+  46109443,
+  46857974,
+  49930470,
+  45801608,
+  49164213,
+  42298505,
+  42588000,
+  45800728,
+  44203799,
+  45802674,
+  49206998,
+  42923522,
+  45803617,
+  47601913,
+  45820802,
+  46599317,
+  47603735,
+  42121312,
+  45801028,
+  46862175,
+  49542221,
+  45561654,
+  46867336,
+  44767975,
+  44439812,
+  48479130,
+  49986633,
+  42921816,
+  43864554,
+  46503295,
+  46112227,
+  42046078,
+  47612309,
+  44769956,
+  45447469,
+  45800486,
+  48014076,
+  45446986,
+  44760852,
+  47226189,
+  46869945,
+  42021129,
+  45100763,
+  43901215,
+  46864767,
+  48367058,
+  42577097,
+  43988401,
+  42045022,
+  48365092,
+  46857892,
+  45804561,
+  42644748,
+  42302696,
+  46110475,
+  42025704,
+  47606499,
+  44167898,
+  44770173,
+  46862140,
+  42928549,
+  46224818,
+  48765749,
+  45800978,
+  43866480,
+  43249465,
+  49524180,
+  42321114,
+  48754223,
+  47975944,
+  46616072,
+  42298310,
+  44160271,
+  42367178,
+  45112347,
+  44169562,
+  46640078,
+  43976240,
+  46468717,
+  45875856,
+  49962075,
+  43571012,
+  44761828,
+  47980578,
+  42920557,
+  46116664,
+  43548780,
+  42598247,
+  46466961,
+  47662101,
+  46120895,
+  45801616,
+  42581481,
+  43875064,
+  49930428,
+  44169910,
+  47273279,
+  46876113,
+  47223666,
+  48009832,
+  42604391,
+  42018512,
+  47225481,
+  49931475,
+  44288317,
+  42018087,
+  49601673,
+  45443937,
+  43246163,
+  48039466,
+  45098287,
+  43563941,
+  43247686,
+  44757809,
+  44161141,
+  42933707,
+  42047934,
+  49170090,
+  42020420,
+  49528399,
+  44760352,
+  46111929,
+  45215684,
+  48750734,
+  42019281,
+  44175427,
+  43246211,
+  42920244,
+  42305872,
+  49170014
+ ]
+}

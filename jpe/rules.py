@@ -59,7 +59,7 @@ def split_header(text: str) -> list[str]:
     return [p.strip(" []") for p in parts if p.strip(" []")]
 
 
-def _company(seg: str) -> str | None:
+def company_name(seg: str) -> str | None:
     seg = _YC.sub("", seg).strip()
     seg = re.sub(r"\s*\((?:FKA|formerly)[^)]*\)", "", seg, flags=re.I).strip()
     if not seg or len(seg) > 60 or len(seg.split()) > 6:
@@ -171,7 +171,7 @@ def extract(text: str) -> dict:
             loc_seg = seg
 
     if segs:
-        r["company"] = _company(segs[0])
+        r["company"] = company_name(segs[0])
     r["role_title"] = role_seg
     if loc_seg:
         r["location"] = _location(loc_seg)

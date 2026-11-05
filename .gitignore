@@ -8,10 +8,6 @@ data/raw/
 # nothing. Local only: it holds post text and API responses.
 .cache/
 
-# Silver labels from the teacher. Rebuilt by scripts/silver_label.py from the
-# cache; the spot-check results under data/silver/spot_check* are committed.
-data/silver/*.jsonl
-
 # Training output: adapters, merged weights, GGUF files. Adapters are
 # published to the Hub or a Release, never committed.
 runs/
