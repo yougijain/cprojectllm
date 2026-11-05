@@ -8,7 +8,8 @@
 
     # Rebuild data/raw/ from the committed IDs (a fresh clone, or CI).
     python scripts/fetch_posts.py --from-ids
-    python scripts/fetch_posts.py --from-ids --only data/gold/split.json:dev
+    python scripts/fetch_posts.py --from-ids --since 2026-09          # recent months only
+    python scripts/fetch_posts.py --from-ids --only data/gold/split.json:queues.dev
 
 Writes data/threads.json and data/post_ids/ (committed) and data/raw/posts/
 (not committed).
@@ -28,10 +29,13 @@ from jpe.hn import HNClient, fetch_by_ids, fetch_posts, list_hiring_threads  # n
 
 
 def _only_ids(spec: str) -> set[int]:
-    """`path.json:key` -> the ids listed under that key (e.g. a gold split)."""
+    """`path.json:a.b` -> the ids listed under data["a"]["b"] (e.g. one gold
+    split's queue)."""
     path, _, key = spec.partition(":")
     data = json.loads(Path(path).read_text())
-    return {int(i) for i in (data[key] if key else data)}
+    for part in filter(None, key.split(".")):
+        data = data[part]
+    return {int(i) for i in data}
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -49,7 +53,8 @@ def main(argv: list[str] | None = None) -> int:
         threads = corpus.load_threads()
         by_id = {t.id: t for t in threads.values()}
         wanted = _only_ids(args.only) if args.only else None
-        for month in sorted(threads):
+        months = [m for m in sorted(threads) if (not args.since or m >= args.since) and (not args.until or m <= args.until)]
+        for month in months:
             ids = [i for i in corpus.read_ids(month) if wanted is None or i in wanted]
             have = {p.id for p in corpus.read_posts(month)}
             todo = [i for i in ids if i not in have]

@@ -1,0 +1,104 @@
+name: refresh board
+
+# New posts keep arriving in the current month's thread, so a weekly pull
+# keeps the board current. Extraction runs on the runner's CPU with the
+# 4-bit M1 once one is published, and on the rules baseline until then; no
+# GPU is involved.
+on:
+  schedule:
+    - cron: "23 8 * * 1" # Mondays, 08:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit new post IDs, publish the record store
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-board
+  cancel-in-progress: false
+
+env:
+  LLAMA_CPP_TAG: b11806
+  MONTHS: 3
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version-file: .python-version
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Fetch the newest threads
+        run: |
+          since=$(date -u -d "$(date -u +%Y-%m-01) -$((MONTHS - 1)) month" +%Y-%m)
+          # Text for posts already known (it is not committed), then any new posts.
+          python scripts/fetch_posts.py --from-ids --since "$since"
+          python scripts/fetch_posts.py --since "$since"
+
+      - name: Pick the extractor
+        id: pick
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view model-latest >/dev/null 2>&1; then
+            echo "extractor=M1-q4" >> "$GITHUB_OUTPUT"
+          else
+            echo "extractor=rules" >> "$GITHUB_OUTPUT"
+            echo "No model published yet; the board runs on the rules baseline." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Start M1
+        if: steps.pick.outputs.extractor == 'M1-q4'
+        uses: ./.github/actions/llama-server
+        with:
+          llama-cpp-tag: ${{ env.LLAMA_CPP_TAG }}
+          github-token: ${{ github.token }}
+
+      - name: Fetch the record store
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download board-latest --pattern records.jsonl --dir data/board \
+            || echo "No record store yet; extracting every post."
+
+      - name: Build the board
+        run: python scripts/build_board.py --extractor "${{ steps.pick.outputs.extractor }}" --months "$MONTHS" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Publish the record store
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view board-latest >/dev/null 2>&1 || \
+            gh release create board-latest --title "Board record store" \
+              --notes "Extracted fields for the board, rebuilt weekly by .github/workflows/refresh.yml."
+          gh release upload board-latest data/board/records.jsonl --clobber
+
+      - name: Commit new post IDs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/threads.json data/post_ids
+          if git diff --cached --quiet; then
+            echo "No new posts."
+          else
+            git commit -m "chore(data): add this week's post IDs"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      # Pages must be set to deploy from GitHub Actions (Settings > Pages).
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v5

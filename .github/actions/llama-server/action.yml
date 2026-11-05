@@ -1,0 +1,50 @@
+name: Start llama-server with M1
+description: >
+  Builds llama.cpp's server for the runner's CPU (cached by tag), downloads
+  the published 4-bit M1 from the model-latest release, and starts it on
+  port 8080 under the name configs/models.yaml expects.
+
+inputs:
+  llama-cpp-tag:
+    description: llama.cpp build tag to compile
+    required: true
+  github-token:
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Restore llama.cpp build
+      id: cache
+      uses: actions/cache@v6
+      with:
+        path: llama.cpp/build/bin
+        key: llama-server-${{ inputs.llama-cpp-tag }}-${{ runner.os }}-${{ runner.arch }}
+
+    - name: Build llama-server
+      if: steps.cache.outputs.cache-hit != 'true'
+      shell: bash
+      run: |
+        git clone --depth 1 --branch "${{ inputs.llama-cpp-tag }}" https://github.com/ggml-org/llama.cpp
+        # GGML_NATIVE=OFF: a cached binary must run on whichever runner CPU
+        # picks up the job next.
+        cmake -S llama.cpp -B llama.cpp/build -DCMAKE_BUILD_TYPE=Release -DGGML_NATIVE=OFF -DLLAMA_CURL=OFF
+        cmake --build llama.cpp/build -j "$(nproc)" --target llama-server
+
+    - name: Download M1 (4-bit)
+      shell: bash
+      env:
+        GH_TOKEN: ${{ inputs.github-token }}
+      run: gh release download model-latest --pattern 'm1-q4_k_m.*' --dir models --clobber
+
+    - name: Start llama-server
+      shell: bash
+      run: |
+        llama.cpp/build/bin/llama-server -m models/m1-q4_k_m.gguf --alias m1-q4_k_m \
+          -c 4096 --port 8080 -t "$(nproc)" > llama-server.log 2>&1 &
+        for i in $(seq 1 120); do
+          curl -sf http://localhost:8080/health >/dev/null && exit 0
+          sleep 2
+        done
+        cat llama-server.log
+        exit 1

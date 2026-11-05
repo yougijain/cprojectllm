@@ -1,0 +1,70 @@
+name: eval gate
+
+# Runs the published 4-bit M1 over the 50 dev posts with the PR's code and
+# fails if field accuracy drops more than 2 points below
+# results/dev_gate_baseline.json. See scripts/eval_gate.py.
+on:
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+env:
+  LLAMA_CPP_TAG: b11806
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version-file: .python-version
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Can the gate run yet?
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/eval_gate.py --check
+          if ! gh release view model-latest >/dev/null 2>&1; then
+            echo "Evaluation gate inactive: no model-latest release yet." >> "$GITHUB_STEP_SUMMARY"
+            echo "active=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch the dev posts
+        if: steps.check.outputs.active == 'true'
+        run: python scripts/fetch_posts.py --from-ids --only data/gold/split.json:queues.dev
+
+      - name: Start M1
+        if: steps.check.outputs.active == 'true'
+        uses: ./.github/actions/llama-server
+        with:
+          llama-cpp-tag: ${{ env.LLAMA_CPP_TAG }}
+          github-token: ${{ github.token }}
+
+      # Cached replies are keyed on model hash, prompt and messages, so a
+      # restored cache can only answer requests that are byte-for-byte the
+      # same; anything the PR changed runs for real.
+      - name: Restore model replies
+        if: steps.check.outputs.active == 'true'
+        uses: actions/cache@v6
+        with:
+          path: .cache/llm
+          key: llm-gate-${{ hashFiles('prompts/**', 'models/m1-q4_k_m.json') }}-${{ github.sha }}
+          restore-keys: llm-gate-
+
+      - name: Run M1 on dev
+        if: steps.check.outputs.active == 'true'
+        run: python scripts/run_model.py M1-q4 --split dev --name M1-q4-gate
+
+      - name: Compare with the baseline
+        if: steps.check.outputs.active == 'true'
+        run: python scripts/eval_gate.py --run results/predictions/dev/M1-q4-gate.json
