@@ -1,0 +1,35 @@
+# QLoRA configuration for M1. Written by hand (see the README's build
+# rules): every null below is a decision to make, on the 50 dev posts only,
+# never on the held-out 250. scripts/train_qlora.py refuses to run while any
+# value is null. Record why each value was chosen in the README's
+# "What didn't work" section when a choice was tried and dropped.
+
+base_model: Qwen/Qwen2.5-1.5B-Instruct
+
+# Longest prompt + answer, in tokens, that a training example may have.
+# Measure it on the silver set (the prompt alone is several hundred tokens).
+max_seq_length: null
+
+lora:
+  r: null
+  alpha: null
+  dropout: null
+  target_modules: null  # a list of module names
+
+training:
+  learning_rate: null
+  # An upper bound: evaluation runs on the dev posts after every epoch and
+  # the epoch with the lowest dev loss is the one kept.
+  num_train_epochs: null
+  per_device_train_batch_size: null
+  gradient_accumulation_steps: null
+  warmup_ratio: null
+  lr_scheduler_type: null
+  weight_decay: null
+
+# The final configuration is trained once per seed and reported as a spread.
+seeds: [0, 1, 2]
+
+# Training-set sizes for the learning curve; "all" is every usable silver
+# label. Each size is a prefix of the same pool order, so sets nest.
+learning_curve: [250, 500, 1000, 2000, all]
