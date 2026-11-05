@@ -1,0 +1,84 @@
+# Every model in the comparison, and what each one costs.
+#
+# All of them run on the same 250 held-out posts with the same prompt
+# (prompts/extract_v1.md). Change a model here, not in code, so the results
+# file records what actually ran.
+
+# The student. Qwen2.5-1.5B-Instruct is Apache-2.0, which allows fine-tuning
+# it and publishing the adapter. (The 3B sibling is under the Qwen Research
+# License, which does not; check the license of any replacement.) 1.5B also
+# keeps the 4-bit build fast enough to run on a CI runner's CPU every week.
+student: Qwen/Qwen2.5-1.5B-Instruct
+
+models:
+  B1:
+    kind: rules
+    description: Rules and regex (jpe/rules.py)
+
+  B2:
+    kind: hf_local
+    model: Qwen/Qwen2.5-1.5B-Instruct
+    description: Small open model, zero-shot
+
+  B3:
+    kind: hf_local
+    model: Qwen/Qwen2.5-1.5B-Instruct
+    fewshot: true
+    description: Small open model, five worked examples in the prompt
+
+  B4:
+    kind: anthropic
+    model: claude-opus-5-5
+    # Thinking is always on for this model; effort sets how much. Medium is
+    # its default, written out so the results file records it.
+    effort: medium
+    description: Frontier API model, zero-shot (comparison only, never training data)
+
+  M1:
+    kind: hf_local
+    model: Qwen/Qwen2.5-1.5B-Instruct
+    adapter: runs/m1/final/adapter
+    description: Small open model fine-tuned with QLoRA on silver labels
+
+  # The same M1, served. Start the servers as in docs/serving.md.
+  M1-vllm:
+    kind: openai_compat
+    base_url: http://localhost:8000/v1
+    model: m1
+    # Hashed into the cache key and the results file, so a retrained
+    # adapter behind the same server name is never mistaken for the old one.
+    artifact: runs/m1/final/adapter
+    description: M1 under vLLM on a T4 (fp16)
+
+  M1-q4:
+    kind: openai_compat
+    base_url: http://localhost:8080/v1
+    model: m1-q4_k_m
+    artifact: models/m1-q4_k_m.gguf
+    description: M1 merged and quantized to 4-bit (Q4_K_M), llama.cpp on CPU
+
+# Silver labels for training. It must be an open-weight model whose license
+# allows training on its outputs (Apache-2.0 here); API models are never
+# used for this. Any OpenAI-compatible endpoint serving it works: a hosted
+# provider, or vLLM on a bigger GPU. Set base_url and export the key.
+teacher:
+  kind: openai_compat
+  model: Qwen/Qwen2.5-32B-Instruct
+  license: Apache-2.0
+  base_url: null
+  api_key_env: TEACHER_API_KEY
+
+# List prices, for cost per 1,000 posts. Check them before reporting; they
+# change.
+prices:
+  claude-opus-5-5:
+    input_per_mtok: 4.00
+    output_per_mtok: 20.00
+    source: https://platform.claude.com/docs/en/about-claude/pricing
+    as_of: 2026-10-06
+  # On-demand T4. Colab's free tier costs nothing, which would make any
+  # cost ratio meaningless, so the comparison uses what renting one costs.
+  t4_gpu_hour:
+    usd: 0.35
+    source: https://cloud.google.com/compute/gpus-pricing
+    as_of: 2026-11-05
