@@ -30,3 +30,6 @@ venv/
 *.egg-info/
 build/
 dist/
+
+# The board: built by scripts/build_board.py, published by the weekly job.
+data/board/

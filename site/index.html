@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HN Job Board</title>
+  <meta name="description" content="Recent Hacker News 'Who is hiring?' posts, with salary, remote, visa and new-grad fields extracted by a fine-tuned small model.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>HN Job Board</h1>
+      <p class="lede">Every post from the last few <a href="https://news.ycombinator.com/submitted?id=whoishiring">“Who is hiring?”</a> threads, with the fields you would filter on pulled out of the text.</p>
+    </div>
+  </header>
+
+  <main class="wrap layout">
+    <aside class="filters" aria-label="Filters">
+      <label class="field">
+        <span>Search</span>
+        <input id="q" type="search" placeholder="Company, role, place" autocomplete="off">
+      </label>
+
+      <fieldset class="field">
+        <legend>Remote</legend>
+        <div class="seg" id="remote">
+          <button type="button" data-v="" aria-pressed="true">Any</button>
+          <button type="button" data-v="yes" aria-pressed="false">Remote</button>
+          <button type="button" data-v="hybrid" aria-pressed="false">Hybrid</button>
+          <button type="button" data-v="no" aria-pressed="false">Onsite</button>
+        </div>
+      </fieldset>
+
+      <label class="check"><input id="newgrad" type="checkbox"> New grads welcome</label>
+      <label class="check"><input id="visa" type="checkbox"> Visa sponsorship offered</label>
+      <label class="check"><input id="hassalary" type="checkbox"> Lists a salary</label>
+
+      <label class="field">
+        <span>Minimum salary (USD, per year)</span>
+        <input id="minsal" type="number" min="0" step="10000" placeholder="e.g. 120000" inputmode="numeric">
+      </label>
+
+      <label class="field">
+        <span>Seniority</span>
+        <select id="seniority">
+          <option value="">Any</option>
+          <option value="intern">Intern</option>
+          <option value="new_grad">New grad / junior</option>
+          <option value="mid">Mid</option>
+          <option value="senior">Senior and above</option>
+        </select>
+      </label>
+
+      <fieldset class="field">
+        <legend>Stack <span class="hint">(all selected)</span></legend>
+        <div class="chips" id="stack"></div>
+      </fieldset>
+
+      <button type="button" class="reset" id="reset">Clear filters</button>
+    </aside>
+
+    <section aria-live="polite">
+      <div class="bar">
+        <p id="count" class="count">Loading…</p>
+        <label class="sort">Sort
+          <select id="sort">
+            <option value="new">Newest</option>
+            <option value="salary">Highest salary</option>
+          </select>
+        </label>
+      </div>
+      <ol id="jobs" class="jobs"></ol>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p id="meta"></p>
+    <p>Posts belong to their authors on <a href="https://news.ycombinator.com/">Hacker News</a>; each card links to the original. Fields are extracted automatically and can be wrong, so check the post before applying. Built by <a href="https://github.com/yougijain/cprojectllm">cprojectllm</a>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
