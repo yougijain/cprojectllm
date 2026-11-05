@@ -1,0 +1,36 @@
+# --- Project ---------------------------------------------------------------
+
+# Post text fetched from the HN API. Only post IDs are committed
+# (data/post_ids/); scripts/fetch_posts.py rebuilds this from them.
+data/raw/
+
+# Every LLM call, keyed by model, prompt and parameters, so a rerun costs
+# nothing. Local only: it holds post text and API responses.
+.cache/
+
+# Silver labels from the teacher. Rebuilt by scripts/silver_label.py from the
+# cache; the spot-check results under data/silver/spot_check* are committed.
+data/silver/*.jsonl
+
+# Training output: adapters, merged weights, GGUF files. Adapters are
+# published to the Hub or a Release, never committed.
+runs/
+models/
+*.gguf
+*.safetensors
+
+# Built board data. The weekly job publishes it to Pages.
+site/data/
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/

@@ -1,0 +1,4 @@
+# GPU serving on a T4. vLLM pins its own torch build, so install this in a
+# fresh Colab runtime rather than on top of requirements-train.txt.
+-r requirements.txt
+vllm>=0.11

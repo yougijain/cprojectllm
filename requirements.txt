@@ -1,0 +1,10 @@
+# Everything that runs on a CPU: fetching, the rules baseline, scoring,
+# statistics, the board and CI. Training and GPU serving have their own files.
+requests>=2.32
+pydantic>=2.10
+numpy>=2.0
+pyyaml>=6.0
+
+# B4, the frontier API baseline. Used for comparison only, never as a source
+# of training data.
+anthropic>=2.0

@@ -1,0 +1,10 @@
+# QLoRA fine-tuning and local zero/few-shot runs, on a Colab T4.
+# Colab ships torch with CUDA already; installing this file adds the rest.
+-r requirements.txt
+torch>=2.6
+transformers>=5.0,<6
+peft>=0.17
+trl>=1.0,<2
+bitsandbytes>=0.46
+accelerate>=1.8
+datasets>=4.0
