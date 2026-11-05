@@ -45,3 +45,8 @@ jobs:
       # quietly change what every reported number means.
       - name: Gold set unchanged since freezing
         run: python scripts/gold.py check
+
+      # The README quotes results/test_results.md. This fails if a number
+      # there was edited by hand or not regenerated.
+      - name: README matches the generated results
+        run: python scripts/sync_readme.py --check
